@@ -1,0 +1,16 @@
+[
+  {
+    "userId": 4,
+    "productId": 3,
+    "name": "Nike Sportswear Club (Navy)",
+    "price": 70,
+    "size": null
+  },
+  {
+    "userId": 4,
+    "productId": 3,
+    "name": "Nike Sportswear Club (Navy)",
+    "price": 70,
+    "size": "XL"
+  }
+]

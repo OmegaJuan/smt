@@ -1,0 +1,239 @@
+<%- include("partials/header") %>
+
+    <% const safeQuery=query || {}; const normalize=(val)=>
+        val ? (Array.isArray(val) ? val : [val]) : [];
+
+        const departments = [
+        ...new Set(
+        allProducts.flatMap(p =>
+        Array.isArray(p.department)
+        ? p.department
+        : p.department ? [p.department] : []
+        )
+        )
+        ];
+
+        const brands = [
+        ...new Set(allProducts.map(p => p.brand).filter(Boolean))
+        ];
+
+        const categories = [
+        ...new Set(allProducts.map(p => p.category).filter(Boolean))
+        ];
+        %>
+
+        <section class="shop-wrapper">
+
+            <!-- SIDEBAR -->
+            <aside class="shop-sidebar">
+
+                <!-- DEPARTMENT -->
+                <div class="filter-group">
+                    <div class="filter-header">
+                        <h4>DEPARTMENT</h4>
+                        <span class="arrow">+</span>
+                    </div>
+
+                    <div class="filter-content">
+                        <div class="filter-options">
+                            <% departments.forEach(d=> { %>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" name="department" value="<%= d %>"
+                                        <%=normalize(safeQuery.department).includes(d) ? "checked" : "" %>>
+                                    <span>
+                                        <%= d %>
+                                    </span>
+                                </label>
+                                <% }) %>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- BRAND -->
+                <div class="filter-group">
+                    <div class="filter-header">
+                        <h4>BRAND</h4>
+                        <span class="arrow">+</span>
+                    </div>
+
+                    <div class="filter-content">
+                        <input type="text" class="filter-search" placeholder="Search brand...">
+                        <div class="filter-options">
+                            <% brands.forEach(b=> { %>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" name="brand" value="<%= b %>"
+                                        <%=normalize(safeQuery.brand).includes(b) ? "checked" : "" %>>
+                                    <span>
+                                        <%= b %>
+                                    </span>
+                                </label>
+                                <% }) %>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- CATEGORY -->
+                <div class="filter-group">
+                    <div class="filter-header">
+                        <h4>CATEGORY</h4>
+                        <span class="arrow">+</span>
+                    </div>
+
+                    <div class="filter-content">
+                        <input type="text" class="filter-search" placeholder="Search category...">
+                        <div class="filter-options">
+                            <% categories.forEach(c=> { %>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" name="category" value="<%= c %>"
+                                        <%=normalize(safeQuery.category).includes(c) ? "checked" : "" %>>
+                                    <span>
+                                        <%= c %>
+                                    </span>
+                                </label>
+                                <% }) %>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- PRICE -->
+                <div class="filter-group">
+                    <div class="filter-header">
+                        <h4>PRICE</h4>
+                        <span class="arrow">+</span>
+                    </div>
+
+                    <div class="filter-content">
+                        <input type="range" id="minRange" min="0" max="5000" value="<%= safeQuery.minPrice || 0 %>">
+                        <input type="range" id="maxRange" min="0" max="5000" value="<%= safeQuery.maxPrice || 5000 %>">
+                        <input type="number" id="minPrice" placeholder="Min price"
+                            value="<%= safeQuery.minPrice || '' %>">
+                        <input type="number" id="maxPrice" placeholder="Max price"
+                            value="<%= safeQuery.maxPrice || '' %>">
+                    </div>
+                </div>
+
+            </aside>
+
+
+            <!-- MAIN -->
+            <div class="shop-main">
+
+                <div class="shop-topbar">
+                    <p id="productCount">
+                        <%= products.length %> products
+                    </p>
+
+                    <select id="sortSelect">
+                        <option value="">Sort</option>
+                        <option value="newest" <%=safeQuery.sort==="newest" ? "selected" : "" %>>Newest</option>
+                        <option value="price-asc" <%=safeQuery.sort==="price-asc" ? "selected" : "" %>>Price ↑</option>
+                        <option value="price-desc" <%=safeQuery.sort==="price-desc" ? "selected" : "" %>>Price ↓
+                        </option>
+                    </select>
+
+                    <% if (user && user.role==="admin" ) { %>
+                        <button onclick="openAdminModal()" class="admin-add-btn">
+                            + Add Product
+                        </button>
+                        <% } %>
+                </div>
+
+
+                <div class="product-grid">
+
+                    <% if (products.length===0) { %>
+                        <p>No products found.</p>
+                        <% } %>
+
+                            <% products.forEach(product=> { %>
+
+                                <div class="product-card">
+
+                                    <a href="/products/<%= product.id %>">
+                                        <img src="<%= product.images[0] %>" class="product-image" alt="">
+                                        <h3>
+                                            <%= product.name %>
+                                        </h3>
+                                        <p>$<%= product.price %>
+                                        </p>
+                                    </a>
+
+                                    <!-- DELETE FOR ADMIN -->
+                                    <% if (user && user.role==="admin" ) { %>
+                                        <form action="/products/admin/delete/<%= product.id %>" method="POST">
+                                            <button type="submit" class="admin-delete-btn"
+                                                onclick="return confirm('Delete this product?')">
+                                                Delete
+                                            </button>
+                                        </form>
+                                        <% } %>
+
+                                </div>
+
+                                <% }) %>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- expose user info for client scripts -->
+        <div id="user-data" data-logged-in="<%= !!user %>" data-user-role="<%= user ? user.role : '' %>"
+            style="display:none;"></div>
+        <script>
+            const _userDataEl = document.getElementById('user-data');
+            const IS_LOGGED_IN = _userDataEl ? (_userDataEl.dataset.loggedIn === 'true') : false;
+            const CURRENT_USER_ROLE = _userDataEl ? _userDataEl.dataset.userRole : '';
+        </script>
+
+        <script src="/js/shopFilter.js"></script>
+        <!-- ================= ADMIN MODAL ================= -->
+        <% if (user && user.role==="admin" ) { %>
+
+            <div id="adminModal" class="admin-modal">
+
+                <div class="admin-modal-content">
+
+                    <span class="close-btn" onclick="closeAdminModal()">&times;</span>
+
+                    <h2>Add New Product</h2>
+
+                    <form action="/products/admin/add" method="POST" class="admin-form">
+
+                        <input type="text" name="name" placeholder="Product Name" required>
+
+                        <input type="number" name="price" placeholder="Price" required>
+
+                        <input type="text" name="category" placeholder="Category (e.g. clothing, accessory)" required>
+
+                        <input type="text" name="brand" placeholder="Brand">
+
+                        <input type="text" name="department" placeholder="Department (men,women)">
+
+                        <input type="text" name="sizes" placeholder="Sizes (S,M,L)">
+
+                        <input type="text" name="images" placeholder="Image URLs (comma separated)" class="full">
+
+                        <textarea name="description" placeholder="Product Description" rows="4" class="full"></textarea>
+
+                        <button type="submit" class="admin-save-btn full">Save Product</button>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+            <% } %>
+
+                <script>
+                    function openAdminModal() {
+                        document.getElementById("adminModal").style.display = "flex";
+                    }
+                    function closeAdminModal() {
+                        document.getElementById("adminModal").style.display = "none";
+                    }
+                </script>
+
+                <%- include("partials/footer") %>

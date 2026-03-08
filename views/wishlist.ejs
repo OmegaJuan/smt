@@ -1,0 +1,94 @@
+<%- include("partials/header") %>
+
+    <section class="wishlist-page">
+
+        <h1 class="wishlist-title">Your Wishlist</h1>
+
+        <% if (!wishlist || wishlist.length===0) { %>
+
+            <div class="wishlist-empty">
+                <p>No items in your wishlist yet.</p>
+                <a href="/products/shop" class="shop-btn">Browse Products</a>
+            </div>
+
+            <% } else { %>
+
+                <div class="wishlist-container">
+
+                    <% wishlist.forEach(product=> { %>
+
+                        <div class="wishlist-card">
+
+                            <% var image=(product.images && product.images.length> 0)
+                                ? product.images[0]
+                                : product.image;
+                                %>
+
+                                <img src="<%= image %>" alt="<%= product.name %>" class="wishlist-image">
+
+                                <div class="wishlist-info">
+                                    <h3 class="wishlist-name">
+                                        <%= product.name %>
+                                    </h3>
+
+                                    <p class="wishlist-price">$<%= product.price %>
+                                    </p>
+
+                                    <% if(product.selectedSize){ %>
+                                        <p class="wishlist-size">Size: <%= product.selectedSize %>
+                                        </p>
+                                        <% } %>
+                                </div>
+
+                                <div class="wishlist-actions">
+
+                                    <a href="/products/<%= product.id %>" class="view-btn">
+                                        View
+                                    </a>
+
+                                    <% if(product.selectedSize){ %>
+
+                                        <form action="/cart/add/<%= product.id %>" method="POST"
+                                            class="wishlist-add-cart">
+                                            <input type="hidden" name="size" value="<%= product.selectedSize %>">
+                                            <input type="hidden" name="quantity" value="1">
+
+                                            <button class="cart-btn">
+                                                Add to Cart
+                                            </button>
+                                        </form>
+
+                                        <% } else { %>
+
+                                            <a href="/products/<%= product.id %>" class="select-size-btn">
+                                                Select Size
+                                            </a>
+
+                                            <% } %>
+
+                                                <!-- REMOVE BUTTON -->
+                                                <form action="/wishlist/remove" method="POST">
+
+                                                    <input type="hidden" name="productId" value="<%= product.id %>">
+
+                                                    <input type="hidden" name="size"
+                                                        value="<%= product.selectedSize || '' %>">
+
+                                                    <button class="remove-btn">
+                                                        Remove
+                                                    </button>
+
+                                                </form>
+
+                                </div>
+
+                        </div>
+
+                        <% }) %>
+
+                </div>
+
+                <% } %>
+
+    </section>
+    <%- include("partials/footer") %>

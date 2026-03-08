@@ -1,0 +1,57 @@
+<%- include("partials/header") %>
+
+<link rel="stylesheet" href="/css/checkout.css">
+
+<div class="checkout-container">
+
+  <h1 class="checkout-title">Checkout</h1>
+
+  <form class="checkout-form" action="/orders/checkout" method="POST">
+
+  <div class="form-group">
+    <label>Name</label>
+    <input type="text" name="name" required>
+  </div>
+
+  <div class="form-group">
+    <label>Address</label>
+    <textarea name="address" rows="4" required></textarea>
+  </div>
+
+  <div class="form-group">
+    <label>Phone Number</label>
+    <input 
+      type="tel"
+      name="phone"
+      pattern="[0-9]{9,10}"
+      maxlength="10"
+      required
+    >
+  </div>
+
+  <div class="form-group">
+    <label>Payment Method</label>
+    <select name="payment">
+      <option value="card">Credit Card</option>
+      <option value="bank">Bank Transfer</option>
+      <option value="cod">Cash on Delivery</option>
+    </select>
+  </div>
+
+  <button type="submit" class="confirm-btn">
+    Confirm Payment
+  </button>
+
+</form>
+</div>
+
+
+
+<!-- Prevent letters in phone -->
+<script>
+document.querySelector('input[name="phone"]').addEventListener('input', function () {
+    this.value = this.value.replace(/[^0-9]/g, '');
+});
+</script>
+
+<%- include("partials/footer") %>

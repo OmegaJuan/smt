@@ -1,0 +1,3925 @@
+[
+  {
+    "id": 1,
+    "name": "Dri-FIT Max90 (Black)",
+    "price": 55,
+    "category": "Shirts",
+    "brand": "Nike",
+    "department": "men",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "isNew": true,
+    "images": [
+      "https://static.nike.com/a/images/w_1280,q_auto,f_auto/8822043e-4f8a-4bba-b9d0-9cf63f2ec952/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7-kobe-apparel-collection.jpg",
+      "https://static.nike.com/a/images/w_1280,q_auto,f_auto/b61812bb-984b-4ace-a8d4-816b7409db16/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7-kobe-apparel-collection.jpg",
+      "https://static.nike.com/a/images/w_1280,q_auto,f_auto/643a3111-10d0-497c-9fbb-af1e5e010bb9/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7-kobe-apparel-collection.jpg",
+      "https://static.nike.com/a/images/w_1280,q_auto,f_auto/bbe4525c-8a3a-4743-a53a-dd3a8c410f72/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7-kobe-apparel-collection.jpg"
+    ],
+    "description": "This Dri-FIT Max90 t-shirt celebrates Kobe's countless accomplishments and the victories he helped his team secure in one of the biggest mid-season games in the league."
+  },
+  {
+    "id": 2,
+    "name": "Dri-FIT Max90 (White)",
+    "price": 55,
+    "category": "Shirts",
+    "brand": "Nike",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://static.nike.com/a/images/w_1280,q_auto,f_auto/4e37d4e8-5420-4470-9a09-f7ff82a52a29/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7-kobe-apparel-collection.jpg",
+      "https://static.nike.com/a/images/w_1280,q_auto,f_auto/e2328e99-01d4-4b89-8580-c9c254e4a291/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7-kobe-apparel-collection.jpg",
+      "https://static.nike.com/a/images/w_1280,q_auto,f_auto/26ff638d-9c04-486b-9d9d-2a4cc760d210/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7-kobe-apparel-collection.jpg",
+      "https://static.nike.com/a/images/w_1280,q_auto,f_auto/2974de39-62f0-47c9-8e38-e9bb05cc3003/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7-kobe-apparel-collection.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "This Dri-FIT Max90 t-shirt celebrates Kobe's countless accomplishments and the victories he helped his team secure in one of the biggest mid-season games in the league.",
+    "isNew": true
+  },
+  {
+    "id": 3,
+    "name": "Nike Sportswear Club (Navy)",
+    "price": 70,
+    "category": "Shirts",
+    "brand": "Nike",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bd9a642a-1629-4884-8073-3f215bd9cb91/AS+M+NK+CLUB+OS+STRIPE+POLO.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/382baad0-ce2d-4dc4-99f6-38244cbadfde/AS+M+NK+CLUB+OS+STRIPE+POLO.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9b109387-8da4-4e83-88a0-273f0f8d04f9/AS+M+NK+CLUB+OS+STRIPE+POLO.png"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Classic style meets Club comfort. This modern jacquard polo shirt features dropped shoulders and an extra-loose fit. The soft cotton fabric is perfect for everyday wear.\n - Embroidered logo\n - Ribbed collar\n - 100% Cotton\n - Machine washable\n - Imported\n - Country/Region of manufacture: Vietnam",
+    "isNew": true
+  },
+  {
+    "id": 4,
+    "name": "Nike Sportswear Club (Grey)",
+    "price": 70,
+    "category": "Shirts",
+    "brand": "Nike",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/f92f3b7d-c9bb-49af-8f92-227d22da4134/AS+M+NK+CLUB+OS+STRIPE+POLO.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/847b6864-40ec-488c-a526-f16387fca842/AS+M+NK+CLUB+OS+STRIPE+POLO.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/38f76d7f-b0ea-4bf9-8a6b-a144bf8b2c98/AS+M+NK+CLUB+OS+STRIPE+POLO.png"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Classic style meets Club comfort. This modern jacquard polo shirt features dropped shoulders and an extra-loose fit. The soft cotton fabric is perfect for everyday wear.\n - Embroidered logo\n - Ribbed collar\n - 100% Cotton\n - Machine washable\n - Imported\n - Country/Region of manufacture: Vietnam",
+    "isNew": true
+  },
+  {
+    "id": 5,
+    "name": "Nike Sportswear Club (White)",
+    "price": 70,
+    "category": "Shirts",
+    "brand": "Nike",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/931625a6-6bba-4238-82b7-98a32e669b77/AS+M+NK+CLUB+OS+STRIPE+POLO.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e4d54163-5258-409a-817c-d966eeab30f9/AS+M+NK+CLUB+OS+STRIPE+POLO.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05a6290d-77e2-4026-883b-40f6413c5171/AS+M+NK+CLUB+OS+STRIPE+POLO.png"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Classic style meets Club comfort. This modern jacquard polo shirt features dropped shoulders and an extra-loose fit. The soft cotton fabric is perfect for everyday wear.\n - Embroidered logo\n - Ribbed collar\n - 100% Cotton\n - Machine washable\n - Imported\n - Country/Region of manufacture: Vietnam",
+    "isNew": true
+  },
+  {
+    "id": 6,
+    "name": "Air Jordan 9 Retro (Black)",
+    "price": 239,
+    "category": "Shoes",
+    "brand": "Nike",
+    "sizes": [
+      "US 5",
+      "US 5.5",
+      "US 6",
+      "US 6.5",
+      "US 7",
+      "US 7.5",
+      "US 8",
+      "US 8.5",
+      "US 9",
+      "US 9.5",
+      "US 10"
+    ],
+    "images": [
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/50bebfdd-9ac1-4059-ba0a-5dfc4c980687/AIR+JORDAN+9+RETRO+BOOT+NRG.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f7f4bc13-a00e-4383-9a9e-205933935101/AIR+JORDAN+9+RETRO+BOOT+NRG.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/89b1043c-7221-4c75-a124-476e486516f6/AIR+JORDAN+9+RETRO+BOOT+NRG.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/00e69d8e-1a69-4af9-9ef6-e25507a297ee/AIR+JORDAN+9+RETRO+BOOT+NRG.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a0203ca8-6e5e-4a9e-8119-f15921e40bd7/AIR+JORDAN+9+RETRO+BOOT+NRG.png"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "The Air Jordan 9 Retro boots combine elements from the Special Field boots and MJ's signature 9th racing shoe, designed by Tinker Hatfield and released in 1993. The durable design is built to withstand harsh weather conditions without compromising its classic appeal. The upper features durable leather, a textile-lined tongue, metal eyelets, and a thick tread. Air Zoom cushioning in the heel and forefoot provides soft bounce and buffers impact between the foot and the ground.\n- Upper made of leather, textile, and plastic\n- Molded foam insole\n- Round laces\n- Heel pull tab\n- Not intended for use as personal protective equipment (PPE)\n- Country/Region of manufacture: China",
+    "isNew": true
+  },
+  {
+    "id": 7,
+    "name": "Air Jordan 9 Retro (Brown)",
+    "price": 239,
+    "category": "Shoes",
+    "brand": "Nike",
+    "sizes": [
+      "US 5",
+      "US 5.5",
+      "US 6",
+      "US 6.5",
+      "US 7",
+      "US 7.5",
+      "US 8",
+      "US 8.5",
+      "US 9",
+      "US 9.5",
+      "US 10"
+    ],
+    "images": [
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/xyhkgwedt0m2depq5ffe/AIR+JORDAN+9+RETRO+BOOT+NRG.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ij0bbd9amflgimdhp7lp/AIR+JORDAN+9+RETRO+BOOT+NRG.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/pkukbqxfur3mrhluoyo0/AIR+JORDAN+9+RETRO+BOOT+NRG.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/lz1jybdrq2c9affueosh/AIR+JORDAN+9+RETRO+BOOT+NRG.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ph6t03hbsjdcukomiii5/AIR+JORDAN+9+RETRO+BOOT+NRG.png"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "The Air Jordan 9 Retro boots combine elements from the Special Field boots and MJ's signature 9th racing shoe, designed by Tinker Hatfield and released in 1993. The durable design is built to withstand harsh weather conditions without compromising its classic appeal. The upper features durable leather, a textile-lined tongue, metal eyelets, and a thick tread. Air Zoom cushioning in the heel and forefoot provides soft bounce and buffers impact between the foot and the ground.\n- Upper made of leather, textile, and plastic\n- Molded foam insole\n- Round laces\n- Heel pull tab\n- Not intended for use as personal protective equipment (PPE)\n- Country/Region of manufacture: China",
+    "isNew": true
+  },
+  {
+    "id": 8,
+    "name": "Air max Dn8 leather (White)",
+    "price": 235,
+    "category": "Shoes",
+    "brand": "Nike",
+    "sizes": [
+      "US M 6 / W 7.5",
+      "US M 6.5 / W 8",
+      "US M 7 / W 8.5",
+      "US M 7.5 / W 9",
+      "US M 8 / W 9.5",
+      "US M 8.5 / W 10",
+      "US M 9 / W 10.5",
+      "US M 9.5 / W 11",
+      "US M 10 / W 11.5",
+      "US M 10.5 / W 12"
+    ],
+    "images": [
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/a7669850-83c6-425a-b5da-027cce722c54/AIR+MAX+DN8+LTHR.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/cb6ea76e-83bf-4e04-9825-e5f2b341bd01/AIR+MAX+DN8+LTHR.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/ebe2a363-7a33-46e3-8ce1-f4e8f870d223/AIR+MAX+DN8+LTHR.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/31a21c82-c3c0-47d9-b0cb-b7ce73d379ac/AIR+MAX+DN8+LTHR.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/731eef90-602d-4ce7-99c5-0b6520fde63f/AIR+MAX+DN8+LTHR.png"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "More Air, Less Bulk. The Dn8 takes our Dynamic Air system and miniaturizes it, packing it into a wide, slim, sleek package. This pair features eight pressurized Air tubes for agile responsiveness with every step. Experience surreal movement.\n- Foam midsole\n- Rubber outsole\n- Country/Region of manufacture: Vietnam",
+    "isNew": true
+  },
+  {
+    "id": 9,
+    "name": "Air max Dn8 leather (Brown)",
+    "price": 235,
+    "category": "Shoes",
+    "brand": "Nike",
+    "sizes": [
+      "US M 6 / W 7.5",
+      "US M 6.5 / W 8",
+      "US M 7 / W 8.5",
+      "US M 7.5 / W 9",
+      "US M 8 / W 9.5",
+      "US M 8.5 / W 10",
+      "US M 9 / W 10.5",
+      "US M 9.5 / W 11",
+      "US M 10 / W 11.5",
+      "US M 10.5 / W 12"
+    ],
+    "images": [
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/706dd7a7-2c39-4ae1-8a3d-09a7e31b8dad/AIR+MAX+DN8+LTHR.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/107d1044-e497-46f6-aad0-36f4fbe00145/AIR+MAX+DN8+LTHR.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6a077b01-6c2f-40cd-a59b-c036acf978b7/AIR+MAX+DN8+LTHR.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/0c0fc96f-3a13-4f35-b210-bbaca9af5371/AIR+MAX+DN8+LTHR.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/588f76f3-59bd-4bbf-b61d-1e07e93b2566/AIR+MAX+DN8+LTHR.png"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "More Air, Less Bulk. The Dn8 takes our Dynamic Air system and miniaturizes it, packing it into a wide, slim, sleek package. This pair features eight pressurized Air tubes for agile responsiveness with every step. Experience surreal movement.\n- Foam midsole\n- Rubber outsole\n- Country/Region of manufacture: Vietnam",
+    "isNew": true
+  },
+  {
+    "id": 10,
+    "name": "Air max Dn8 leather (Black)",
+    "price": 235,
+    "category": "Shoes",
+    "brand": "Nike",
+    "sizes": [
+      "US M 6 / W 7.5",
+      "US M 6.5 / W 8",
+      "US M 7 / W 8.5",
+      "US M 7.5 / W 9",
+      "US M 8 / W 9.5",
+      "US M 8.5 / W 10",
+      "US M 9 / W 10.5",
+      "US M 9.5 / W 11",
+      "US M 10 / W 11.5",
+      "US M 10.5 / W 12"
+    ],
+    "images": [
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/828496a5-4bde-4011-89cb-769b6d035ace/AIR+MAX+DN8+LTHR.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/346fb999-c604-4f7a-b77e-a5cf120a029c/AIR+MAX+DN8+LTHR.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/5ef4da8f-9f2c-48f7-a44e-a5dbf2b1a19e/AIR+MAX+DN8+LTHR.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/6dd976f8-c3f5-4d48-bb0e-356d8109b94d/AIR+MAX+DN8+LTHR.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/74b6511a-b490-482e-84c4-579abc822a26/AIR+MAX+DN8+LTHR.png"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "More Air, Less Bulk. The Dn8 takes our Dynamic Air system and miniaturizes it, packing it into a wide, slim, sleek package. This pair features eight pressurized Air tubes for agile responsiveness with every step. Experience surreal movement.\n- Foam midsole\n- Rubber outsole\n- Country/Region of manufacture: Vietnam",
+    "isNew": true
+  },
+  {
+    "id": 11,
+    "name": "Air Max Plus VII (Black)",
+    "price": 200,
+    "category": "Shoes",
+    "brand": "Nike",
+    "sizes": [
+      "US 6",
+      "US 6.5",
+      "US 7",
+      "US 7.5",
+      "US 8",
+      "US 8.5",
+      "US 9",
+      "US 9.5",
+      "US 10",
+      "US 10.5",
+      "US 11",
+      "US 11.5",
+      "US 12",
+      "US 12.5",
+      "US 13"
+    ],
+    "images": [
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f052343f-2b65-47c3-9ae5-ceccf6845390/NIKE+AIR+MAX+PLUS+VII.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ff7d04fa-c4b3-4d86-accf-ded2defbf1e3/NIKE+AIR+MAX+PLUS+VII.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b2ee4f9d-4882-442f-83c4-f537863b8dc1/NIKE+AIR+MAX+PLUS+VII.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1e5d4cb9-2335-4cf0-90d4-32e6a6755480/NIKE+AIR+MAX+PLUS+VII.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8c6919d1-db1f-4c94-a36f-ae88fee8c1ef/NIKE+AIR+MAX+PLUS+VII.png"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "Unleash superior style with Air Max Plus. The signature wave-patterned overlay adds a fiery touch to your look, while the breathable mesh keeps your feet cool. Visible cushioning lets you celebrate daring style in comfortable wear.\n- Mesh upper with synthetic leather accents is durable and breathable.\n- Midfoot arch support provides a supportive feel.\n- Nike Air cushioning provides lightweight cushioning.\n- Rubber outsole provides durable traction.\nCountry/Region of manufacture: Vietnam",
+    "isNew": true
+  },
+  {
+    "id": 12,
+    "name": "Air Max Plus VII (Red)",
+    "price": 200,
+    "category": "Shoes",
+    "brand": "Nike",
+    "sizes": [
+      "US 6",
+      "US 6.5",
+      "US 7",
+      "US 7.5",
+      "US 8",
+      "US 8.5",
+      "US 9",
+      "US 9.5",
+      "US 10",
+      "US 10.5",
+      "US 11",
+      "US 11.5",
+      "US 12",
+      "US 12.5",
+      "US 13"
+    ],
+    "images": [
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/153f5bc5-d217-41ed-a8c6-d028adae6e9c/NIKE+AIR+MAX+PLUS+VII.png.",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e53627bf-5c2e-4ac5-ab95-3e448517f367/NIKE+AIR+MAX+PLUS+VII.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b645d071-460e-458f-9a1b-651ec20b212d/NIKE+AIR+MAX+PLUS+VII.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2872a08b-6560-4778-b936-bec109641eae/NIKE+AIR+MAX+PLUS+VII.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8166b369-350f-4ecf-ba8a-7b4fbe233786/NIKE+AIR+MAX+PLUS+VII.png"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "Unleash superior style with Air Max Plus. The signature wave-patterned overlay adds a fiery touch to your look, while the breathable mesh keeps your feet cool. Visible cushioning lets you celebrate daring style in comfortable wear.\n- Mesh upper with synthetic leather accents is durable and breathable.\n- Midfoot arch support provides a supportive feel.\n- Nike Air cushioning provides lightweight cushioning.\n- Rubber outsole provides durable traction.\nCountry/Region of manufacture: Vietnam",
+    "isNew": true
+  },
+  {
+    "id": 13,
+    "name": "Air Max Plus VII (White)",
+    "price": 200,
+    "category": "Shoes",
+    "brand": "Nike",
+    "sizes": [
+      "US 6",
+      "US 6.5",
+      "US 7",
+      "US 7.5",
+      "US 8",
+      "US 8.5",
+      "US 9",
+      "US 9.5",
+      "US 10",
+      "US 10.5",
+      "US 11",
+      "US 11.5",
+      "US 12",
+      "US 12.5",
+      "US 13"
+    ],
+    "images": [
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/863df1ad-e739-459b-a879-4c2c878ec442/NIKE+AIR+MAX+PLUS+VII.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e786f21d-d3fc-45e6-9183-4859dde1f121/NIKE+AIR+MAX+PLUS+VII.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ce5d8252-18fc-4cea-ba62-f535d8f143aa/NIKE+AIR+MAX+PLUS+VII.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2f8e169e-aafa-4a30-87dc-5346463a614d/NIKE+AIR+MAX+PLUS+VII.png",
+      "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3ee60d41-e845-48b5-9ba2-f8b8c3d0d3ce/NIKE+AIR+MAX+PLUS+VII.png"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "Unleash superior style with Air Max Plus. The signature wave-patterned overlay adds a fiery touch to your look, while the breathable mesh keeps your feet cool. Visible cushioning lets you celebrate daring style in comfortable wear.\n- Mesh upper with synthetic leather accents is durable and breathable.\n- Midfoot arch support provides a supportive feel.\n- Nike Air cushioning provides lightweight cushioning.\n- Rubber outsole provides durable traction.\nCountry/Region of manufacture: Vietnam",
+    "isNew": true
+  },
+  {
+    "id": 14,
+    "name": "3xl split logo Sneaker (Eggshell/Red/Navy)",
+    "price": 1299,
+    "category": "Shoes",
+    "brand": "Balenciaga",
+    "sizes": [
+      "US 6",
+      "US 7",
+      "US 8",
+      "US 9",
+      "US 10",
+      "US 11",
+      "US 12",
+      "US 13"
+    ],
+    "images": [
+      "https://balenciaga.dam.kering.com/asset/b98764aa-9a10-4596-972a-b8b6e3b6cf51/eCom/840090W3XSG9161_F.jpg?v=1",
+      "https://balenciaga.dam.kering.com/asset/a7220a26-10d1-4d91-a837-07ee9f0ea580/eCom/840090W3XSG9161_I.jpg?v=1",
+      "https://balenciaga.dam.kering.com/asset/5339270c-e829-41b1-9343-d537bca0d604/eCom/840090W3XSG9161_L.jpg?v=1",
+      "https://balenciaga.dam.kering.com/asset/d44d2d34-90a4-4597-8db3-390e2a0784e9/eCom/840090W3XSG9161_D.jpg?v=1",
+      "https://balenciaga.dam.kering.com/asset/82283b19-a123-496d-b381-a08a2d5eee4b/eCom/840090W3XSG9161_E.jpg?v=1",
+      "https://balenciaga.dam.kering.com/asset/ce8289e7-22f4-4b09-8e5e-ec3208af4821/eCom/840090W3XSG9161_A.jpg?v=1"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "• Polyurethane and polyester\n• Sneaker\n• Worn-out effect\n• Split artwork printed on the exterior\n• Balenciaga logo at the edge of the toe and at back\n• Printed size on the upper and at the back of the heel\n• 3XL branding printed on the tongue\n• Back and tongue pull-on tab with reflective detail\n• Caution: extra laces are tied around the shoes for styling purpose and should be removed before use\n• Made in China\n- Upper: polyurethane, polyester \n- Sole: rubber, EVA \n- Insole: foam",
+    "isNew": true
+  },
+  {
+    "id": 15,
+    "name": "3xl split logo Sneaker (White/Navy/Grey)",
+    "price": 1299,
+    "category": "Shoes",
+    "brand": "Balenciaga",
+    "sizes": [
+      "US 6",
+      "US 7",
+      "US 8",
+      "US 9",
+      "US 10",
+      "US 11",
+      "US 12",
+      "US 13"
+    ],
+    "images": [
+      "https://balenciaga.dam.kering.com/asset/e2fd70be-9425-446e-8370-5cd365b394f4/eCom/840090W3XSG9239_F.jpg?v=2",
+      "https://balenciaga.dam.kering.com/asset/87a6ca90-d393-4470-8660-191542eef9cc/eCom/840090W3XSG9239_I.jpg?v=2",
+      "https://balenciaga.dam.kering.com/asset/5c5738d9-7291-4a0f-8773-513d26f97901/eCom/840090W3XSG9239_L.jpg?v=2",
+      "https://balenciaga.dam.kering.com/asset/160ceaaa-13d8-47d0-b007-8d446b351c16/eCom/840090W3XSG9239_D.jpg?v=2",
+      "https://balenciaga.dam.kering.com/asset/ef7c1f1c-0ec4-4267-b9b6-a8856cc4c9e1/eCom/840090W3XSG9239_E.jpg?v=2",
+      "https://balenciaga.dam.kering.com/asset/aa109646-aeab-459d-940e-9f13208743dc/eCom/840090W3XSG9239_A.jpg?v=2"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "• Polyurethane and polyester\n• Sneaker\n• Worn-out effect\n• Split artwork printed on the exterior\n• Balenciaga logo at the edge of the toe and at back\n• Printed size on the upper and at the back of the heel\n• 3XL branding printed on the tongue\n• Back and tongue pull-on tab with reflective detail\n• Caution: extra laces are tied around the shoes for styling purpose and should be removed before use\n• Made in China\n- Upper: polyurethane, polyester \n- Sole: rubber, EVA \n- Insole: foam",
+    "isNew": true
+  },
+  {
+    "id": 16,
+    "name": "Runner Gradient Sneaker (Navy/Red/Grey)",
+    "price": 1269,
+    "category": "Shoes",
+    "brand": "Balenciaga",
+    "sizes": [
+      "US 6",
+      "US 7",
+      "US 8",
+      "US 9",
+      "US 10",
+      "US 11",
+      "US 12",
+      "US 13"
+    ],
+    "images": [
+      "https://balenciaga.dam.kering.com/m/6a360fddd69ccda1/eCom-772774WRUNG4610_F.jpg?v=2",
+      "https://balenciaga.dam.kering.com/m/17c291169bd92a94/eCom-772774WRUNG4610_I.jpg?v=2",
+      "https://balenciaga.dam.kering.com/m/743d514128d1a35d/eCom-772774WRUNG4610_L.jpg?v=2",
+      "https://balenciaga.dam.kering.com/m/5072d4d32084f8f1/eCom-772774WRUNG4610_D.jpg?v=2",
+      "https://balenciaga.dam.kering.com/m/4fbb8e8fb9349523/eCom-772774WRUNG4610_E.jpg?v=2",
+      "https://balenciaga.dam.kering.com/m/cef9ef39ba2e9a4/eCom-772774WRUNG4610_A.jpg?v=2"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "• Leather free\n• Sneaker\n• Polyurethane and polyester\n• Worn-out effect\n• Printed size at the edge of the toe\n• Debossed size at back\n• Runner logo printed on exterior\n• Balenciaga logo embroidered on the tongue\n• Balenciaga logo at the back of the heel\n• Back pull-on tab\n• Made in China\n- Upper: polyurethane, polyester \n- Sole: rubber, TPU, EVA, polyurethane \n- Insole: foam",
+    "isNew": true
+  },
+  {
+    "id": 17,
+    "name": "Runner Gradient Sneaker (Grey/Red/Black)",
+    "price": 1269,
+    "category": "Shoes",
+    "brand": "Balenciaga",
+    "sizes": [
+      "US 6",
+      "US 7",
+      "US 8",
+      "US 9",
+      "US 10",
+      "US 11",
+      "US 12",
+      "US 13"
+    ],
+    "images": [
+      "https://balenciaga.dam.kering.com/asset/23154fe3-601f-453b-85a6-6d907026e334/eCom/772774WRUNG1161_F.jpg?v=2",
+      "https://balenciaga.dam.kering.com/asset/fec5b74c-9bcc-499a-886a-b867d33de840/eCom/772774WRUNG1161_L.jpg?v=2",
+      "https://balenciaga.dam.kering.com/asset/3240f226-9ccc-4219-a57c-eb773cdb35b5/eCom/772774WRUNG1161_E.jpg?v=2",
+      "https://balenciaga.dam.kering.com/asset/0b601db1-c3b7-4abf-9ac3-48f616c7d865/eCom/772774WRUNG1161_A.jpg?v=2",
+      "https://balenciaga.dam.kering.com/asset/bf53af81-6204-4333-947e-d8e2aded89b6/eCom/772774WRUNG1161_D.jpg?v=2"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "• Leather free\n• Sneaker\n• Polyurethane and polyester\n• Worn-out effect\n• Printed size at the edge of the toe\n• Debossed size at back\n• Runner logo printed on exterior\n• Balenciaga logo embroidered on the tongue\n• Balenciaga logo at the back of the heel\n• Back pull-on tab\n• Made in China\n- Upper: polyurethane, polyester \n- Sole: rubber, TPU, EVA, polyurethane \n- Insole: foam",
+    "isNew": true
+  },
+  {
+    "id": 18,
+    "name": "Track Sneaker (White/Orange)",
+    "price": 1200,
+    "category": "Shoes",
+    "brand": "Balenciaga",
+    "sizes": [
+      "US 6",
+      "US 7",
+      "US 8",
+      "US 9",
+      "US 10",
+      "US 11",
+      "US 12",
+      "US 13"
+    ],
+    "images": [
+      "https://balenciaga.dam.kering.com/m/46c6394fe0296ddb/eCom-542023W1GB19059_F.jpg?v=6",
+      "https://balenciaga.dam.kering.com/m/bacd0010b3a41e7/eCom-542023W1GB19059_I.jpg?v=6",
+      "https://balenciaga.dam.kering.com/m/3f86783fc5acdd6c/eCom-542023W1GB19059_D.jpg?v=6",
+      "https://balenciaga.dam.kering.com/m/3914be5216450575/eCom-542023W1GB19059_E.jpg?v=7",
+      "https://balenciaga.dam.kering.com/m/485f90fc81f865cd/eCom-542023W1GB19059_A.jpg?v=3"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "• Leather free\n• Sneaker\n• Mesh and nylon\n• Written size at the edge of the toe\n• Track embossed at the back of the heel\n• BB embossed on front of the outsole\n• Printed logo on the exterior\n• Embossed logo on the tongue\n• Double laces knotted in a usual equipment way\n• Back and tongue pull-on tab\n• Dynamic sole design with an augmented back for more comfort\n• 1 additional pair of laces included\n• 50mm arch\n• Washed effect for a well-worn look\n• Made in China\n- Upper: polyurethane, polyester, nylon \n- Sole: rubber, EVA, TPU \n- Insole: ge",
+    "isNew": true
+  },
+  {
+    "id": 19,
+    "name": "Track Sneaker (Black)",
+    "price": 1200,
+    "category": "Shoes",
+    "brand": "Balenciaga",
+    "sizes": [
+      "US 6",
+      "US 7",
+      "US 8",
+      "US 9",
+      "US 10",
+      "US 11",
+      "US 12",
+      "US 13"
+    ],
+    "images": [
+      "https://balenciaga.dam.kering.com/m/3ec5c33fb1336f8a/eCom-542023W1GB11000_F.jpg?v=7",
+      "https://balenciaga.dam.kering.com/m/2b7196af0403a968/eCom-542023W1GB11000_I.jpg?v=7",
+      "https://balenciaga.dam.kering.com/m/7b927abd7a13941f/eCom-542023W1GB11000_L.jpg?v=2",
+      "https://balenciaga.dam.kering.com/m/4b9783d68cbcfc6a/Medium-542023W1GB11000_D.jpg?v=8",
+      "https://balenciaga.dam.kering.com/m/45e002bf6099193c/eCom-542023W1GB11000_E.jpg?v=7",
+      "https://balenciaga.dam.kering.com/m/529b87d77aee4d39/eCom-542023W1GB11000_A.jpg?v=5"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "• Leather free\n• Sneaker\n• Mesh and nylon\n• Written size at the edge of the toe\n• Track embossed at the back of the heel\n• BB embossed on front of the outsole\n• Printed logo on the exterior\n• Embossed logo on the tongue\n• Double laces knotted in a usual equipment way\n• Back and tongue pull-on tab\n• Dynamic sole design with an augmented back for more comfort\n• 1 additional pair of laces included\n• 50mm arch\n• Washed effect for a well-worn look\n• Made in China\n- Upper: polyurethane, polyester, nylon \n- Sole: rubber, EVA, TPU \n- Insole: ge",
+    "isNew": true
+  },
+  {
+    "id": 20,
+    "name": "Track Sneaker (White)",
+    "price": 1200,
+    "category": "Shoes",
+    "brand": "Balenciaga",
+    "sizes": [
+      "US 6",
+      "US 7",
+      "US 8",
+      "US 9",
+      "US 10",
+      "US 11",
+      "US 12",
+      "US 13"
+    ],
+    "images": [
+      "https://balenciaga.dam.kering.com/m/2aa3a0a429e745c3/eCom-542023W1GB19000_F.jpg?v=8",
+      "https://balenciaga.dam.kering.com/m/332810b64343de0/eCom-542023W1GB19000_L.jpg?v=4",
+      "https://balenciaga.dam.kering.com/m/532b69db3b71c641/Medium-542023W1GB19000_A.jpg?v=8",
+      "https://balenciaga.dam.kering.com/m/3ed3275e7012e4c7/eCom-542023W1GB19000_E.jpg?v=8",
+      "https://balenciaga.dam.kering.com/m/643734568fa77be6/eCom-542023W1GB19000_D.jpg?v=9",
+      "https://balenciaga.dam.kering.com/m/63a77f3e148690c4/eCom-542023W1GB19000_I.jpg?v=8"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "• Leather free\n• Sneaker\n• Mesh and nylon\n• Written size at the edge of the toe\n• Track embossed at the back of the heel\n• BB embossed on front of the outsole\n• Printed logo on the exterior\n• Embossed logo on the tongue\n• Double laces knotted in a usual equipment way\n• Back and tongue pull-on tab\n• Dynamic sole design with an augmented back for more comfort\n• 1 additional pair of laces included\n• 50mm arch\n• Washed effect for a well-worn look\n• Made in China\n- Upper: polyurethane, polyester, nylon \n- Sole: rubber, EVA, TPU \n- Insole: ge",
+    "isNew": true
+  },
+  {
+    "id": 21,
+    "name": "Triple S.2 Sneaker (Black/dark Grey)",
+    "price": 1100,
+    "category": "Shoes",
+    "brand": "Balenciaga",
+    "sizes": [
+      "US 6",
+      "US 7",
+      "US 8",
+      "US 9",
+      "US 10",
+      "US 11",
+      "US 12",
+      "US 13"
+    ],
+    "images": [
+      "https://balenciaga.dam.kering.com/asset/a9a87f9e-0561-4c8f-9e47-5642e6abf7d0/Medium/865849WTRS21011_F.jpg?v=3",
+      "https://balenciaga.dam.kering.com/asset/0139167f-de03-4a91-b1ab-2165906957d6/Medium/865849WTRS21011_D.jpg?v=3",
+      "https://balenciaga.dam.kering.com/asset/ccc7bd73-7f99-40aa-af4c-0d4771cf5ccb/Medium/865849WTRS21011_E.jpg?v=3",
+      "https://balenciaga.dam.kering.com/asset/bdfff940-a29e-4e7a-bccd-392fad52df64/Medium/865849WTRS21011_A.jpg?v=3"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "-Leather free\n-Sneaker\n-Polyurethane and polyester\n-Worn-out effect\n-Complex 3-layered outsole\n-Printed 3B sports icon artwork at the edge of the toe\n-Printed Balenciaga logo on the front\n-Embossed and printed Balenciaga logo on the side\n-Balenciaga logo debossed in the back\n-Written size at the back of the heel\n-Triple S.2 rubber branding on the tongue\n-Lacing system featuring 9 fabric eyelets\n-Bicolor laces recalling hiking boots’ laces\nBack pull-on tab\n-Made in China\n-Upper: polyurethane, polyester \n- Sole: TPU \n- Insole: foam",
+    "isNew": true
+  },
+  {
+    "id": 22,
+    "name": "Triple S.2 Sneaker (Grey/Green)",
+    "price": 1100,
+    "category": "Shoes",
+    "brand": "Balenciaga",
+    "sizes": [
+      "US 6",
+      "US 7",
+      "US 8",
+      "US 9",
+      "US 10",
+      "US 11",
+      "US 12",
+      "US 13"
+    ],
+    "images": [
+      "https://balenciaga.dam.kering.com/asset/8beaa946-c691-4dd5-9af9-752d45ee7a00/Medium/865849WTRS21133_F.jpg?v=3",
+      "https://balenciaga.dam.kering.com/asset/85edd333-9f60-4a9f-a8ba-f15775589837/Medium/865849WTRS21133_L.jpg?v=3",
+      "https://balenciaga.dam.kering.com/asset/e240bc20-2323-4987-b62a-79c68abee6d9/Medium/865849WTRS21133_E.jpg?v=3",
+      "https://balenciaga.dam.kering.com/asset/c0d028cb-a0b0-478d-aeaf-18668a82f764/Medium/865849WTRS21133_A.jpg?v=3"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "-Leather free\n-Sneaker\n-Polyurethane and polyester\n-Worn-out effect\n-Complex 3-layered outsole\n-Printed 3B sports icon artwork at the edge of the toe\n-Printed Balenciaga logo on the front\n-Embossed and printed Balenciaga logo on the side\n-Balenciaga logo debossed in the back\n-Written size at the back of the heel\n-Triple S.2 rubber branding on the tongue\n-Lacing system featuring 9 fabric eyelets\n-Bicolor laces recalling hiking boots’ laces\nBack pull-on tab\n-Made in China\n-Upper: polyurethane, polyester \n- Sole: TPU \n- Insole: foam",
+    "isNew": true
+  },
+  {
+    "id": 23,
+    "name": "Triple S.2 Sneaker (Blue/White/Yellow)",
+    "price": 1100,
+    "category": "Shoes",
+    "brand": "Balenciaga",
+    "sizes": [
+      "US 6",
+      "US 7",
+      "US 8",
+      "US 9",
+      "US 10",
+      "US 11",
+      "US 12",
+      "US 13"
+    ],
+    "images": [
+      "https://balenciaga.dam.kering.com/asset/eb377b26-4151-46b7-85e4-947d554f2aee/eCom/865849WTRS24497_F.jpg?v=3",
+      "https://balenciaga.dam.kering.com/asset/7dff544e-68d2-4868-8866-2821727df380/Medium/865849WTRS24497_D.jpg?v=3",
+      "https://balenciaga.dam.kering.com/asset/cd5955ee-6451-4187-a09a-4bb778c5f9fe/eCom/865849WTRS24497_E.jpg?v=3",
+      "https://balenciaga.dam.kering.com/asset/2c6bce55-a454-4ec5-82fd-776ba9c4f14f/Medium/865849WTRS24497_A.jpg?v=3"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "-Leather free\n-Sneaker\n-Polyurethane and polyester\n-Worn-out effect\n-Complex 3-layered outsole\n-Printed 3B sports icon artwork at the edge of the toe\n-Printed Balenciaga logo on the front\n-Embossed and printed Balenciaga logo on the side\n-Balenciaga logo debossed in the back\n-Written size at the back of the heel\n-Triple S.2 rubber branding on the tongue\n-Lacing system featuring 9 fabric eyelets\n-Bicolor laces recalling hiking boots’ laces\nBack pull-on tab\n-Made in China\n-Upper: polyurethane, polyester \n- Sole: TPU \n- Insole: foam",
+    "isNew": true
+  },
+  {
+    "id": 24,
+    "name": "BAPE Black Checker Patchwork Tee (White)",
+    "price": 369,
+    "category": "Shirts",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/BBKTEM301091QWHX-pdp-1.jpg?v=1771916614&width=1200",
+      "https://int.bape.com/cdn/shop/files/BBKTEM301091QWHX-pdp-2.jpg?v=1771916614&width=1200"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "· Crew neck style\n· Checkered patchwork style\n· Relaxed fit\nComposition: Outer fabric (1) 100% cotton; Outer fabric (2) 16% cotton; 3% spandex; 1% viscose; 80% polyester; Outer fabric (3) 35% cotton; 65% polyester",
+    "isNew": true
+  },
+  {
+    "id": 25,
+    "name": "BAPE Black Checker Patchwork Tee (Black)",
+    "price": 369,
+    "category": "Shirts",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/BBKTEM301091QBKX-pdp-1.jpg?v=1771916613&width=1200",
+      "https://int.bape.com/cdn/shop/files/BBKTEM301091QBKX-pdp-2.jpg?v=1771916613&width=1200"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "· Crew neck style\n· Checkered patchwork style\n· Relaxed fit\nComposition: Outer fabric (1) 100% cotton; Outer fabric (2) 16% cotton; 3% spandex; 1% viscose; 80% polyester; Outer fabric (3) 35% cotton; 65% polyester",
+    "isNew": true
+  },
+  {
+    "id": 26,
+    "name": "Bape Black Japanese Patch Washed Tee (Beige)",
+    "price": 319,
+    "category": "Shirts",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/BBKTEM307091QBGX-pdp-1.jpg?v=1771916629&width=1200",
+      "https://int.bape.com/cdn/shop/files/BBKTEM307091QBGX-pdp-2.jpg?v=1771916629&width=200"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "· Crew neck style\n· Relaxed fit\n· Embroidered logo patch\nComposition: Outer fabric 96% cotton; 4% spandex· Crew neck style\n· Checkered patchwork style\n· Relaxed fit\nComposition: Outer fabric (1) 100% cotton; Outer fabric (2) 16% cotton; 3% spandex; 1% viscose; 80% polyester; Outer fabric (3) 35% cotton; 65% polyester",
+    "isNew": true
+  },
+  {
+    "id": 27,
+    "name": "Bape Black Japanese Patch Washed Tee (Black)",
+    "price": 319,
+    "category": "Shirts",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/BBKTEM307091QBKX-pdp-1.jpg?v=1771916629&width=1200",
+      "https://int.bape.com/cdn/shop/files/BBKTEM307091QBKX-pdp-2.jpg?v=1771916629&width=1200"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "· Crew neck style\n· Relaxed fit\n· Embroidered logo patch\nComposition: Outer fabric 96% cotton; 4% spandex· Crew neck style\n· Checkered patchwork style\n· Relaxed fit\nComposition: Outer fabric (1) 100% cotton; Outer fabric (2) 16% cotton; 3% spandex; 1% viscose; 80% polyester; Outer fabric (3) 35% cotton; 65% polyester",
+    "isNew": true
+  },
+  {
+    "id": 28,
+    "name": "Garment Dye One Point Half Zip Relaxed Fit Crewneck Sweatshirt (Black)",
+    "price": 330,
+    "category": "Sweaters & Sweatshirts",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/0ZXSWM305131QBKX-pdp-1.jpg?v=1771916550&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSWM305131QBKX-pdp-2.jpg?v=1771916551&width=1200"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "· Half-zip closure\n· High-neck style\n· Ape Head logo embroidered\nComposition: Outer fabric 100% cotton",
+    "isNew": true
+  },
+  {
+    "id": 29,
+    "name": "Garment Dye One Point Half Zip Relaxed Fit Crewneck Sweatshirt (Purple)",
+    "price": 330,
+    "category": "Sweaters & Sweatshirts",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/0ZXSWM305131QPPX-pdp-1.jpg?v=1771916551&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSWM305131QPPX-pdp-2.jpg?v=1771916551&width=1200"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "· Half-zip closure\n· High-neck style\n· Ape Head logo embroidered\nComposition: Outer fabric 100% cotton",
+    "isNew": true
+  },
+  {
+    "id": 30,
+    "name": "BAPE STA Shark M2 (Black)",
+    "price": 359,
+    "category": "Shoes",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "US 7",
+      "US 8",
+      "US 8.5",
+      "US 9",
+      "US 9.5",
+      "US 10",
+      "US 11",
+      "US 12",
+      "US 13"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/0ZXSHM191307NBKX-pdp-1.jpg?v=1726823084&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHM191307NBKX-pdp-2.jpg?v=1726823084&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHM191307NBKX-pdp-3.jpg?v=1726823084&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHM191307NBKX-pdp-4.jpg?v=1726823084&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHM191307NBKX-pdp-5.jpg?v=1726823084&width=1200"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "· Shark design\n· STA logo detailing\n· Lace closure\nComposition: Shell 100% cow leather",
+    "isNew": true
+  },
+  {
+    "id": 31,
+    "name": "BAPE STA Shark M2 (White)",
+    "price": 359,
+    "category": "Shoes",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "US 7",
+      "US 8",
+      "US 8.5",
+      "US 9",
+      "US 9.5",
+      "US 10",
+      "US 11",
+      "US 12",
+      "US 13"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/0ZXSHM191307NWHX-pdp-1.jpg?v=1726823084&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHM191307NWHX-pdp-2.jpg?v=1726823084&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHM191307NWHX-pdp-3.jpg?v=1726823084&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHM191307NWHX-pdp-4.jpg?v=1726823084&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHM191307NWHX-pdp-5.jpg?v=1726823084&width=1200"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "· Shark design\n· STA logo detailing\n· Lace closure\nComposition: Shell 100% cow leather",
+    "isNew": true
+  },
+  {
+    "id": 32,
+    "name": "Bape Shark STA (China)",
+    "price": 459,
+    "category": "Shoes",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "US 5",
+      "US 6"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/0ZXSHWX91301MBKZ-pdp-1.jpg?v=1728015086&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHWX91301MBKZ-pdp-2.jpg?v=1728015086&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHWX91301MBKZ-pdp-3.jpg?v=1728015086&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHWX91301MBKZ-pdp-4.jpg?v=1728015086&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHWX91301MBKZ-pdp-5.jpg?v=1728015086&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHWX91301MBKZ-pdp-6.jpg?v=1728015086&width=1200"
+    ],
+    "department": [
+      "women"
+    ],
+    "description": "· STA logo detailing\n· Lace closure\n· Low-top\nComposition: Shell 50% cow leather; 28% cattle leather; 15% fabric; 7% polyurethane leatherette",
+    "isNew": true
+  },
+  {
+    "id": 33,
+    "name": "Bape Shark STA (US)",
+    "price": 459,
+    "category": "Shoes",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "US 8",
+      "US 8.5",
+      "US 9",
+      "US 9.5",
+      "US 10",
+      "US 10.5",
+      "US 11"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/0ZXSHMX91310MPPZ-pdp-1.jpg?v=1728015047&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHMX91310MPPZ-pdp-2.jpg?v=1728015047&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHMX91310MPPZ-pdp-3.jpg?v=1728015047&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHMX91310MPPZ-pdp-4.jpg?v=1728015047&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHMX91310MPPZ-pdp-5.jpg?v=1728015047&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHMX91310MPPZ-pdp-6.jpg?v=1728015047&width=1200"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "· STA logo detailing\n· Lace closure\n· Low-top\nComposition: Shell 50% cow leather; 28% cattle leather; 15% fabric; 7% polyurethane leatherette",
+    "isNew": true
+  },
+  {
+    "id": 34,
+    "name": "Bape Shark STA (France)",
+    "price": 459,
+    "category": "Shoes",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "US 8",
+      "US 8.5",
+      "US 9",
+      "US 9.5",
+      "US 10",
+      "US 10.5",
+      "US 11"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/0ZXSHM91302XMNYZ-pdp-1.jpg?v=1728014865&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHM91302XMNYZ-pdp-2.jpg?v=1728014865&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHM91302XMNYZ-pdp-3.jpg?v=1728014865&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHM91302XMNYZ-pdp-4.jpg?v=1728014865&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHM91302XMNYZ-pdp-5.jpg?v=1728014865&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSHM91302XMNYZ-pdp-6.jpg?v=1728014865&width=1200"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "· STA logo detailing\n· Lace closure\n· Low-top\nComposition: Shell 50% cow leather; 28% cattle leather; 15% fabric; 7% polyurethane leatherette",
+    "isNew": true
+  },
+  {
+    "id": 35,
+    "name": "Skulls Tee Pigment Dyed (Pine)",
+    "price": 75,
+    "category": "Shirts",
+    "brand": "Stussy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://www.stussy.com/cdn/shop/files/1905177_PINE_1.jpg?v=1770156256&width=1920",
+      "https://www.stussy.com/cdn/shop/files/1905177_PINE_2.jpg?v=1770156256&width=1920"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- Relaxed fit shortsleeve tee\n- Midweight pigment dyed 220gsm cotton jersey\n- Ribbed crewneck\n- Screenprinted graphics at front and back\n- Unisex\n- Material: 100% cotton\n- Imported\n- Each garment has a one-of-a-kind appearance due to the unique dye and printing processes used",
+    "isNew": true
+  },
+  {
+    "id": 36,
+    "name": "Skulls Tee Pigment Dyed (Indigo)",
+    "price": 75,
+    "category": "Shirts",
+    "brand": "Stussy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://www.stussy.com/cdn/shop/files/1905177_INDO_1.jpg?v=1770156211&width=1920",
+      "https://www.stussy.com/cdn/shop/files/1905177_INDO_2.jpg?v=1770156211&width=1920"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- Relaxed fit shortsleeve tee\n- Midweight pigment dyed 220gsm cotton jersey\n- Ribbed crewneck\n- Screenprinted graphics at front and back\n- Unisex\n- Material: 100% cotton\n- Imported\n- Each garment has a one-of-a-kind appearance due to the unique dye and printing processes used",
+    "isNew": true
+  },
+  {
+    "id": 37,
+    "name": "Skulls Tee Pigment Dyed (Natural)",
+    "price": 75,
+    "category": "Shirts",
+    "brand": "Stussy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://www.stussy.com/cdn/shop/files/1905177_NATL_1.jpg?v=1770156224&width=1920",
+      "https://www.stussy.com/cdn/shop/files/1905177_NATL_2.jpg?v=1770156225&width=1920"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- Relaxed fit shortsleeve tee\n- Midweight pigment dyed 220gsm cotton jersey\n- Ribbed crewneck\n- Screenprinted graphics at front and back\n- Unisex\n- Material: 100% cotton\n- Imported\n- Each garment has a one-of-a-kind appearance due to the unique dye and printing processes used",
+    "isNew": true
+  },
+  {
+    "id": 38,
+    "name": "Skulls Tee Pigment Dyed (Faded Black)",
+    "price": 75,
+    "category": "Shirts",
+    "brand": "Stussy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://www.stussy.com/cdn/shop/files/1905177_FBLA_1.jpg?v=1770156197&width=1920",
+      "https://www.stussy.com/cdn/shop/files/1905177_FBLA_2.jpg?v=1770156197&width=1920"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- Relaxed fit shortsleeve tee\n- Midweight pigment dyed 220gsm cotton jersey\n- Ribbed crewneck\n- Screenprinted graphics at front and back\n- Unisex\n- Material: 100% cotton\n- Imported\n- Each garment has a one-of-a-kind appearance due to the unique dye and printing processes used",
+    "isNew": true
+  },
+  {
+    "id": 39,
+    "name": "TEXTURED CARDIGAN (Black)",
+    "price": 295,
+    "category": "Sweaters & Sweatshirts",
+    "brand": "Stussy",
+    "sizes": [
+      "Xs",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://www.stussy.com/cdn/shop/files/117291_BLAC_1.jpg?v=1771527909&width=1920",
+      "https://www.stussy.com/cdn/shop/files/117291_BLAC_2.jpg?v=1771527909&width=1920"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- Classic fit 3-gauge textured knit cardigan\n- Mother of pearl button closure\n- Ribbed cuffs and hem\n- Stüssy stock flag label at side seam\n- Unisex\n- Material: 48% nylon / 20% wool / 19% acrylic / 13% alpaca\n- Imported",
+    "isNew": true
+  },
+  {
+    "id": 40,
+    "name": "TEXTURED CARDIGAN (Purple/Green)",
+    "price": 295,
+    "category": "Sweaters & Sweatshirts",
+    "brand": "Stussy",
+    "sizes": [
+      "Xs",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://www.stussy.com/cdn/shop/files/117291_PUGR_1.jpg?v=1771528903&width=1920",
+      "https://www.stussy.com/cdn/shop/files/117291_PUGR_2.jpg?v=1771528903&width=1920"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- Classic fit 3-gauge textured knit cardigan\n- Mother of pearl button closure\n- Ribbed cuffs and hem\n- Stüssy stock flag label at side seam\n- Unisex\n- Material: 48% nylon / 20% wool / 19% acrylic / 13% alpaca\n- Imported",
+    "isNew": true
+  },
+  {
+    "id": 41,
+    "name": "TEXTURED CARDIGAN (Off White)",
+    "price": 295,
+    "category": "Sweaters & Sweatshirts",
+    "brand": "Stussy",
+    "sizes": [
+      "Xs",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://www.stussy.com/cdn/shop/files/117291_OFFW_2.jpg?v=1771528074&width=1920",
+      "https://www.stussy.com/cdn/shop/files/117291_OFFW_1.jpg?v=1771528074&width=1920"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- Classic fit 3-gauge textured knit cardigan\n- Mother of pearl button closure\n- Ribbed cuffs and hem\n- Stüssy stock flag label at side seam\n- Unisex\n- Material: 48% nylon / 20% wool / 19% acrylic / 13% alpaca\n- Imported",
+    "isNew": true
+  },
+  {
+    "id": 42,
+    "name": "Bayaband Slide (Black/White)",
+    "price": 49,
+    "category": "Shoes",
+    "brand": "Crocs",
+    "sizes": [
+      "US M 6 / W 7.5",
+      "US M 6.5 / W 8",
+      "US M 7 / W 8.5",
+      "US M 7.5 / W 9",
+      "US M 8 / W 9.5",
+      "US M 8.5 / W 10",
+      "US M 9 / W 10.5",
+      "US M 9.5 / W 11",
+      "US M 10 / W 11.5",
+      "US M 10.5 / W 12",
+      "US M 11 / W 12.5",
+      "US M 11.5 / W 13"
+    ],
+    "images": [
+      "https://crocs.co.th/cdn/shop/files/0191448189058_205392-066_1_760bc25b-ebcc-407f-a137-9292c7719226_1800x1800.png?v=1710946087",
+      "https://crocs.co.th/cdn/shop/files/0191448189058_205392-066_3_d255d5a7-6e6f-4214-a2d5-aa06a334d6f9.png?v=1710946087&width=900",
+      "https://crocs.co.th/cdn/shop/files/0191448189058_205392-066_4_60553bd3-03ab-4215-8765-6da8efd435ab.png?v=1710946088&width=900",
+      "https://crocs.co.th/cdn/shop/files/0191448189058_205392-066_5_3bee5ec0-840e-4452-87ff-ddb79d6bdcc9.png?v=1710946087&width=900"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "The Baya and Crocband™ are Crocs' most iconic footwear combination, resulting in the Bayaband Slide, a style that blends fashion and sport. Designed with a molded Croslite construction, you'll feel comfortable all day long.\n- Lightweig\n- Easy to clean and quick-dryi\n- Croslite foam construction for cushioni\n- Decorated with Jibbitz™ char\n- Iconic Crocs Comfort™: Lightweight, flexible. 360-degree comfort.",
+    "isNew": true
+  },
+  {
+    "id": 43,
+    "name": "Bayaband Slide (Navy/Pepper)",
+    "price": 49,
+    "category": "Shoes",
+    "brand": "Crocs",
+    "sizes": [
+      "US M 6 / W 7.5",
+      "US M 6.5 / W 8",
+      "US M 7 / W 8.5",
+      "US M 7.5 / W 9",
+      "US M 8 / W 9.5",
+      "US M 8.5 / W 10",
+      "US M 9 / W 10.5",
+      "US M 9.5 / W 11",
+      "US M 10 / W 11.5",
+      "US M 10.5 / W 12",
+      "US M 11 / W 12.5",
+      "US M 11.5 / W 13"
+    ],
+    "images": [
+      "https://crocs.co.th/cdn/shop/files/0191448189454_205392-4CC_1_98754383-f1d6-4d26-a49f-2629bf8be7b1.png?v=1710946104&width=540",
+      "https://crocs.co.th/cdn/shop/files/0191448189454_205392-4CC_3_03e31b28-efd9-4dca-9589-2943aeb08972.png?v=1710946104&width=120",
+      "https://crocs.co.th/cdn/shop/files/0191448189454_205392-4CC_4_0df48e1e-710d-4d72-81a5-a4d2c2fa897d.png?v=1710946104&width=900",
+      "https://crocs.co.th/cdn/shop/files/0191448189454_205392-4CC_5_d613524d-46fd-4085-8dc8-8d4018f3913b.png?v=1710946104&width=900"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "The Baya and Crocband™ are Crocs' most iconic footwear combination, resulting in the Bayaband Slide, a style that blends fashion and sport. Designed with a molded Croslite construction, you'll feel comfortable all day long.\n- Lightweig\n- Easy to clean and quick-dryi\n- Croslite foam construction for cushioni\n- Decorated with Jibbitz™ char\n- Iconic Crocs Comfort™: Lightweight, flexible. 360-degree comfort.",
+    "isNew": true
+  },
+  {
+    "id": 44,
+    "name": "Bayaband Slide (White/Navy)",
+    "price": 49,
+    "category": "Shoes",
+    "brand": "Crocs",
+    "sizes": [
+      "US M 6 / W 7.5",
+      "US M 6.5 / W 8",
+      "US M 7 / W 8.5",
+      "US M 7.5 / W 9",
+      "US M 8 / W 9.5",
+      "US M 8.5 / W 10",
+      "US M 9 / W 10.5",
+      "US M 9.5 / W 11",
+      "US M 10 / W 11.5",
+      "US M 10.5 / W 12",
+      "US M 11 / W 12.5",
+      "US M 11.5 / W 13"
+    ],
+    "images": [
+      "https://crocs.co.th/cdn/shop/files/0191448189256_205392-126_1_93146190-ca30-4328-9ace-1e7378edeb31.png?v=1710946105&width=900",
+      "https://crocs.co.th/cdn/shop/files/0191448189256_205392-126_3_55bcc5ea-6a85-446a-95a1-d50b8144ac67.png?v=1710946106&width=900",
+      "https://crocs.co.th/cdn/shop/files/0191448189256_205392-126_4_67f342e1-4353-48db-90f1-976f6a84887d.png?v=1710946105&width=900",
+      "https://crocs.co.th/cdn/shop/files/0191448189256_205392-126_5_cc4ed1bb-f6ec-4ef8-b25b-5cb3b53fc466.png?v=1710946105&width=900"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "The Baya and Crocband™ are Crocs' most iconic footwear combination, resulting in the Bayaband Slide, a style that blends fashion and sport. Designed with a molded Croslite construction, you'll feel comfortable all day long.\n- Lightweig\n- Easy to clean and quick-dryi\n- Croslite foam construction for cushioni\n- Decorated with Jibbitz™ char\n- Iconic Crocs Comfort™: Lightweight, flexible. 360-degree comfort.",
+    "isNew": true
+  },
+  {
+    "id": 45,
+    "name": "COCA COLA CLASSIC CLOG (Red)",
+    "price": 90,
+    "category": "Shoes",
+    "brand": "Crocs",
+    "sizes": [
+      "US M 6 / W 7.5",
+      "US M 6.5 / W 8",
+      "US M 7 / W 8.5",
+      "US M 7.5 / W 9",
+      "US M 8 / W 9.5",
+      "US M 8.5 / W 10",
+      "US M 9 / W 10.5",
+      "US M 9.5 / W 11",
+      "US M 10 / W 11.5",
+      "US M 10.5 / W 12",
+      "US M 11 / W 12.5",
+      "US M 11.5 / W 13"
+    ],
+    "images": [
+      "https://crocs.co.th/cdn/shop/files/0198445332999_212129-90H-1.jpg?v=1767945649&width=900",
+      "https://crocs.co.th/cdn/shop/files/0198445332999_212129-90H_3.jpg?v=1767945721&width=900",
+      "https://crocs.co.th/cdn/shop/files/0198445332999_212129-90H-_4.jpg?v=1767945721&width=900",
+      "https://crocs.co.th/cdn/shop/files/0198445332999_212129-90H-_5.jpg?v=1767945721&width=900"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "• Perforated design at the toe for efficient water and air drainage.\n• Lightweight material, designed to float in water.\n• Innovative Croslite foam sole provides shock absorption and comfortable feel.\n• Back strap for a secure fit.\n• Easy-to-clean, quick-drying material prevents odors.\n• Non-marking sole won't scratch any surface.\n• Spacious interior for comfortable wear.",
+    "isNew": true
+  },
+  {
+    "id": 46,
+    "name": "COCA COLA CLASSIC CLOG (White)",
+    "price": 90,
+    "category": "Shoes",
+    "brand": "Crocs",
+    "sizes": [
+      "US M 6 / W 7.5",
+      "US M 6.5 / W 8",
+      "US M 7 / W 8.5",
+      "US M 7.5 / W 9",
+      "US M 8 / W 9.5",
+      "US M 8.5 / W 10",
+      "US M 9 / W 10.5",
+      "US M 9.5 / W 11",
+      "US M 10 / W 11.5",
+      "US M 10.5 / W 12",
+      "US M 11 / W 12.5",
+      "US M 11.5 / W 13"
+    ],
+    "images": [
+      "https://crocs.co.th/cdn/shop/files/0198445333088_212130-90H-1_1.jpg?v=1767945845&width=900",
+      "https://crocs.co.th/cdn/shop/files/0198445333088_212130-90H-_3.jpg?v=1767945845&width=900",
+      "https://crocs.co.th/cdn/shop/files/0198445333088_212130-90H-_4.jpg?v=1767945845&width=900",
+      "https://crocs.co.th/cdn/shop/files/0198445333088_212130-90H-_5.jpg?v=1767945845&width=900"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "• Perforated design at the toe for efficient water and air drainage.\n• Lightweight material, designed to float in water.\n• Innovative Croslite foam sole provides shock absorption and comfortable feel.\n• Back strap for a secure fit.\n• Easy-to-clean, quick-drying material prevents odors.\n• Non-marking sole won't scratch any surface.\n• Spacious interior for comfortable wear.",
+    "isNew": true
+  },
+  {
+    "id": 47,
+    "name": "Streetweiser (Black)",
+    "price": 179,
+    "category": "Shirts",
+    "brand": "VLONE",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0037__1_x1200.jpg?v=1746545838",
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0006__2_x1200.jpg?v=1746545838"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- UNISEX\n- 100% combed cotton\n- Worn colorway\n- Loose fit\n- Crewneck\n- Large graphic artwork at front & back\n- Signature decorative stitching at front left & right\n- Silk die cut “V” neck tag\n- Powered by Certilogo authenticity technology\n- Dry clean recommended\n- Made in U.S. of A\n- Allow up to 7 days for shipment",
+    "isNew": true
+  },
+  {
+    "id": 48,
+    "name": "Streetweiser (White)",
+    "price": 179,
+    "category": "Shirts",
+    "brand": "VLONE",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0025__1_x1200.jpg?v=1746545863",
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0007__2_x1200.jpg?v=1746545863"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- UNISEX\n- 100% combed cotton\n- Worn colorway\n- Loose fit\n- Crewneck\n- Large graphic artwork at front & back\n- Signature decorative stitching at front left & right\n- Silk die cut “V” neck tag\n- Powered by Certilogo authenticity technology\n- Dry clean recommended\n- Made in U.S. of A\n- Allow up to 7 days for shipment",
+    "isNew": true
+  },
+  {
+    "id": 49,
+    "name": "OG EMBROIDERED T-SHIRT (White)",
+    "price": 179,
+    "category": "Shirts",
+    "brand": "VLONE",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://livevlonedievlone.com/cdn/shop/files/FINAL_VLONE_PS108_EDITED__0003_FINAL_VLONE_PS85_EDITED_x1200.jpg?v=1745597813",
+      "https://livevlonedievlone.com/cdn/shop/files/FINAL_VLONE_PS108_EDITED__0002_FINAL_VLONE_PS86_x1200.jpg?v=1745597813"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- Unisex\n- 100% combed cotton\n- Worn colorway\n- Loose fit\n- Crewneck\n- Embroidered graphic artwork front & silk screen at back\n- Signature decorative stitching at front left & right\n- Silk die cut “V” neck tag\n- Powered by Certilogo authenticity technology\n- Dry clean recommended\n- Made in U.S. of A\n- Allow up to 21 days for shipment",
+    "isNew": true
+  },
+  {
+    "id": 50,
+    "name": "OG EMBROIDERED T-SHIRT (Navy)",
+    "price": 179,
+    "category": "Shirts",
+    "brand": "VLONE",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0026__1_x1200.jpg?v=1746545596",
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0015__2_x1200.jpg?v=1746545596"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- Unisex\n- 100% combed cotton\n- Worn colorway\n- Loose fit\n- Crewneck\n- Embroidered graphic artwork front & silk screen at back\n- Signature decorative stitching at front left & right\n- Silk die cut “V” neck tag\n- Powered by Certilogo authenticity technology\n- Dry clean recommended\n- Made in U.S. of A\n- Allow up to 21 days for shipment",
+    "isNew": true
+  },
+  {
+    "id": 51,
+    "name": "Pique Signature 90s Tee (Black)",
+    "price": 99,
+    "category": "Shirts",
+    "brand": "Essentials",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "images": [
+      "https://fearofgod.com/cdn/shop/files/125SP264411F_SIGNATURE_90S_SHORT_SLEEVE_TEE-VINTAGE_BLACK_1_1920x.jpg?v=1770666842",
+      "https://fearofgod.com/cdn/shop/files/125SP264411F_SIGNATURE_90S_SHORT_SLEEVE_TEE-VINTAGE_BLACK_2_1920x.jpg?v=1770666842"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "The Signature 90s Pique Tee is made from medium-weight cotton/poly pique knit. The crewneck tee features a 90s fit with oversized proportions and dropped shoulders. Minimalist branding includes an embroidered Essentials signature logo on the front, and Essentials signature label at the back collar.\n- 80% COTTON, 20% POLYESTER 265GSM\n- 90S TEE FIT - OVERSIZED\n- RIB-KNIT CREWNECK\n- EMBROIDERED ESSENTIALS SIGNATURE LOGO\n- ESSENTIALS SIGNATURE LABEL\n- IMPORTED",
+    "isNew": true
+  },
+  {
+    "id": 52,
+    "name": "Pique Signature 90s Tee (Ivory)",
+    "price": 99,
+    "category": "Shirts",
+    "brand": "Essentials",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "images": [
+      "https://fearofgod.com/cdn/shop/files/125SP264413F_SIGNATURE_90S_SHORT_SLEEVE_TEE-IVORY_1_1920x.jpg?v=1770678844",
+      "https://fearofgod.com/cdn/shop/files/125SP264413F_SIGNATURE_90S_SHORT_SLEEVE_TEE-IVORY_2_1920x.jpg?v=1770678844"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "The Signature 90s Pique Tee is made from medium-weight cotton/poly pique knit. The crewneck tee features a 90s fit with oversized proportions and dropped shoulders. Minimalist branding includes an embroidered Essentials signature logo on the front, and Essentials signature label at the back collar.\n- 80% COTTON, 20% POLYESTER 265GSM\n- 90S TEE FIT - OVERSIZED\n- RIB-KNIT CREWNECK\n- EMBROIDERED ESSENTIALS SIGNATURE LOGO\n- ESSENTIALS SIGNATURE LABEL\n- IMPORTED",
+    "isNew": true
+  },
+  {
+    "id": 53,
+    "name": "Training 90s Crewneck Sweatshirt (Faded Black)",
+    "price": 159,
+    "category": "Sweaters & Sweatshirts",
+    "brand": "Essentials",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "images": [
+      "https://fearofgod.com/cdn/shop/files/192SP264451F_TRAINING_90S_CREWNECK_SWEATSHIRT-FADED_BLACK_1_1920x.jpg?v=1771440722",
+      "https://fearofgod.com/cdn/shop/files/192SP264451F_TRAINING_90S_CREWNECK_SWEATSHIRT-FADED_BLACK_2_1920x.jpg?v=1771440722"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "The Training 90s Crewneck Sweatshirt is crafted from cotton 390GSM fleece and given a pigment dye for an authentic vintage feel. A puff-printed Fear of God Essentials training logo is branded on the front. Details include a rib-knit collar, cuffs, waist-hem, and Essentials signature label at the back collar.\n- 100% COTTON 390GSM\n- PIGMENT DYED\n- 90S FIT - RELAXED, CROPPED\n- PUFF-PRINT ESSENTIALS SIGNATURE SCRIPT LOGO\n- RIB-KNIT CUFFS, AND WAIST HEM\n- ESSENTIALS SIGNATURE LABEL\n- IMPORTED",
+    "isNew": true
+  },
+  {
+    "id": 54,
+    "name": "Training 90s Crewneck Sweatshirt (Faded Seal)",
+    "price": 159,
+    "category": "Sweaters & Sweatshirts",
+    "brand": "Essentials",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "images": [
+      "https://fearofgod.com/cdn/shop/files/192SP264453F_TRAINING_90S_CREWNECK_SWEATSHIRT-FADED_SEAL_1_1920x.jpg?v=1771352049",
+      "https://fearofgod.com/cdn/shop/files/192SP264453F_TRAINING_90S_CREWNECK_SWEATSHIRT-FADED_SEAL_2_1920x.jpg?v=1771352049"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "The Training 90s Crewneck Sweatshirt is crafted from cotton 390GSM fleece and given a pigment dye for an authentic vintage feel. A puff-printed Fear of God Essentials training logo is branded on the front. Details include a rib-knit collar, cuffs, waist-hem, and Essentials signature label at the back collar.\n- 100% COTTON 390GSM\n- PIGMENT DYED\n- 90S FIT - RELAXED, CROPPED\n- PUFF-PRINT ESSENTIALS SIGNATURE SCRIPT LOGO\n- RIB-KNIT CUFFS, AND WAIST HEM\n- ESSENTIALS SIGNATURE LABEL\n- IMPORTED",
+    "isNew": true
+  },
+  {
+    "id": 55,
+    "name": "Mesh-Knit Cotton Full-Zip Sweater Vest (Navy)",
+    "price": 125,
+    "category": "Sweaters & Sweatshirts",
+    "brand": "Ralph Lauren",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "images": [
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1497343_lifestyle?$rl_4x5_zoom$",
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1497343_alternate10?$rl_4x5_zoom$",
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1497343_alternate3?$rl_4x5_zoom$",
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1497343_alternate1?$rl_4x5_zoom$"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- Regular Fit: wider at the chest while still maintaining a modern silhouette.\n- Rib-knit mockneck. Full-zip front. Rib-knit armholes.\n- Two front waist zipped pockets. Rib-knit hem.\n- Signature embroidered Pony at the left chest.\n- 100% cotton. Machine washable. Imported.\n- By choosing our cotton products, you're supporting our investment in the Better Cotton™ mission to help cotton communities survive and thrive, while protecting and restoring the environment.",
+    "isNew": true
+  },
+  {
+    "id": 56,
+    "name": "Mesh-Knit Cotton Full-Zip Sweater Vest (Andover)",
+    "price": 125,
+    "category": "Sweaters & Sweatshirts",
+    "brand": "Ralph Lauren",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "images": [
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1497344_lifestyle?$rl_4x5_zoom$",
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1497344_alternate1?$rl_4x5_zoom$",
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1497344_alternate10?$rl_4x5_zoom$",
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1497344_alternate3?$rl_4x5_zoom$"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- Regular Fit: wider at the chest while still maintaining a modern silhouette.\n- Rib-knit mockneck. Full-zip front. Rib-knit armholes.\n- Two front waist zipped pockets. Rib-knit hem.\n- Signature embroidered Pony at the left chest.\n- 100% cotton. Machine washable. Imported.\n- By choosing our cotton products, you're supporting our investment in the Better Cotton™ mission to help cotton communities survive and thrive, while protecting and restoring the environment.",
+    "isNew": true
+  },
+  {
+    "id": 57,
+    "name": "Relaxed Fit Silk-Linen Sweater (Cream)",
+    "price": 1479,
+    "category": "Sweaters & Sweatshirts",
+    "brand": "Ralph Lauren",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "images": [
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI790P10971002_lifestyle?$rl_4x5_zoom$",
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI790P10971002_alternate10?$rl_4x5_zoom$",
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI790P10971002_alternate1?$rl_4x5_zoom$",
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI790P10971002_alternate3?$rl_4x5_zoom$"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- Relaxed Fit.\n- Rib-knit Polo collar. Three-button placket. Woven trim at the placket facing. Genuine horn buttons.\n- Long sleeves with rib-knit cuffs.\n- Left chest patch pocket.\n- Rib-knit hem.\n- Shell: 75% silk, 25% linen. Placket facing: 43% linen, 36% silk, 21% cotton. Dry clean. Made in Italy.\n- Due to the natural characteristics of this material, the coloring may rub off onto fabrics and upholstery.",
+    "isNew": true
+  },
+  {
+    "id": 58,
+    "name": "Relaxed Fit Silk-Linen Sweater (Navy)",
+    "price": 1479,
+    "category": "Sweaters & Sweatshirts",
+    "brand": "Ralph Lauren",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "images": [
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI790P10971001_lifestyle?$rl_4x5_zoom$",
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI790P10971001_alternate10?$rl_4x5_pdp$",
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI790P10971001_alternate1?$rl_4x5_zoom$",
+      "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI790P10971001_alternate3?$rl_4x5_zoom$"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- Relaxed Fit.\n- Rib-knit Polo collar. Three-button placket. Woven trim at the placket facing. Genuine horn buttons.\n- Long sleeves with rib-knit cuffs.\n- Left chest patch pocket.\n- Rib-knit hem.\n- Shell: 75% silk, 25% linen. Placket facing: 43% linen, 36% silk, 21% cotton. Dry clean. Made in Italy.\n- Due to the natural characteristics of this material, the coloring may rub off onto fabrics and upholstery.",
+    "isNew": true
+  },
+  {
+    "id": 59,
+    "name": "Chrome Hearts Cashmere Cross Patch Cardigan (Black)",
+    "price": 569,
+    "category": "Sweaters & Sweatshirts",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://officialchromeheart.com/wp-content/uploads/2025/12/Chrome-Hearts-Cashmere-Cross-Patch-Cardigan-Black-2.jpg",
+      "https://officialchromeheart.com/wp-content/uploads/2025/12/Chrome-Hearts-Cashmere-Cross-Patch-Cardigan-Black-1.jpg"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "This elegant cardigan seamlessly blends classic style with street style. The shawl collar adds dimension and a touch of sophistication to the overall look. With its full-length front buttons, it's easy to wear and can be styled open or closed.A striking cross patch adorns the chest, reflecting a cool and unique character. Two functional front pockets add convenience and a subtle detail. The soft knit fabric is comfortable to wear, perfect for layering on days when you want stylish warmth.Ideal for those who prefer a smart yet edgy look, suitable for casual days or semi-formal occasions, elevating a simple outfit to a more refined level. ",
+    "isNew": true
+  },
+  {
+    "id": 60,
+    "name": "Chrome Hearts Cashmere Cross Patch Cardigan (Beige)",
+    "price": 569,
+    "category": "Sweaters & Sweatshirts",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://officialchromeheart.com/wp-content/uploads/2025/12/Chrome-Hearts-Cashmere-Cross-Patch-Cardigan-Biege-2.jpg",
+      "https://officialchromeheart.com/wp-content/uploads/2025/12/Chrome-Hearts-Cashmere-Cross-Patch-Cardigan-Biege-1.jpg"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "This elegant cardigan seamlessly blends classic style with street style. The shawl collar adds dimension and a touch of sophistication to the overall look. With its full-length front buttons, it's easy to wear and can be styled open or closed.A striking cross patch adorns the chest, reflecting a cool and unique character. Two functional front pockets add convenience and a subtle detail. The soft knit fabric is comfortable to wear, perfect for layering on days when you want stylish warmth.Ideal for those who prefer a smart yet edgy look, suitable for casual days or semi-formal occasions, elevating a simple outfit to a more refined level. ",
+    "isNew": true
+  },
+  {
+    "id": 61,
+    "name": "Chrome Hearts Cashmere Cross Patch Cardigan (Grey)",
+    "price": 569,
+    "category": "Sweaters & Sweatshirts",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://officialchromeheart.com/wp-content/uploads/2025/12/Chrome-Hearts-Cashmere-Cross-Patch-Cardigan-Gray-1.jpg",
+      "https://officialchromeheart.com/wp-content/uploads/2025/12/Chrome-Hearts-Cashmere-Cross-Patch-Cardigan-Gray-2.jpg"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "This elegant cardigan seamlessly blends classic style with street style. The shawl collar adds dimension and a touch of sophistication to the overall look. With its full-length front buttons, it's easy to wear and can be styled open or closed.A striking cross patch adorns the chest, reflecting a cool and unique character. Two functional front pockets add convenience and a subtle detail. The soft knit fabric is comfortable to wear, perfect for layering on days when you want stylish warmth.Ideal for those who prefer a smart yet edgy look, suitable for casual days or semi-formal occasions, elevating a simple outfit to a more refined level. ",
+    "isNew": true
+  },
+  {
+    "id": 62,
+    "name": "Chrome Hearts Gradient Logo T-shirt (Black)",
+    "price": 299,
+    "category": "Shirts",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://officialchromeheart.com/wp-content/uploads/2024/08/Chrome-Hearts-Foti-Abduction-T-shirt.jpeg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOD4y6aZHuQSAWqxUZwuHhYUK_VT7RVpDAhsdM8QLy-S4WKrCe"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "This minimalist t-shirt emphasizes a clean, stylish look with subtle details. A small graphic logo on the chest adds a focal point without being overwhelming, giving it a clean, street style feel that's easy to wear every day.The standard fit is comfortable and allows for easy movement. It's perfect for wearing alone or layering with a jacket and street-style pants. The overall design focuses on simplicity while maintaining a distinct identity.Ideal for those who appreciate minimalism but still want small details to add character to their look.",
+    "isNew": true
+  },
+  {
+    "id": 63,
+    "name": "Chrome Hearts Gradient Logo T-shirt (White)",
+    "price": 299,
+    "category": "Shirts",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://officialchromeheart.com/wp-content/uploads/2024/08/Chrome-Hearts-Gradient-Logo-T-shirt-%E2%80%93-White.jpeg",
+      "https://officialchromeheart.com/wp-content/uploads/2024/08/Chrome-Hearts-Gradient-Logo-T-shirt-%E2%80%93-White-1.jpeg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "This minimalist t-shirt emphasizes a clean, stylish look with subtle details. A small graphic logo on the chest adds a focal point without being overwhelming, giving it a clean, street style feel that's easy to wear every day.The standard fit is comfortable and allows for easy movement. It's perfect for wearing alone or layering with a jacket and street-style pants. The overall design focuses on simplicity while maintaining a distinct identity.Ideal for those who appreciate minimalism but still want small details to add character to their look.",
+    "isNew": true
+  },
+  {
+    "id": 64,
+    "name": "Chrome Hearts X Comme Des Garcons Rare Restock (Black)",
+    "price": 299,
+    "category": "Shirts",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://officialchromeheart.com/wp-content/uploads/2025/10/Chrome-Hearts-X-Comme-Des-Garcons-Rare-Restock-Black-Shirt.png",
+      "https://officialchromeheart.com/wp-content/uploads/2025/10/Chrome-Hearts-X-Comme-Des-Garcons-Rare-Restock-Black-Shirt-2.png"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "This short-sleeved T-shirt features a striking design with a gothic-style lettering pattern covering the entire front, creating a unique and eye-catching street fashion look. The logo and graphics are designed with overlapping and gradient sizes, creating dimension and movement on the shirt. The straight-cut fabric is comfortable to wear, perfect for both casual and edgy looks on relaxed days. The back features a simple, minimalist design that perfectly contrasts with the vibrant front. Ideal for fashionistas who want something different and unique in one garment.",
+    "isNew": true
+  },
+  {
+    "id": 65,
+    "name": "Chrome Hearts X Comme Des Garcons Rare Restock (White)",
+    "price": 299,
+    "category": "Shirts",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://officialchromeheart.com/wp-content/uploads/2025/10/CHROME-HEARTS-COMME-des-GARCONS-AOP-MEGA-PRINTED-TEE.png",
+      "https://officialchromeheart.com/wp-content/uploads/2025/10/CHROME-HEARTS-COMME-des-GARCONS-AOP-MEGA-PRINTED-TEE-2.png"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "This short-sleeved T-shirt features a striking design with a gothic-style lettering pattern covering the entire front, creating a unique and eye-catching street fashion look. The logo and graphics are designed with overlapping and gradient sizes, creating dimension and movement on the shirt. The straight-cut fabric is comfortable to wear, perfect for both casual and edgy looks on relaxed days. The back features a simple, minimalist design that perfectly contrasts with the vibrant front. Ideal for fashionistas who want something different and unique in one garment.",
+    "isNew": true
+  },
+  {
+    "id": 66,
+    "name": "Men's Stretch low-top (Black)",
+    "price": 1129,
+    "category": "Shoes",
+    "brand": "Gucci",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1764784866/865441_AAGFF_1048_001_100_0000_Light-mens-stretch-low-top-sneaker.jpg",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu91WBECLv_sHgB4_tzKxBwN0prPIMTX96eWSFEseoSmwSeO2L",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmhonHNMyGpzDEe96oeACIXzs5tcZbEe4np_INelFGac3Nu51e",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS66Aq1ENRzk61vhHSFzDbw0CrDZIAu6UshjUBTHcI1UC_G2ApH"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- stretchy suede with a handmade antique effect.\n- Unlined.\n- Side web detail.\n- Interlocking G metal detail at the toe and leather patch on the tongue.\n- Rubber outsole.\n- Lace-up closure.\n- Flat sole.",
+    "isNew": true
+  },
+  {
+    "id": 67,
+    "name": "Men's Stretch low-top (White)",
+    "price": 1129,
+    "category": "Shoes",
+    "brand": "Gucci",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0fS8kA_GDaVAoDEVeb0Iv-ItVVwTqRVlFOeiM-itoqiZzsDAC",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSr0DzAZTIh2omRaI7M_SKbGQu38TmBgkx-b1lRl0K_M3SQhxii",
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQm0UHW7bP9EbVFzDfER8ZQTLKCsE4icgqbrdjTWo8S_1PWiYiW",
+      "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1765324845/867001_AAGHR_8156_015_100_0000_Light-mens-stretch-low-top-sneaker.jpg"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- stretchy suede with a handmade antique effect.\n- Unlined.\n- Side web detail.\n- Interlocking G metal detail at the toe and leather patch on the tongue.\n- Rubber outsole.\n- Lace-up closure.\n- Flat sole.",
+    "isNew": true
+  },
+  {
+    "id": 68,
+    "name": "Shift Sneaker (Black)",
+    "price": 1200,
+    "category": "Shoes",
+    "brand": "Gucci",
+    "sizes": [
+      "US 6",
+      "US 6.5",
+      "US 7",
+      "US 7.5",
+      "US 8",
+      "US 8.5",
+      "US 9",
+      "US 9.5",
+      "US 10",
+      "US 10.5",
+      "US 11",
+      "US 11.5",
+      "US 12",
+      "US 12.5",
+      "US 13",
+      "US 13.5",
+      "US 14"
+    ],
+    "images": [
+      "https://media.gucci.com/style/DarkGray_Center_0_0_600x314/1753977669/857018_AAFUH_1086_001_100_0000_Light-mens-gucci-shift-sneaker.jpg",
+      "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1753977670/857018_AAFUH_1086_012_100_0000_Light-mens-gucci-shift-sneaker.jpg",
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQh5DQE0pb9PvsFzhRttmFOMtlJeyTydN--wpm89Au_IJvRvkhU"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- Leather\n- No lining\n- Web strip detail on the back of the tongue and heel\n- Gucci logo on rubber outsole and two-tone outsole\n- Lace-up closure\n- Flat sole\n- True to size\n- Includes dust bag",
+    "isNew": true
+  },
+  {
+    "id": 69,
+    "name": "Shift Sneaker (Brown)",
+    "price": 1200,
+    "category": "Shoes",
+    "brand": "Gucci",
+    "sizes": [
+      "US 6",
+      "US 6.5",
+      "US 7",
+      "US 7.5",
+      "US 8",
+      "US 8.5",
+      "US 9",
+      "US 9.5",
+      "US 10",
+      "US 10.5",
+      "US 11",
+      "US 11.5",
+      "US 12",
+      "US 12.5",
+      "US 13",
+      "US 13.5",
+      "US 14"
+    ],
+    "images": [
+      "https://media.gucci.com/style/HEXFBFBFB_South_0_160_640x640/1753977668/857018_AAF1X_2750_001_100_0000_Light.jpg",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3AUbeM9o9jIWKjtGF99Aga-gZ9EBxTqlQgYa9GaMPIHO0lo0L",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaq3gFPT4rVQfXY4DQuwdnK8KBg3fomiVUgA&s"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- Leather\n- No lining\n- Web strip detail on the back of the tongue and heel\n- Gucci logo on rubber outsole and two-tone outsole\n- Lace-up closure\n- Flat sole\n- True to size\n- Includes dust bag",
+    "isNew": true
+  },
+  {
+    "id": 70,
+    "name": "Shift Sneaker (White)",
+    "price": 1200,
+    "category": "Shoes",
+    "brand": "Gucci",
+    "sizes": [
+      "US 6",
+      "US 6.5",
+      "US 7",
+      "US 7.5",
+      "US 8",
+      "US 8.5",
+      "US 9",
+      "US 9.5",
+      "US 10",
+      "US 10.5",
+      "US 11",
+      "US 11.5",
+      "US 12",
+      "US 12.5",
+      "US 13",
+      "US 13.5",
+      "US 14"
+    ],
+    "images": [
+      "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1753977670/857018_AAFUH_9245_001_100_0000_Light-mens-gucci-shift-sneaker.jpg",
+      "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1753978555/857018_AAFUH_9245_012_100_0000_Light-mens-gucci-shift-trainers.jpg",
+      "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1753977671/857018_AAFUH_9245_009_100_0000_Light-mens-gucci-shift-sneaker.jpg",
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2o6slr7XjGUXPK-Q0I_nsPQubbmGD3ISYXqB5fhbM2EHjtWnM"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- Leather\n- No lining\n- Web strip detail on the back of the tongue and heel\n- Gucci logo on rubber outsole and two-tone outsole\n- Lace-up closure\n- Flat sole\n- True to size\n- Includes dust bag",
+    "isNew": true
+  },
+  {
+    "id": 71,
+    "name": "Terrex Xperior CLIMACOOL+ (Orange)",
+    "price": 69,
+    "category": "Shirts",
+    "brand": "ADIDAS",
+    "sizes": [
+      "Xs",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "images": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/ca21a1888d34493f9f6171ca889f1ca1_9366/Terrex_Xperior_CLIMACOOL_T-Shirt_Orange_KD4844_21_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/8d2676013b8c465abef76aca48228d79_9366/Terrex_Xperior_CLIMACOOL_T-Shirt_Orange_KD4844_23_hover_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/2ace4bec4a5f40929ce7345b0eafd217_9366/Terrex_Xperior_CLIMACOOL_T-Shirt_Orange_KD4844_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/6b20b8c5c2ad4fc8baa69a2a501fe0d5_9366/Terrex_Xperior_CLIMACOOL_T-Shirt_Orange_KD4844_41_detail.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/e699c492fd1c48a9bc9a50a24d4c9880_9366/Terrex_Xperior_CLIMACOOL_T-Shirt_Orange_KD4844_42_detail.jpg"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- Regular fit\n- Crew neck\n- 100% Polyester (100% recycled)\n- Knitted fabric\n- CLIMACOOL+ technology\n- Polygiene StayFresh odor control technology (AT300)",
+    "isNew": true
+  },
+  {
+    "id": 72,
+    "name": "Terrex Xperior CLIMACOOL+ (White)",
+    "price": 69,
+    "category": "Shirts",
+    "brand": "ADIDAS",
+    "sizes": [
+      "Xs",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "images": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/52e0d9ab442f460bbf22f8b1757cc51d_9366/Terrex_Xperior_CLIMACOOL_T-Shirt_White_KD4848_21_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/4c65fa7a873e45c5b2b517b53135352a_9366/Terrex_Xperior_CLIMACOOL_T-Shirt_White_KD4848_23_hover_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/5530fee19ae142218ce00647ced90334_9366/Terrex_Xperior_CLIMACOOL_T-Shirt_White_KD4848_25_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/3513e671adc447269e919564d8042b4c_9366/Terrex_Xperior_CLIMACOOL_T-Shirt_White_KD4848_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/6308e9b08bde41bfaed81810e14ea3d2_9366/Terrex_Xperior_CLIMACOOL_T-Shirt_White_KD4848_41_detail.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/9866f4e0cb9b40038659d6f717bb12c6_9366/Terrex_Xperior_CLIMACOOL_T-Shirt_White_KD4848_42_detail.jpg"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- Regular fit\n- Crew neck\n- 100% Polyester (100% recycled)\n- Knitted fabric\n- CLIMACOOL+ technology\n- Polygiene StayFresh odor control technology (AT300)",
+    "isNew": true
+  },
+  {
+    "id": 73,
+    "name": "ULTIMATE365+ JUMBO STRIPE CLIMACOOL (White/Collegiate Navy)",
+    "price": 80,
+    "category": "Shirts",
+    "brand": "ADIDAS",
+    "sizes": [
+      "Xs",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "images": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/60cc6f38e668447182ff833b36c34104_9366/ULTIMATE365_JUMBO_STRIPE_CLIMACOOL_JZ0475_21_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/adb8d011702844cab40d612224650838_9366/ULTIMATE365_JUMBO_STRIPE_CLIMACOOL_JZ0475_23_hover_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/a0f15798e5c24a3a807d60a708008d29_9366/ULTIMATE365_JUMBO_STRIPE_CLIMACOOL_JZ0475_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/2d894afaa2814890881f872bef0b6825_9366/ULTIMATE365_JUMBO_STRIPE_CLIMACOOL_JZ0475_41_detail.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/236b325649424a9197ecb81be5745966_9366/ULTIMATE365_JUMBO_STRIPE_CLIMACOOL_JZ0475_25_model.jpg"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- Regular fit\n- 88% Polyester (100% recycled), 12% Elastane\n- Single-weave fabric\n- Quick-drying material\n- CLIMACOOL technology",
+    "isNew": true
+  },
+  {
+    "id": 74,
+    "name": "ULTIMATE365+ JUMBO STRIPE CLIMACOOL (Wonder Sage/White)",
+    "price": 80,
+    "category": "Shirts",
+    "brand": "ADIDAS",
+    "sizes": [
+      "Xs",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "images": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/28675ea66c9046a3b77f32f55b4bf74a_9366/ULTIMATE365_JUMBO_STRIPE_CLIMACOOL_JZ0478_21_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/b8399e6aa82048ab81f910651e6610b7_9366/ULTIMATE365_JUMBO_STRIPE_CLIMACOOL_JZ0478_23_hover_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/856a9944ae744e9d8744f908d79736f9_9366/ULTIMATE365_JUMBO_STRIPE_CLIMACOOL_JZ0478_25_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/e97cfd4b28c54f8aa2355dd1842d90bd_9366/ULTIMATE365_JUMBO_STRIPE_CLIMACOOL_JZ0478_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/41aed37d1d2b4e9387bcd8ca3dd16cce_9366/ULTIMATE365_JUMBO_STRIPE_CLIMACOOL_JZ0478_41_detail.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/4dfa3d7bb50743a79b157101ae5fda10_9366/ULTIMATE365_JUMBO_STRIPE_CLIMACOOL_JZ0478_42_detail.jpg"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- Regular fit\n- 88% Polyester (100% recycled), 12% Elastane\n- Single-weave fabric\n- Quick-drying material\n- CLIMACOOL technology",
+    "isNew": true
+  },
+  {
+    "id": 75,
+    "name": "Superstar Vintage (White)",
+    "price": 280,
+    "category": "Shoes",
+    "brand": "ADIDAS",
+    "sizes": [
+      "US 5",
+      "US 6",
+      "US 7",
+      "US 8",
+      "US 10"
+    ],
+    "images": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/87dcbeb7f526453a972dfc58122d4a00_9366/Superstar_Vintage_JQ6345_01_00_standard.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/a76c97c56dcb4a5d9353a0948f0f7df9_9366/Superstar_Vintage_JQ6345_02_standard_hover.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/66c24b5d5b9146938b4695c63cf9ca73_9366/Superstar_Vintage_JQ6345_03_standard.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/92faaf0ae31f4b63a812c89c2a8aa317_9366/Superstar_Vintage_JQ6345_06_standard.jpg"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- Regular fit\n- Lace closure\n- Leather upper\n- Textile lining\n- Rubber outsole",
+    "isNew": true
+  },
+  {
+    "id": 76,
+    "name": "Superstar Vintage (Black)",
+    "price": 280,
+    "category": "Shoes",
+    "brand": "ADIDAS",
+    "sizes": [
+      "US 5",
+      "US 6",
+      "US 7",
+      "US 8",
+      "US 10"
+    ],
+    "images": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/e11937f98113493cb98222848102ccd6_9366/Superstar_Vintage_JR1642_01_00_standard.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/bb801fb86389467084363da41094cbc6_9366/Superstar_Vintage_JR1642_02_standard_hover.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/3438e0ec2b6948c195d9707799f8dc9b_9366/Superstar_Vintage_JR1642_03_standard.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/bea904ede3d24cb8ab5172e860a55258_9366/Superstar_Vintage_JR1642_06_standard.jpg"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- Regular fit\n- Lace closure\n- Leather upper\n- Textile lining\n- Rubber outsole",
+    "isNew": true
+  },
+  {
+    "id": 77,
+    "name": "Y-3 GAZELLE (White)",
+    "price": 315,
+    "category": "Shoes",
+    "brand": "ADIDAS",
+    "sizes": [
+      "US 7",
+      "US 7.5",
+      "US 8",
+      "US 8.5",
+      "US 9",
+      "US 9.5",
+      "US 10",
+      "US 10.5",
+      "US 11",
+      "US 11.5",
+      "US 12",
+      "US 12.5"
+    ],
+    "images": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/a234f7e0a4374d58a8113936927eb77f_9366/Y-3_GAZELLE_KJ9189_01_00_standard.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/a8e4c5e7f9914aeeb3c75917fe34bd66_9366/Y-3_GAZELLE_KJ9189_02_standard.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/fa2e9540eb3b4758a333819cc131f752_9366/Y-3_GAZELLE_KJ9189_03_standard.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/5fc08519422541ab8b71436f6cbc210a_9366/Y-3_GAZELLE_KJ9189_05_standard.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/5fa39e2ee8684d248ec3309eaf40e498_9366/Y-3_GAZELLE_KJ9189_06_standard.jpg"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- Regular fit\n- Leather upper\n- Leather and fabric insole\n- Rubber outsole\n- COLD CEMENT construction",
+    "isNew": true
+  },
+  {
+    "id": 78,
+    "name": "Y-3 GAZELLE (Black)",
+    "price": 315,
+    "category": "Shoes",
+    "brand": "ADIDAS",
+    "sizes": [
+      "US 7",
+      "US 7.5",
+      "US 8",
+      "US 8.5",
+      "US 9",
+      "US 9.5",
+      "US 10",
+      "US 10.5",
+      "US 11",
+      "US 11.5",
+      "US 12",
+      "US 12.5"
+    ],
+    "images": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/66822fcb2b7347489e6059c1ae358efc_9366/Y-3_GAZELLE_KI4340_01_00_standard.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/c162a6592923414190e35a59a4510fb9_9366/Y-3_GAZELLE_KI4340_02_standard.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c229e46112b492e93e8dd58800b0892_9366/Y-3_GAZELLE_KI4340_03_standard.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/b534a44a17a74806aaf9e01d58d363df_9366/Y-3_GAZELLE_KI4340_05_standard.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/9d442227bf254513b913f99f8cb44c40_9366/Y-3_GAZELLE_KI4340_06_standard.jpg"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "- Regular fit\n- Leather upper\n- Leather and fabric insole\n- Rubber outsole\n- COLD CEMENT construction",
+    "isNew": true
+  },
+  {
+    "id": 79,
+    "name": "Dior Reversible Saddle Belt",
+    "price": 770,
+    "category": "Accessories",
+    "brand": "Dior",
+    "sizes": [
+      "70 cm.",
+      "75 cm.",
+      "80 cm.",
+      "85 cm.",
+      "90 cm.",
+      "95 cm."
+    ],
+    "images": [
+      "https://assets.christiandior.com/is/image/diorprod/B0335CWGAM911_SBG_E01-1?$r9x10_raw$&crop=0,0,4000,5000&wid=1024&hei=1107&scale=0.5535&bfc=on&qlt=85",
+      "https://assets.christiandior.com/is/image/diorprod/LOOK_F_24_1_LOOK_274_E13?$lookDefault_GH-GHC$&crop=570,0,1862,2000&wid=1280&hei=1384&scale=0.6919&bfc=on&qlt=85",
+      "https://assets.christiandior.com/is/image/diorprod/B0335CWGAM911_SBG_E03-1?$r9x10_raw$&crop=0,0,4000,5000&wid=720&hei=778&scale=0.3892&bfc=on&qlt=85",
+      "https://assets.christiandior.com/is/image/diorprod/B0335CWGAM911_SBG_E09-1?$r9x10_raw$&crop=0,0,4000,5000&wid=720&hei=778&scale=0.3892&bfc=on&qlt=85"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Material: Smooth calfskin leather with metal buckle\nBrief description:\nA luxury reversible belt featuring Dior’s iconic Saddle-style buckle. The belt can be worn on two sides for different looks and is crafted from high-quality calfskin leather, combining durability with elegant French fashion design.",
+    "isNew": true
+  },
+  {
+    "id": 80,
+    "name": "Dior Key Ring Black Smooth Calfskin",
+    "price": 470,
+    "category": "Accessories",
+    "brand": "Dior",
+    "images": [
+      "https://assets.christiandior.com/is/image/diorprod/2ESKH645GUAH00N_SBG_E01?$r9x10_raw$&crop=0,0,4000,5000&wid=720&hei=778&scale=0.3892&bfc=on&qlt=85",
+      "https://assets.christiandior.com/is/image/diorprod/2ESKH645GUAH00N_SBG_E09?$r9x10_raw$&crop=0,0,4000,5000&wid=720&hei=778&scale=0.3892&bfc=on&qlt=85",
+      "https://assets.christiandior.com/is/image/diorprod/LOOK_H_26_2_LOOK_073_E42?$r9x10_raw$&crop=0,0,4000,5000&wid=720&hei=778&scale=0.3892&bfc=on&qlt=85"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Material: Smooth calfskin leather with antique silver-finish brass\nBrief description:\nA minimalist luxury key ring featuring Dior branding and metal hardware. Designed to hold keys securely while adding a subtle luxury accessory to everyday carry.",
+    "isNew": true
+  },
+  {
+    "id": 81,
+    "name": "Dior Key Case Black Dior Oblique Jacquard",
+    "price": 550,
+    "category": "Accessories",
+    "brand": "Dior",
+    "images": [
+      "https://assets.christiandior.com/is/image/diorprod/2ESKH281YSEH03E_SBG_E01?$r9x10_raw$&crop=0,0,4000,5000&wid=720&hei=778&scale=0.3892&bfc=on&qlt=85",
+      "https://assets.christiandior.com/is/image/diorprod/2ESKH281YSEH03E_SBG_E03?$r9x10_raw$&crop=0,0,4000,5000&wid=720&hei=778&scale=0.3892&bfc=on&qlt=85",
+      "https://assets.christiandior.com/is/image/diorprod/2ESKH281YSEH03E_SBG_E07?$r9x10_raw$&crop=0,0,4000,5000&wid=720&hei=778&scale=0.3892&bfc=on&qlt=85"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Material: Dior Oblique jacquard canvas with leather trim\nBrief description:\nA compact luxury key case featuring Dior’s signature Oblique pattern. It includes multiple key hooks and a secure fold design, making it both stylish and practical for organizing keys.",
+    "isNew": true
+  },
+  {
+    "id": 82,
+    "name": "Seiko 5 Sports SRPD55",
+    "price": 369,
+    "category": "Accessories",
+    "brand": "Seiko",
+    "images": [
+      "https://www.seikowatches.com/th-th/-/media/Images/Product--Image/All/Seiko/2022/02/20/02/14/SRPD55K1/SRPD55K1.png?mh=1200&mw=1200",
+      "https://www.seikowatches.com/th-th/-/media/Images/Product--Image/Thailand/Seiko/5sports/SRPD55K1/SRPD55K1_2.jpg?mh=1200&mw=1200",
+      "https://www.seikowatches.com/th-th/-/media/Images/Product--Image/Thailand/Seiko/5sports/SRPD55K1/SRPD55K1_1.jpg?mh=1200&mw=1200",
+      "https://analiga.com/wp-content/uploads/2021/01/om.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Material: Stainless steel case and bracelet with Hardlex crystal\nBrief description:\nA durable automatic sports watch featuring a stainless-steel case, rotating bezel, and day-date display. It uses Seiko’s automatic movement with about a 41-hour power reserve and is designed for everyday wear with sporty styling.",
+    "isNew": true
+  },
+  {
+    "id": 83,
+    "name": "Seiko Presage Cocktail Time SRPB43",
+    "price": 589,
+    "category": "Accessories",
+    "brand": "Seiko",
+    "images": [
+      "https://www.seikowatches.com/th-th/-/media/Images/Product--Image/All/Seiko/2022/02/20/01/55/SRPB43J1/SRPB43J1.png?mh=1200&mw=1200",
+      "https://m.media-amazon.com/images/I/81b5noJeIzL._AC_UY1000_.jpg",
+      "https://12and60.com/wp-content/uploads/2019/11/seiko-cocktail-time-8.jpg",
+      "https://seikousa.com/cdn/shop/products/SRPB43_1_06f0c922-f01d-433e-bdec-3e066588520e_large.png?v=1744227087"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "Material: Stainless steel case with leather strap\nBrief description:\nAn elegant dress watch from Seiko’s Presage line inspired by cocktail culture. It features a textured dial, automatic movement, and a refined design suitable for formal or business wear.",
+    "isNew": true
+  },
+  {
+    "id": 84,
+    "name": "Seiko Prospex Turtle SRP777",
+    "price": 495,
+    "category": "Accessories",
+    "brand": "Seiko",
+    "images": [
+      "https://excel-watch.com/cdn/shop/files/2_958f2def-03af-4c33-838d-4b1e147ea53f.png?v=1721883206&width=1445",
+      "https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/pQUAAOSwp7VhHWM3/$_57.JPG?set_id=8800005007",
+      "https://wornandwound.com/library/uploads/2016/02/SEIKO_SRP775_WRIST.jpg",
+      "https://www.strapcode.com/cdn/shop/products/Strapcode-Watch-Bands-WTAT_SS221803B046_Seiko-SRP777K1-Black_1200x.jpg?v=1597306376"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Material: Stainless steel case with rubber strap\nBrief description:\nA professional diver-style watch known for its “Turtle” shaped case. It offers strong water resistance and a robust automatic movement, making it popular among divers and outdoor enthusiasts.",
+    "isNew": true
+  },
+  {
+    "id": 85,
+    "name": "Seiko SKX Stainless Steel Watch Bracelet 44G1JZ",
+    "price": 75,
+    "category": "Accessories",
+    "brand": "Seiko",
+    "images": [
+      "https://www.strapify.com.au/cdn/shop/files/SKXRazor-10.webp?v=1759295514&width=2200",
+      "https://gioielleriarosaspina.shop/cdn/shop/products/3596148341.jpg?v=1729944170",
+      "https://i.ebayimg.com/images/g/3t4AAOSwxXRmWq-G/s-l1200.jpg",
+      "https://m.media-amazon.com/images/I/61mVe8C2CIL._AC_UY1000_.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Material: Stainless steel case with rubber strap\nBrief description:\nA professional diver-style watch known for its “Turtle” shaped case. It offers strong water resistance and a robust automatic movement, making it popular among divers and outdoor enthusiastsMaterial: Stainless steel\nBrief description:\nA replacement metal bracelet designed for Seiko dive watches such as the SKX series. It provides durability, corrosion resistance, and a secure clasp for daily wear.",
+    "isNew": true
+  },
+  {
+    "id": 86,
+    "name": "Gucci Interlocking G Bracelet",
+    "price": 409,
+    "category": "Accessories",
+    "brand": "Gucci",
+    "sizes": [
+      "04 cm.",
+      "05 cm.",
+      "16 cm.",
+      "17 cm.",
+      "18 cm.",
+      "19 cm.",
+      "20 cm.",
+      "21 cm."
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/gucci-interlocking-g-bracelet-in-sterling-silver-with-aged-finish-1.jpg",
+      "https://media.gucci.com/style/DarkGray_Center_0_0_980x980/1681424124/454285_J8400_0811_003_100_0000_Light-gucci-interlocking-chain-bracelet.jpg",
+      "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1680650214/620798_J8400_0811_004_100_0000_Light-gucci-interlocking-chain-bracelet.jpg",
+      "https://www.chisholmhunter.co.uk/media/catalog/product/cache/1c13339936d9cec19ec06c7ff2acbcef/5/-/5-156-07-0047.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Material: Sterling silver\nBrief description:\nA minimalist bracelet featuring Gucci’s iconic Interlocking G logo. The polished sterling silver design gives a clean luxury look suitable for everyday wear.",
+    "isNew": true
+  },
+  {
+    "id": 87,
+    "name": "Gucci GG Marmont Leather Belt Gold Buckle",
+    "price": 535,
+    "category": "Accessories",
+    "brand": "Gucci",
+    "sizes": [
+      "70 cm.",
+      "75 cm.",
+      "80 cm.",
+      "85 cm.",
+      "90 cm.",
+      "95 cm."
+    ],
+    "images": [
+      "https://www.mytheresa.com/media/1094/1238/100/da/P00460105.jpg",
+      "https://media.gucci.com/style/DarkGray_Center_0_0_980x980/1658770226/406831_0YA0G_1000_002_100_0000_Light-gg-marmont-wide-belt-with-shiny-buckle.",
+      "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1678159807/409417_AP00T_1000_003_100_0000_Light-gg-marmont-thin-belt.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjCLK9Av6lKAcsNqJajwG80IGiU4ROk3nGg&s"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Material: Calf leather with antique gold-tone brass buckle\nBrief description:\nA classic Gucci belt featuring the recognizable Double G buckle. Made from smooth calf leather, it is one of the brand’s most popular accessories and pairs easily with casual or formal outfits.",
+    "isNew": true
+  },
+  {
+    "id": 88,
+    "name": "Gucci Bee Crystal & Faux Pearl Stud Earrings",
+    "price": 220,
+    "category": "Accessories",
+    "brand": "Gucci",
+    "images": [
+      "https://product-images.therealreal.com/GUC727267_1_enlarged.jpg",
+      "https://product-images.therealreal.com/GUC727267_2_enlarged.jpg",
+      "https://product-images.therealreal.com/GUC727267_3_enlarged.jpg",
+      "https://product-images.therealreal.com/GUC727267_4_enlarged.jpg"
+    ],
+    "department": [
+      "women"
+    ],
+    "description": "Material: Metal with toned finish\nBrief description:\nSmall stud earrings featuring Gucci’s signature bee motif, a symbol frequently used in the brand’s collections. The design is elegant and subtle, making it suitable for daily wear.",
+    "isNew": true
+  },
+  {
+    "id": 89,
+    "name": "Gucci GG Supreme Card Holder",
+    "price": 379,
+    "category": "Accessories",
+    "brand": "Gucci",
+    "images": [
+      "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1717483505/768248_FACQC_1048_007_080_0000_Light-grey-trim-gg-card-case.jpg",
+      "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1710785807/795230_FACQC_1048_009_080_0000_Light-grey-trim-gg-card-case.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/gucci-card-case-with-interlocking-g-in-black-gg-supreme-canvas-2.jpg",
+      "https://img.vitkac.com/uploads/product_thumb/AKCESORIA%20791747%20UULBN-1244/up/4.png"
+    ],
+    "department": [
+      "women",
+      "men"
+    ],
+    "description": "Material: GG Supreme coated canvas with leather trim\nBrief description:\nA compact card holder featuring the iconic GG monogram pattern. Lightweight and durable, it is designed to carry essential cards while maintaining a slim profile.",
+    "isNew": true
+  },
+  {
+    "id": 90,
+    "name": "Louis Vuitton LV Initiales 40mm Belt",
+    "price": 629,
+    "category": "Accessories",
+    "brand": "Louis Vuitton",
+    "sizes": [
+      "85 cm.",
+      "90 cm.",
+      "95 cm.",
+      "100 cm.",
+      "110 cm."
+    ],
+    "images": [
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-initiales-40mm-reversible-belt--M0535V_PM2_Front%20view.png?wid=730&hei=730",
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-initiales-40mm-reversible-belt--M0535V_PM1_Closeup%20view.png?wid=730&hei=730",
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-initiales-40mm-reversible-belt--M0535V_PM1_Detail%20view.png?wid=730&hei=730",
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-initiales-40mm-reversible-belt--M0535V_PM1_Cropped%20view.jpg"
+    ],
+    "department": [
+      "women",
+      "men"
+    ],
+    "description": "Material: Monogram coated canvas with calf leather lining\nBrief description:\nA classic Louis Vuitton belt featuring the large LV Initiales metal buckle. The belt uses the iconic Monogram canvas and is reversible in some versions, making it versatile for both casual and formal outfits.",
+    "isNew": true
+  },
+  {
+    "id": 91,
+    "name": "Louis Vuitton Monogram Eclipse Multiple Wallet",
+    "price": 599,
+    "category": "Accessories",
+    "brand": "Louis Vuitton",
+    "images": [
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-multiple-wallet--M61695_PM2_Front%20view.png?wid=730&hei=730",
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-multiple-wallet--M61695_PM1_Closeup%20view.png?wid=730&hei=730",
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-multiple-wallet--M61695_PM1_Side%20view.png?wid=730&hei=730",
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-multiple-wallet--M61695_PM1_Interior2%20view.png?wid=730&hei=730"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "Material: Monogram Eclipse coated canvas with cowhide leather lining\nBrief description:\nA compact wallet designed for everyday use. It features the dark Monogram Eclipse pattern, multiple card slots, and compartments while keeping a slim and stylish profile.",
+    "isNew": true
+  },
+  {
+    "id": 92,
+    "name": "Louis Vuitton M00250 Bracelet Nanogram Cuff LV Monogram silver",
+    "price": 535,
+    "category": "Accessories",
+    "brand": "Louis Vuitton",
+    "images": [
+      "https://i.ebayimg.com/images/g/mQ4AAeSwy4ppNmI3/s-l1600.webp",
+      "https://i.ebayimg.com/images/g/g0wAAeSwOkdpNmI4/s-l960.webp",
+      "https://di2ponv0v5otw.cloudfront.net/posts/2022/03/30/6244709793649f88fed299ae/m_wp_624471056f6c91b157bf8431.webp",
+      "https://di2ponv0v5otw.cloudfront.net/posts/2023/02/03/63de02fdf644e56e6d52abd8/m_63de034fbd66cd8acf66b234.jpg"
+    ],
+    "department": [
+      "women"
+    ],
+    "description": "Material: Toned metal with engraved Monogram pattern\nBrief description:\nAn elegant open cuff bracelet engraved with Louis Vuitton’s Monogram and LV motifs. The minimalist design makes it easy to stack with other jewelry or wear alone as a statement piece.",
+    "isNew": true
+  },
+  {
+    "id": 93,
+    "name": "Louis Vuitton Monogram Silk Scarf (Black)",
+    "price": 689,
+    "category": "Accessories",
+    "brand": "Louis Vuitton",
+    "images": [
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-all-about-monogram-scarf--M79225_PM2_Front%20view.png?wid=730&hei=730",
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-all-about-monogram-scarf--M79225_PM1_Interior%20view.png?wid=730&hei=730",
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-all-about-monogram-scarf--M79225_PM1_Detail%20view.png?wid=730&hei=730",
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-all-about-monogram-scarf--M79225_PM1_Worn%20view.png?wid=730&hei=730"
+    ],
+    "department": [
+      "women"
+    ],
+    "description": "Material: 100% silk\nBrief description:\nA lightweight luxury scarf featuring the iconic LV Monogram pattern across smooth silk fabric. It can be styled around the neck, hair, or handbag for a refined fashion accent.",
+    "isNew": true
+  },
+  {
+    "id": 94,
+    "name": "Louis Vuitton Monogram Silk Scarf (Grey)",
+    "price": 689,
+    "category": "Accessories",
+    "brand": "Louis Vuitton",
+    "images": [
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-all-about-monogram-scarf--M79226_PM2_Front%20view.png?wid=730&hei=730",
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-all-about-monogram-scarf--M79226_PM1_Interior%20view.png?wid=730&hei=730",
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-all-about-monogram-scarf--M79226_PM1_Worn%20view.png?wid=730&hei=730",
+      "https://th.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-all-about-monogram-scarf--M79226_PM1_Detail%20view.png?wid=730&hei=730"
+    ],
+    "department": [
+      "women"
+    ],
+    "description": "Material: 100% silk\nBrief description:\nA lightweight luxury scarf featuring the iconic LV Monogram pattern across smooth silk fabric. It can be styled around the neck, hair, or handbag for a refined fashion accent.",
+    "isNew": true
+  },
+  {
+    "id": 95,
+    "name": "Hermès Clic H Bracelet Black",
+    "price": 1099,
+    "category": "Accessories",
+    "brand": "Hermès",
+    "images": [
+      "https://assets.hermes.com/is/image/hermesproduct/clic-hh-so-black-bracelet--703203FK01-front-wm-1-0-0-800-800_g.jpg",
+      "https://assets.hermes.com/is/image/hermesproduct/clic-hh-so-black-bracelet--703203FK01-back-wm-5-0-0-800-800_g.jpg",
+      "https://assets.hermes.com/is/image/hermesproduct/clic-hh-so-black-bracelet--703203FK01-worn-4-0-0-800-800_g.jpg"
+    ],
+    "department": [
+      "men"
+    ],
+    "description": "Material: Pl metal with enamel\nBrief description:\nA signature Hermès bracelet featuring the “H” clasp at the center. The enamel band comes in many colors and the sleek hinge design makes it easy to wear while keeping a sophisticated luxury look.",
+    "isNew": true
+  },
+  {
+    "id": 96,
+    "name": "Hermès H Buckle Reversible Belt (Macassar / Vert Amande)",
+    "price": 1169,
+    "category": "Accessories",
+    "brand": "Hermès",
+    "sizes": [
+      "85 cm.",
+      "90 cm.",
+      "95 cm.",
+      "100 cm.",
+      "110 cm."
+    ],
+    "images": [
+      "https://assets.hermes.com/is/image/hermesproduct/h-belt-buckle-reversible-leather-strap-32mm--beltkits-32-011822UAAE_composite_3-064544CK05_composite_3-0-0-800-800_g.jpg",
+      "https://assets.hermes.com/is/image/hermesproduct/h-belt-buckle-reversible-leather-strap-32mm--beltkits-32-011822UAAE_composite_4-064544CK05_composite_3-0-0-800-800_g.jpg",
+      "https://assets.hermes.com/is/image/hermesproduct/h-belt-buckle-reversible-leather-strap-32mm--064544CK05-worn-2-0-0-800-800_g.jpg",
+      "https://assets.hermes.com/is/image/hermesproduct/h-belt-buckle-reversible-leather-strap-32mm--064544CK05-worn-4-0-0-800-800_g.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Material: Calfskin leather with palladium-plated metal buckle\nBrief description:\nA classic Hermès accessory featuring the recognizable H-shaped buckle. The reversible leather strap allows two different color options, making it versatile for both casual and formal outfits.",
+    "isNew": true
+  },
+  {
+    "id": 97,
+    "name": "Clic, C'est Noue scarf (Black / Noir)",
+    "price": 640,
+    "category": "Accessories",
+    "brand": "Hermès",
+    "images": [
+      "https://assets.hermes.com/is/image/hermesproduct/clic-c-est-noue-scarf--392917T%2005-folded-wm-1-0-0-800-800_g.jpg",
+      "https://assets.hermes.com/is/image/hermesproduct/clic-c-est-noue-scarf--392917T%2005-detail-wm-5-0-0-800-800_g.jpg",
+      "https://assets.hermes.com/is/image/hermesproduct/clic-c-est-noue-scarf--392917T%2005-worn-3-0-0-800-800_g.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Material: 100% silk\nBrief description:\nA slim silk scarf known as the Twilly, often used to decorate handbags, wear as a neck scarf, or style in hair. It features colorful Hermès patterns and detailed prints inspired by art and equestrian themes.",
+    "isNew": true
+  },
+  {
+    "id": 98,
+    "name": "Clic, C'est Noue scarf (Cream / Craie)",
+    "price": 640,
+    "category": "Accessories",
+    "brand": "Hermès",
+    "images": [
+      "https://assets.hermes.com/is/image/hermesproduct/clic-c-est-noue-scarf--392917T%2001-folded-wm-1-0-0-800-800_g.jpg",
+      "https://assets.hermes.com/is/image/hermesproduct/clic-c-est-noue-scarf--392917T%2001-detail-wm-5-0-0-800-800_g.jpg",
+      "https://assets.hermes.com/is/image/hermesproduct/clic-c-est-noue-scarf--392917T%2001-worn-3-0-0-800-800_g.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Material: 100% silk\nBrief description:\nA slim silk scarf known as the Twilly, often used to decorate handbags, wear as a neck scarf, or style in hair. It features colorful Hermès patterns and detailed prints inspired by art and equestrian themes.",
+    "isNew": true
+  },
+  {
+    "id": 99,
+    "name": "Hermès Kelly Double Tour Bracelet Noir Palladium Plated",
+    "price": 789,
+    "category": "Accessories",
+    "brand": "Hermès",
+    "images": [
+      "https://assets.hermes.com/is/image/hermesproduct/kelly-double-tour-bracelet--068438CK89-worn-1-0-0-800-800_g.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZ-CV7KxCqpbD1XEDdJjCad0I7mrqiadw3Q&s",
+      "https://jadorecouture.ca/cdn/shop/files/IMG_9953-Photoroom.jpg?v=1751582384",
+      "https://assets.hermes.com/is/image/hermesproduct/kelly-double-tour-bracelet--068438CK89-worn-3-0-0-800-800_g.jpg"
+    ],
+    "department": [
+      "women"
+    ],
+    "description": "Material: Swift calfskin leather with Toned-plated hardware\nBrief description:\nInspired by the iconic Kelly bag, this bracelet wraps twice around the wrist and secures with a small turn-lock clasp. The double-wrap design gives it a distinctive elegant appearance.",
+    "isNew": true
+  },
+  {
+    "id": 100,
+    "name": "Chanel Quilted Lambskin Card Holder",
+    "price": 755,
+    "category": "Accessories",
+    "brand": "Chanel",
+    "images": [
+      "https://www.chanel.com/images///f_auto,q_auto:good,dpr_1.1/w_1600/-9543206109214.jpg",
+      "https://www.chanel.com/images///f_auto,q_auto:good,dpr_1.1/w_960/-9543172227102.jpg",
+      "https://www.chanel.com/images///f_auto,q_auto:good,dpr_1.1/w_960/-9543172161566.jpg",
+      "https://www.liloudeluxe.com/image/cache/catalog/product-391/2e6bc6ee14fe7a9fa80f4e22ee3d43e9-1200x1200.JPEG"
+    ],
+    "department": [
+      "women"
+    ],
+    "description": "Material: Quilted lambskin leather with toned metal logo\nBrief description:\nA compact card holder designed with Chanel’s signature diamond quilting pattern and small CC logo. It provides several slots for credit cards and is ideal for minimalist everyday use.",
+    "isNew": true
+  },
+  {
+    "id": 101,
+    "name": "Chanel 2BB Silk Twill Hair Scarf (Ecru / Black)",
+    "price": 409,
+    "category": "Accessories",
+    "brand": "Chanel",
+    "images": [
+      "https://emier.com.au/cdn/shop/products/DSC00332_302ee2f7-e8c4-4cdc-a573-b8c3a55fdc81_400x.jpg?v=1669353642",
+      "https://emier.com.au/cdn/shop/products/DSC00333_d46fd954-eb10-4d54-a07c-781320d24bc9_200x.jpg?v=1669353642",
+      "https://emier.com.au/cdn/shop/products/DSC00335_d32c4641-bcc9-430d-a834-7e2d07e8d1dc_400x.jpg?v=1669353642",
+      "https://emier.com.au/cdn/shop/products/DSC00336_6efa1e89-8369-412b-bd3f-0d3fd9e20699_1000x.jpg?v=1669353643"
+    ],
+    "department": [
+      "women"
+    ],
+    "description": "Material: 100% silk twill\nBrief description:\nA stylish silk scarf featuring Chanel branding and elegant patterns. It can be worn in the hair, around the neck, or tied to a handbag to add a refined fashion accent.",
+    "isNew": true
+  },
+  {
+    "id": 102,
+    "name": "BLACK LIPSTICK FRIENDS- EMBROIDERED HOODIE (Pink)",
+    "price": 279,
+    "category": "Hoodies",
+    "brand": "VLONE",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://livevlonedievlone.com/cdn/shop/files/FINAL_VLONE_PS73_EDITED_x1200.png?v=1745604744",
+      "https://livevlonedievlone.com/cdn/shop/files/FINAL_VLONE_PS93_EDITED__0003_FINAL_VLONE_PS70_EDITED_x1200.jpg?v=1745604776",
+      "https://livevlonedievlone.com/cdn/shop/files/FINAL_VLONE_PHOTO14_EDITED_e21201fb-524c-454f-8440-d40189db9aac.jpg?v=1745622679",
+      "https://livevlonedievlone.com/cdn/shop/files/FINAL_VLONE_PHOTO100_EDITED_0f0ec554-07f4-41af-81c7-4c562b57707a_x1200.jpg?v=1745613326"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% French terry cotton\n- Stringless oversized embroidered insignia hood\n- Silver plated brass “V” zipper pull\n- Large embroidered graphic artwork front & silk screen at back\n- Signature decorative stitching at front left & right\n- Silk die cut “V” neck tag\n- Powered by Certilogo authenticity technology\n- Dry clean recommended\n- Made in U.S. of A\n- Allow up to 21 days for shipment",
+    "isNew": true
+  },
+  {
+    "id": 103,
+    "name": "RED LIPSTICK OG EMBROIDERED HOODIE (white)",
+    "price": 315,
+    "category": "Hoodies",
+    "brand": "VLONE",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://livevlonedievlone.com/cdn/shop/files/FINAL_VLONE_PS93_EDITED__0024_Layer0_x1200.jpg?v=1745599852",
+      "https://livevlonedievlone.com/cdn/shop/files/FINAL_VLONE_PS93_EDITED__0005_FINAL_VLONE_PS68_EDITED_x1200.jpg?v=1745599852",
+      "https://livevlonedievlone.com/cdn/shop/files/FINAL_VLONE_PHOTO4_x1600.jpg?v=1745849825",
+      "https://livevlonedievlone.com/cdn/shop/files/FINAL_VLONE_PHOTO13.jpg?v=1745849825"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% French terry cotton\n- Stringless oversized embroidered insignia hood\n- Silver plated brass “V” zipper pull\n- Large embroidered graphic artwork front & silk screen at back\n- Signature decorative stitching at front left & right\n- Silk die cut “V” neck tag\n- Powered by Certilogo authenticity technology\n- Dry clean recommended\n- Made in U.S. of A\n- Allow up to 21 days for shipment",
+    "isNew": true
+  },
+  {
+    "id": 104,
+    "name": "OG Staple Embroidered Hoodie (Blue/Black)",
+    "price": 315,
+    "category": "Hoodies",
+    "brand": "VLONE",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0031__1_x1200.jpg?v=1746546324",
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0005__2_x1200.jpg?v=1746546324",
+      "https://livevlonedievlone.com/cdn/shop/files/VLONEV295531.jpg?v=1747062000",
+      "https://livevlonedievlone.com/cdn/shop/files/VLONEV296931_x1200.jpg?v=1747062000"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% French terry cotton\n- Worn colorway\n- Loose fit stringless hood\n- Large embroidered graphic artwork front & back\n- Side decorative stitches front & back\n- Silk die cut logo neck tag\n- Powered by Certilogo Authenticity Technology\n- Dry clean recommended\n- Made in “US of A”\n- Allow up to 7 days for shipment",
+    "isNew": true
+  },
+  {
+    "id": 105,
+    "name": "Bite Before You Bark Hoodie",
+    "price": 315,
+    "category": "Hoodies",
+    "brand": "VLONE",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0024__1_x1200.jpg?v=1746545642",
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0017__2_x1200.jpg?v=1746545642",
+      "https://livevlonedievlone.com/cdn/shop/files/VLONEV210476.jpg?v=1747062272",
+      "https://livevlonedievlone.com/cdn/shop/files/VLONEV210514_x1200.jpg?v=1750908795"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% French terry cotton\n- Heavy distressed worn colorway\n- Stringless oversized embroidered insignia hood\n- Large graphic artwork at front & back\n- Embroidered crescent at middle back\n- Signature decorative stitching at front left & right\n- Silk die cut “V” neck tag\n- Powered by Certilogo authenticity technology\n- Dry clean recommended\n- Made in U.S. of A\n- Allow up to 7 days for shipmen",
+    "isNew": true
+  },
+  {
+    "id": 106,
+    "name": "CRASH THE WHIP HOODIE with DICE",
+    "price": 315,
+    "category": "Hoodies",
+    "brand": "VLONE",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0021__1_x1200.jpg?v=1746546178",
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0020__2_x1200.jpg?v=1746546178",
+      "https://livevlonedievlone.com/cdn/shop/files/VLONEV210686_x1200.jpg?v=1747061780",
+      "https://livevlonedievlone.com/cdn/shop/files/VLONEV210192_x1200.jpg?v=1747061780"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Heavyweight Stringless Cut & Sew Hoodie with “Dice” accessory.\n- 100% French terry cotton\n- Heavy distressed worn colorway\n- Stringless oversized embroidered insignia hood\n- Large graphic artwork at front & back\n- Large graphic artwork at side arms\n- Signature decorative stitching at front left & right\n- Silk die cut “V” neck tag\n- Powered by Certilogo authenticity technology\n- Dry clean recommended\n- Made in U.S. of A\n- Allow up to 7 days for shipment",
+    "isNew": true
+  },
+  {
+    "id": 107,
+    "name": "GATE KEEPER HOODIE",
+    "price": 315,
+    "category": "Hoodies",
+    "brand": "VLONE",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0023__1_x1200.jpg?v=1750988592",
+      "https://livevlonedievlone.com/cdn/shop/files/20250626113125_x1200.jpg?v=1750988592",
+      "https://livevlonedievlone.com/cdn/shop/files/VLONEV210599_x1200.jpg?v=1750908994",
+      "https://livevlonedievlone.com/cdn/shop/files/VLONEV210390_x1200.jpg?v=1750908994"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Heavyweight Stringless Cut & Sew Hoodie.100% French terry cotton\n- Heavy distressed worn colorway\n- Stringless oversized embroidered insignia hood\n- Large graphic artwork at front & back\n- Large graphic artwork at side arms\n- Signature decorative stitching at front left & right\n- Silk die cut “V” neck tag\n- Powered by Certilogo authenticity technology\n- Dry clean recommended\n- Made in U.S. of A\n- Allow up to 7 days for shipment",
+    "isNew": true
+  },
+  {
+    "id": 108,
+    "name": "US of V (United States of VLONE) Hoodie",
+    "price": 315,
+    "category": "Hoodies",
+    "brand": "VLONE",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0028__1_x1200.jpg?v=1746546128",
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0014__2_x1200.jpg?v=1746546128",
+      "https://livevlonedievlone.com/cdn/shop/files/VLONEV210266_x1200.jpg?v=1747061644",
+      "https://livevlonedievlone.com/cdn/shop/files/VLONEV210019_x1200.jpg?v=1747061644"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% French terry cotton\n- Heavy distressed worn colorway\n- Stringless oversized embroidered insignia hood\n- Large graphic artwork at side arms\n- Rhinestone rivets at side arms\n- Large graphic artwork at front & back\n- Signature decorative stitching at front left & right\n- Silk die cut “V” neck tag\n- Powered by Certilogo authenticity technology\n- Dry clean recommended\n- Made in U.S. of A\n- Allow up to 7 days for shipment",
+    "isNew": true
+  },
+  {
+    "id": 109,
+    "name": "VLONE THUG Hoodie",
+    "price": 315,
+    "category": "Hoodies",
+    "brand": "VLONE",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0036__1_x1200.jpg?v=1746553339",
+      "https://livevlonedievlone.com/cdn/shop/files/Untitled-1_0003__2_x1200.jpg?v=1746553339",
+      "https://livevlonedievlone.com/cdn/shop/files/VLONEV210331_x1200.jpg?v=1747061813",
+      "https://livevlonedievlone.com/cdn/shop/files/VLONEV210353_x1200.jpg?v=1747061812"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% French terry cotton\n- Heavy distressed worn colorway\n- Stringless oversized embroidered insignia hood\n- Large graphic artwork at side arms\n- Large graphic artwork at front &amp; back\n- Rhinestone settings at middle back\n- Signature decorative stitching at front left &amp; right\n- Silk die cut “V” neck tag\n- Powered by Certilogo authenticity technology\n- Dry clean recommended\n- Made in U.S. of A\n- Allow up to 7 days for shipment",
+    "isNew": true
+  },
+  {
+    "id": 110,
+    "name": "Fear of God Essentials Hoodie (FW24) Desert Sand",
+    "price": 139,
+    "category": "Hoodies",
+    "brand": "Essentials",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://cdn.myshoptet.com/usr/www.allstarshop.cz/user/shop/big/7979_untitled-design--1.jpg?695009bc",
+      "https://cdn.myshoptet.com/usr/www.allstarshop.cz/user/shop/big/7979-1_untitled-design.jpg?695009bd",
+      "https://www.crepslocker.com/cdn/shop/files/fear-of-god-essentials-fleece-desert-sand-hoodie-_fw24_-192ho246257f-model.webp?v=1758814183",
+      "https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun_storefront_catalog/default/dw0022a870/product_images/0192250500714NEW_01_253.jpg?sw=300"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Relaxed fit pullover hoodie with minimal streetwear design.\nComposition:\n• 80% Cotton – soft, breathable, and comfortable\n• 20% Polyester – adds durability, helps maintain shape, and reduces wrinkles\nFabric Weight: ~380 gsm heavy cotton-blend fleece — thick and structured for warmth and quality feel",
+    "isNew": true
+  },
+  {
+    "id": 111,
+    "name": "Fear of God Essentials Hoodie (FW24) Light Heather Grey",
+    "price": 239,
+    "category": "Hoodies",
+    "brand": "Essentials",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://tse2.mm.bing.net/th/id/OIP.4lKUC3TGidn5gflorXsFBAHaFS?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://genesis17.com/cdn/shop/files/Fear_of_God_Essentials_Hoodie_Holiday_Light_Heather_Grey_FW24_2.jpg?v=1749889345&width=1200",
+      "https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun_storefront_catalog/default/dwd52114cf/product_images/0192250500715NEW_01_127.jpg?sw=600",
+      "https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun_storefront_catalog/default/dwacb122e9/product_images/0192250500715NEW_03_127.jpg?sw=300"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Relaxed fit pullover hoodie with minimal streetwear design\nComposition:\n• 80% Cotton – soft, breathable, and comfortable\n• 20% Polyester – adds durability, helps maintain shape, and reduces wrinkles\nFabric Weight: ~380 gsm heavy cotton-blend fleece — thick and structured for warmth and quality feel",
+    "isNew": true
+  },
+  {
+    "id": 112,
+    "name": "Fear of God Essentials Hoodie (FW24) Black",
+    "price": 219,
+    "category": "Hoodies",
+    "brand": "Essentials",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://www.truetosole.hu/cdn/shop/files/FearofGodEssentialsFleeceHoodie_FW24_Black_1_1200x1200.png?v=1745921994",
+      "https://genesis17.com/cdn/shop/files/FearofGodEssentialsHoodieHolidayBlack_FW24__BackPart.png?v=1736836900",
+      "https://imyourwardrobe.com/cdn/shop/files/fear-of-god-essentials-fleece-hoodie-black-fw24-im-your-wardrobe-992228_1200x.jpg?v=1732085611",
+      "https://imyourwardrobe.com/cdn/shop/files/fear-of-god-essentials-fleece-hoodie-black-fw24-im-your-wardrobe-858060_1200x.jpg?v=1732085611"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Relaxed fit pullover hoodie with minimal streetwear design\nComposition:\n• 80% Cotton – soft, breathable, and comfortable\n• 20% Polyester – adds durability, helps maintain shape, and reduces wrinkles\nFabric Weight: ~380 gsm heavy cotton-blend fleece — thick and structured for warmth and quality feel",
+    "isNew": true
+  },
+  {
+    "id": 113,
+    "name": "Fear of God Essentials Hoodie Light Oatmeal (SS22)",
+    "price": 139,
+    "category": "Hoodies",
+    "brand": "Essentials",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://genesis17.com/cdn/shop/files/FearOfGodEssentialsHoodieLightOatmeal_SS22_1.jpg?v=1749889914&width=1200",
+      "https://genesis17.com/cdn/shop/files/FearOfGodEssentialsHoodieLightOatmeal_SS22_2.jpg?v=1749889914&width=1200"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Material: Heavyweight cotton-blend fleece (≈80% cotton / 20% polyester)\nFit: Oversized/relaxed\nDesign: Minimal logo, neutral colour, classic hoodie elements",
+    "isNew": true
+  },
+  {
+    "id": 114,
+    "name": "Fear of God Essentials Hoodie Stretch Limo Black (SS22)",
+    "price": 69,
+    "category": "Hoodies",
+    "brand": "Essentials",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://genesis17.com/cdn/shop/files/1_1_71ee60a6-6ac7-4886-8e8d-4c7cf9b60903.jpg?v=1749891850&width=1200",
+      "https://genesis17.com/cdn/shop/files/1_2_cebec43d-862b-4079-8338-12d845f6e401.jpg?v=1749891850&width=1200",
+      "https://kickitnz.com/cdn/shop/files/USE_CODE_VIP20_FOR_20_OFF_YOUR_ORDER_-_2024-06-04T170416.081.png?v=1717477479",
+      "https://kickitnz.com/cdn/shop/files/USE_CODE_VIP20_FOR_20_OFF_YOUR_ORDER_-_2024-06-04T170331.708.png?v=1717477479&width=1445"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Material: Heavyweight cotton-blend fleece (≈80% cotton / 20% polyester)\nFit: Oversized/relaxed\nDesign: Minimal logo, neutral colour, classic hoodie elements",
+    "isNew": true
+  },
+  {
+    "id": 115,
+    "name": "Fear of God Essentials x NBA Hoodie Black (SS25)",
+    "price": 189,
+    "category": "Hoodies",
+    "brand": "Essentials",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://genesis17.com/cdn/shop/files/nba-hoodie-black-1_1_bb8ef124-3f3b-4b44-9573-0a0917510703.jpg?v=1761740126&width=1200",
+      "https://genesis17.com/cdn/shop/files/sweatpants-heathergrey-1_1_0fea364f-8e7a-4bdc-8c73-aa97282ba090.jpg?v=1761740126&width=1200",
+      "https://www.mentastore.com/cdn/shop/files/nba-x-fear-of-god-essentials-hoodie-unisex_ss5_p-202774381_pv-11_u-pala030l2fuavzhbur6z_v-idecbfjblki1zvqqtrcs.avif?v=1757667338&width=900",
+      "https://www.hypeneedz.com/cdn/shop/files/Front_Seite_Black_NBA_800x.webp?v=1757708986"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Material 80% cotton / 20% polyester fleece\nFeel: soft, warm, medium–heavyweight\nFit: relaxed / oversized\nDesign: Essentials + NBA Branding",
+    "isNew": true
+  },
+  {
+    "id": 116,
+    "name": "White Stussy 8 Ball Hoodie Pigment Dyed (Natural)",
+    "price": 279,
+    "category": "Hoodies",
+    "brand": "Stussy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/stussy-8-ball-hoodie-pigment-dyed-natural-1.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/stussy-8-ball-hoodie-pigment-dyed-natural-2.jpg",
+      "https://i.ebayimg.com/images/g/lfkAAeSwtQ5phuQW/s-l300.jpg",
+      "https://static.ftshp.digital/img/p/9/5/2/0/2/4/952024-full_product.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Cotton fleece\n- Soft brushed interior\n- Relaxed / regular fit\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 117,
+    "name": "Stussy 8 Ball Hoodie Pigment Dyed (Black)",
+    "price": 149,
+    "category": "Hoodies",
+    "brand": "Stussy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/stussy-8-ball-hoodie-pigment-dyed-black-1.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/stussy-8-ball-hoodie-pigment-dyed-black-2.jpg",
+      "https://i.ebayimg.com/images/g/ptkAAeSwhXtoJzqs/s-l400.jpg",
+      "https://i.ebayimg.com/images/g/DZEAAeSwvi1oJzqW/s-l960.webp"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Cotton fleece\n- Soft brushed interior\n- Relaxed / regular fit\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 118,
+    "name": "Stussy Basic Hoodie (Black)",
+    "price": 169,
+    "category": "Hoodies",
+    "brand": "Stussy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/1925000-black-stussy-basic-hoodie-black-2.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/1925000-black-stussy-basic-hoodie-black-1.jpg",
+      "https://static.ftshp.digital/img/p/4/6/1/6/2/0/461620-full_product.jpg",
+      "https://static.ftshp.digital/img/p/7/8/2/0/2/3/782023-full_product.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 80% Cotton / 20% Polyester fleece\n- Standard / relaxed fit\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 119,
+    "name": "Stussy Rollers Hoodie (Black)",
+    "price": 249,
+    "category": "Hoodies",
+    "brand": "Stussy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/1925160-blac-stussy-rollers-hoodie-black-2.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/1925160-blac-stussy-rollers-hoodie-black-1.jpg",
+      "https://images.urbndata.com/is/image/UrbanOutfitters/108234832_001_m?$xlarge$&fit=constrain&qlt=80&wid=640",
+      "https://instagram.fcnx1-1.fna.fbcdn.net/v/t39.30808-6/531270306_749483078054985_8483091041232749653_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzY5ODk2NjUzNjI4MDA4MjI4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=0FBgrlY2f9YQ7kNvwHbd_DM&_nc_oc=AdnrpfwreoUwDmWtJOkqJmcEvARiC0iYoBHCcr2vLATdDfssvDIP8lwxkt2qmSc-oBk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcnx1-1.fna&_nc_gid=Yif9ApZb7hIP3G0tEGWx1Q&oh=00_Afv6W7LeY8Q6RaDcs-XHRInrqeF5zBzJktiA4a9Z1U52yg&oe=69A71E88"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 80% Cotton / 20% Polyester fleece\n- Soft brushed interior",
+    "isNew": true
+  },
+  {
+    "id": 120,
+    "name": "Stussy Rollers Hoodie (Ash Heather)",
+    "price": 249,
+    "category": "Hoodies",
+    "brand": "Stussy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/1925160-ash-stussy-rollers-hoodie-ash-heather-1.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/1925160-ash-stussy-rollers-hoodie-ash-heather-2.jpg",
+      "https://cdn.snkrdunk.com/upload_bg_removed/ST-SS25-277-1.webp?size=l",
+      "https://static.ftshp.digital/img/p/2/3/4/6/4/1/234641-full_product.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 80% Cotton / 20% Polyester fleece\n- Soft brushed interior",
+    "isNew": true
+  },
+  {
+    "id": 121,
+    "name": "White Stussy Dice Hoodie Pigment Dyed (Natural)",
+    "price": 409,
+    "category": "Hoodies",
+    "brand": "Stussy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/1925077-NATL-stussy-dice-hoodie-pigment-dyed-natural-2.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/1925077-NATL-stussy-dice-hoodie-pigment-dyed-natural-1.jpg",
+      "https://stussyhoodies.co.uk/wp-content/uploads/2025/12/Stussy-Dice-Hoodie-Pigment-Dyed-White.png",
+      "https://i.ebayimg.com/images/g/2jMAAeSwuXxpXgIv/s-l960.webp"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- Pigment Dyed Natural\n- Slight vintage fade effect\n- Material\n- 100% Cotton fleece",
+    "isNew": true
+  },
+  {
+    "id": 122,
+    "name": "Stussy Fuzzy Dice Hoodie (Black)",
+    "price": 249,
+    "category": "Hoodies",
+    "brand": "Stussy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/stussy-fuzzy-dice-hoodie-black-2.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/stussy-fuzzy-dice-hoodie-black-1.jpg",
+      "https://i.ebayimg.com/images/g/JO0AAOSwu5JnPART/s-l400.jpg",
+      "https://www.slumltd.com/content/images/thumbs/0010266_stussy-fuzzy-dice-fleech-hoody-blackwhite_870.jpeg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 80% Cotton / 20% Polyester fleece\n- Mid-weight construction\n- Relaxed fit\n- Ribbed cuffs and waistband",
+    "isNew": true
+  },
+  {
+    "id": 123,
+    "name": "STUSSY PAIR OF DICE HOOD (Heather Grey)",
+    "price": 409,
+    "category": "Hoodies",
+    "brand": "Stussy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/stussy-pair-of-dice-hood-heahter-grey-2.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/stussy-pair-of-dice-hood-heahter-grey-1.jpg",
+      "https://static.super-shop.com/1188622-stussy-basic-hd-hoodie-ash-heather.jpg?t=fb",
+      "https://www.gluestore.com.au/cdn/shop/files/20230712-IMG_7794_1200x.jpg?v=1690691390"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 80% Cotton / 20% Polyester fleece\n- Soft brushed interior\n- Relaxed / standard fit\n- Ribbed hem and cuffs",
+    "isNew": true
+  },
+  {
+    "id": 124,
+    "name": "Stussy Street Style Long Sleeves Logo Skater Style Hoodies (Grey Heather)",
+    "price": 219,
+    "category": "Hoodies",
+    "brand": "Stussy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/stussy-street-style-long-sleeves-logo-skater-style-hoodies-grey-heather-1.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/stussy-street-style-long-sleeves-logo-skater-style-hoodies-grey-heather-2.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 80% Cotton / 20% Polyester fleece\n- Soft brushed interior\n- Mid-weight fabric comfortable for daily wear\n- Relaxed / skater-style fit",
+    "isNew": true
+  },
+  {
+    "id": 125,
+    "name": "Chrome Hearts Hoodie (Black)",
+    "price": 1129,
+    "category": "Hoodies",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/ch-2023020604-chrome-hearts-hoodie-black-2.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/ch-2023020604-chrome-hearts-hoodie-black-3.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5bhqZbo4KZKtSI7zlaWfUlz1xMmbMK8uzdw&s",
+      "https://stealplug.com.my/cdn/shop/files/ChromeHeartsTokyoExclusiveHorseshoeHoodieBlack_FW24_-ModelFront.png?v=1733416780&width=1445"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Cotton heavyweight fabric\n- Soft fleece interior\n- Heavyweight construction\n- Relaxed fit\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 126,
+    "name": "Chrome Hearts Horseshoe Floral Sleeve Zip Up Hoodie (Pink Black)",
+    "price": 1349,
+    "category": "Hoodies",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/crh-hdachhfszuhpb-chrome-hearts-horseshoe-floral-sleeve-zip-up-hoodie-pink-black-1.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/crh-hdachhfszuhpb-chrome-hearts-horseshoe-floral-sleeve-zip-up-hoodie-pink-black-2.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Cotton heavyweight fabric\n- Soft fleece interior\n- Heavyweight pullover construction\n- Relaxed fit\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 127,
+    "name": "Chrome Hearts Cemetery Cross Seven-11 Hoodie (Black)",
+    "price": 1349,
+    "category": "Hoodies",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/crh-hdachccs1hb-chrome-hearts-cemetery-cross-seven-11-hoodie-black-1.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/crh-hdachccs1hb-chrome-hearts-cemetery-cross-seven-11-hoodie-black-2.jpg",
+      "https://sasom-orders-bucket-prod.s3-ap-southeast-1.amazonaws.com/064qO1763042797592/image-064qO1763042797592-0.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Cotton heavyweight fabric\n- Soft fleece interior\n- Heavyweight pullover construction\n- Relaxed fit\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 128,
+    "name": "Chrome Hearts Las Vegas Exclusive Black Pullover Hoodie (Black)",
+    "price": 1415,
+    "category": "Hoodies",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/chrome-hdachlvebphb-chrome-hearts-las-vegas-exclusive-black-pullover-hoodie-black-2.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/chrome-hdachlvebphb-chrome-hearts-las-vegas-exclusive-black-pullover-hoodie-black-1.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Cotton heavyweight fabric\n- Soft fleece interior\n- Heavyweight pullover construction\n- Relaxed fit\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 129,
+    "name": "Chrome Hearts Plus Cross Horseshoe Hoodie (White)",
+    "price": 1195,
+    "category": "Hoodies",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/chrome-hearts-camo-horseshoe-logo-hooded-black-1.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/chrome-hearts-camo-horseshoe-logo-hooded-black-2.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Cotton heavyweight fabric\n- Soft fleece interior\n- Heavyweight pullover construction\n- Relaxed fit\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 130,
+    "name": "Chrome Hearts Camo Horseshoe Logo Hooded (Black)",
+    "price": 1319,
+    "category": "Hoodies",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/chrome-hearts-plus-cross-horseshoe-hoodie-white-2.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/chrome-hearts-plus-cross-horseshoe-hoodie-white-1.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Cotton heavyweight fabric\n- Soft fleece interior\n- Heavyweight pullover construction\n- Relaxed fit\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 131,
+    "name": "Chrome Hearts x Drake Certified Lover Boy Hoodie Black (Miami Exclusive)",
+    "price": 1699,
+    "category": "Hoodies",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/chrome-hearts-x-drake-certified-lover-boy-hoodie-black-miami-exclusive-2.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/chrome-hearts-x-drake-certified-lover-boy-hoodie-black-miami-exclusive-1.jpg",
+      "https://product-images.therealreal.com/CHH40170_1_enlarged.jpg",
+      "https://product-images.therealreal.com/CHH40170_2_enlarged.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Cotton heavyweight fabric\n- Soft fleece interior\n- Heavyweight pullover construction\n- Relaxed fit\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 132,
+    "name": "Chrome Hearts Online Exclusive Hoodie (Black/Yellow)",
+    "price": 1319,
+    "category": "Hoodies",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/chrome-hearts-online-exclusive-hoodie-black-yellow-1.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/chrome-hearts-online-exclusive-hoodie-black-yellow-2.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/chrome-hearts-online-exclusive-hoodie-black-yellow-3.jpg",
+      "https://n-hype.com/cdn/shop/files/Untitleddesign-6.png?v=1725264258&width=1080"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Cotton heavyweight fabric\n- Soft fleece interior\n- Heavyweight pullover construction\n- Relaxed fit\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 133,
+    "name": "Chrome Hearts Multi Color Cross Hoodie (White)",
+    "price": 5035,
+    "category": "Hoodies",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/chrome-hearts-multi-color-cross-hoodie-white-2.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/chrome-hearts-multi-color-cross-hoodie-white-1.jpg",
+      "https://product-images.therealreal.com/CHH49178_1_enlarged.jpg",
+      "https://product-images.therealreal.com/CHH49178_2_enlarged.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Premium cotton heavyweight fabric\n- Soft fleece interior\n- Heavyweight relaxed fit\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 134,
+    "name": "Chrome Hearts Multi Color Cross Hoodie (Black)",
+    "price": 5035,
+    "category": "Hoodies",
+    "brand": "Chrome Hearts",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/chrome-hearts-multi-color-cross-hoodie-black-2.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/chrome-hearts-multi-color-cross-hoodie-black-1.jpg",
+      "https://product-images.therealreal.com/CHH43577_1_enlarged.jpg",
+      "https://product-images.therealreal.com/CHH43577_2_enlarged.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Premium cotton heavyweight fabric\n- Soft fleece interior\n- Heavyweight relaxed fit\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 135,
+    "name": "A Bathing Ape Mega Abc Camo Double Shark Relaxed Fit Full Zip Hoodie (Green)",
+    "price": 645,
+    "category": "Hoodies",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://d2cva83hdk3bwc.cloudfront.net/bape-hdaabamacdsrffzhg-a-bathing-ape-mega-abc-camo-double-shark-relaxed-fit-full-zip-hoodie-green-1.jpg",
+      "https://d2cva83hdk3bwc.cloudfront.net/bape-hdaabamacdsrffzhg-a-bathing-ape-mega-abc-camo-double-shark-relaxed-fit-full-zip-hoodie-green-2.jpg",
+      "https://loadednz.com/cdn/shop/files/001ZPL801306M_19.png?v=1768515504",
+      "https://loadednz.com/cdn/shop/files/001ZPL801306M_16.png?v=1768587765&width=800"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Cotton relaxed fit hoodie\n- Full zip closure up to top of double fixed hoo\n- All-over ABC camouflage prin\n- Double shark graphic on hood and bod\n- Felt and chenille patch + printed graphics on hoo\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 136,
+    "name": "Black Camo BAPE Pullover Hoodie",
+    "price": 245,
+    "category": "Hoodies",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/0ZXSWM007141QBKX-pdp-1.jpg?v=1770996753&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSWM007141QBKX-pdp-2.jpg?v=1770996754&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSWM007141QBKX-pdp-3.jpg?v=1770996754&width=1200",
+      "https://static.flexdog.com/flexdog-6/products/images/9d42c0da-9168-4df4-9598-c80e6e9830a5.jpeg?width=1920&quality=80"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Cotton pullover hoodie\n- All-over camo print\n- Relaxed fit\n- Drawstring hood\n- Ribbed cuffs and waistband",
+    "isNew": true
+  },
+  {
+    "id": 137,
+    "name": "Camo BAPE Pullover Hoodie (Cyan)",
+    "price": 245,
+    "category": "Hoodies",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/0ZXSWM007141QGRX-pdp-1.jpg?v=1770996754&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSWM007141QGRX-pdp-2.jpg?v=1770996754&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSWM007141QGRX-pdp-3.jpg?v=1770996754&width=1200"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Cotton pullover hoodie\n- All-over camo print\n- Relaxed fit\n- Drawstring hood\n- Ribbed cuffs and waistband",
+    "isNew": true
+  },
+  {
+    "id": 138,
+    "name": "Black Screen Camo Football Logo Relaxed Fit Pullover Hoodie",
+    "price": 245,
+    "category": "Hoodies",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/0ZXSWM303141QBKX-pdp-1.jpg?v=1770354155&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSWM303141QBKX-pdp-2.jpg?v=1770354155&width=200",
+      "https://int.bape.com/cdn/shop/files/0ZXSWM303141QBKX-pdp-4.jpg?v=1770354155&width=1200",
+      "https://www.nike.com.kw/dw/image/v2/BDVB_PRD/on/demandware.static/-/Sites-akeneo-master-catalog/default/dwfca1b7f3/nk/a3a/d/0/b/3/e/a3ad0b3e_fb56_48dc_862f_4df98d04e9ab.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Cotton fleece pullover\n- Relaxed fit\n- Drawstring hood\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 139,
+    "name": "Blue & Red Screen Camo Football Logo Relaxed Fit Pullover Hoodie",
+    "price": 245,
+    "category": "Hoodies",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/0ZXSWM303141QBLX-pdp-1.jpg?v=1770354155&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSWM303141QBLX-pdp-2.jpg?v=1770354155&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSWM303141QBLX-pdp-4.jpg?v=1770354155&width=1200",
+      "https://repsoverrest.com/cdn/shop/products/0AE0CEF7-0F1D-4AD7-86CA-14F9F9BA8150_1024x1024.jpg?v=1625426992"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% Cotton fleece pullover\n- Relaxed fit\n- Drawstring hood\n- Ribbed cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 140,
+    "name": "Blue Icy BAPE Abc Camo Shark Full Zip Hoodie",
+    "price": 535,
+    "category": "Hoodies",
+    "brand": "A Bathing Ape",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://int.bape.com/cdn/shop/files/0ZXSWM001151QBLX-pdp-1.jpg?v=1769761937&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSWM001151QBLX-pdp-3.jpg?v=1769761937&width=1200",
+      "https://int.bape.com/cdn/shop/files/0ZXSWM001151QBLX-pdp-4.jpg?v=1769761937&width=1200",
+      "https://img.ssensemedia.com/images/251546F097018_1/bape-blue-abc-camo-shark-full-zip-hoodie.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "- 100% cotton fleece full-zip hoodie\n- Shark motif graphics/appliqués at hood\n- Patch pockets at front\n- Rib-knit cuffs and hem",
+    "isNew": true
+  },
+  {
+    "id": 141,
+    "name": "Red Adidas Track Suit",
+    "price": 145,
+    "category": "Hoodies",
+    "brand": "ADIDAS",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/a4ff6d5135ac45b68d7e309c799fb893_9366/New_Chinese_Style_KR0294_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cb2c9441a814335b1ace596f0eec60f_9366/New_Chinese_Style_KR0294_42_detail.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/c8e6c48b51df4ddca730c2cd5c71113d_9366/New_Chinese_Style_KR0294_21_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/1c6f4e3440ac436aaddd834388654a1f_9366/New_Chinese_Style_KR0294_23_hover_model.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Classic two-piece tracksuit set from adidas Originals\nFull-zip track jacket with stand-up collar and ribbed cuffs\nMatching track pants with elastic waist and drawcord",
+    "isNew": true
+  },
+  {
+    "id": 142,
+    "name": "Blue Adidas Track Suit",
+    "price": 145,
+    "category": "Hoodies",
+    "brand": "ADIDAS",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/bce73a7491504035a08a9df8f64d1e2e_9366/New_Chinese_Style_KT3846_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/87aef4600fde4aa4b90d490ed2783748_9366/New_Chinese_Style_KT3846_42_detail.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/145d2f7305544cf5837a264aa59483a7_9366/New_Chinese_Style_KT3846_21_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/5f414b09ae5d4781a1f93edec70f3105_9366/New_Chinese_Style_KT3846_23_hover_model.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Classic two-piece tracksuit set from adidas Originals\nFull-zip track jacket with stand-up collar and ribbed cuffs\nMatching track pants with elastic waist and drawcord",
+    "isNew": true
+  },
+  {
+    "id": 143,
+    "name": "Black Sportswear Tech Fleece Windrunner Womens",
+    "price": 129,
+    "category": "Hoodies",
+    "brand": "Nike",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://www.sportsdirect.com/images/products/31125403_l.jpg",
+      "https://www.sportsdirect.com/images/products/31125403_l_a1.jpg",
+      "https://www.sportsdirect.com/images/products/31125403_l_a4.jpg",
+      "https://www.sportsdirect.com/images/products/31125403_l_a6.jpg"
+    ],
+    "department": [
+      "women"
+    ],
+    "description": "Update your workout gear with Nike's Sportswear Tech Fleece Windrunner. Inspired by nature and made from cosy fabric, this women's jacket is ideal for gym sessions and everyday wear. So whether you're powering through a spin class or running errands, this top will see you through the day.\n- Nike Swoosh on the chest adds a signature touch.\n- Two zipped side seam pockets offer space for hands or essentials.\n- Composition: Body / Hood lining: 53% cotton and 47% polyester. Pocket lining: 100% cotton.\n- Care: Machine wash.",
+    "isNew": true
+  },
+  {
+    "id": 144,
+    "name": "White Sportswear Tech Fleece Windrunner Womens",
+    "price": 175,
+    "category": "Hoodies",
+    "brand": "Nike",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://www.sportsdirect.com/images/products/31125402_l_a4.jpg",
+      "https://www.sportsdirect.com/images/products/31125402_l_a6.jpg",
+      "https://www.sportsdirect.com/images/products/31125402_l_a1.jpg",
+      "https://www.sportsdirect.com/images/products/31125402_l_a7.jpg"
+    ],
+    "department": [
+      "women"
+    ],
+    "description": "Update your workout gear with Nike's Sportswear Tech Fleece Windrunner. Inspired by nature and made from cosy fabric, this women's jacket is ideal for gym sessions and everyday wear. So whether you're powering through a spin class or running errands, this top will see you through the day.\n- Nike Swoosh on the chest adds a signature touch.\n- Two zipped side seam pockets offer space for hands or essentials.\n- Composition: Body / Hood lining: 53% cotton and 47% polyester. Pocket lining: 100% cotton.\n- Care: Machine wash.",
+    "isNew": true
+  },
+  {
+    "id": 145,
+    "name": "Black Hooded sweatshirt Nike Tech Fleece Full-Zip Windrunner Hoody",
+    "price": 75,
+    "category": "Hoodies",
+    "brand": "Nike",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://i1.t4s.cz//products/hv0949-010/nike-m-nk-tch-flc-fz-wr-hoodie-839903-hv0949-012-960.webp",
+      "https://i1.t4s.cz//products/hv0949-010/nike-m-nk-tch-flc-fz-wr-hoodie-839903-hv0949-013-960.webp",
+      "https://i1.t4s.cz//products/hv0949-010/nike-m-nk-tch-flc-fz-wr-hoodie-839903-hv0949-013-960.webp",
+      "https://i1.t4s.cz//products/hv0949-010/nike-m-nk-tch-flc-fz-wr-hoodie-839903-hv0949-011-960.webp"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Zip-up hoodie with Windrunner-inspired design\nCotton blend fleece (soft and warm, casual)\nFull-zip closure up to hood\nLogo detailing on chest\nRelaxed fit for layering and everyday wear",
+    "isNew": true
+  },
+  {
+    "id": 146,
+    "name": "Blue Hooded sweatshirt Nike Tech Fleece Full-Zip Windrunner Hoody",
+    "price": 115,
+    "category": "Hoodies",
+    "brand": "Nike",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://i1.t4s.cz//products/hv0949-451/nike-tech-fleece-full-zip-windrunner-hoody-990735-hv0949-451-960.webp",
+      "https://i1.t4s.cz//products/hv0949-451/nike-tech-fleece-full-zip-windrunner-hoody-990735-hv0949-452-960.webp"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Zip-up hoodie with Windrunner-inspired design\nCotton blend fleece (soft and warm, casual)\nFull-zip closure up to hood\nLogo detailing on chest\nRelaxed fit for layering and everyday wear",
+    "isNew": true
+  },
+  {
+    "id": 147,
+    "name": "Gray Pullover Hoodie",
+    "price": 119.95,
+    "category": "Hoodies",
+    "brand": "SDouble",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://sdouble-au.com/cdn/shop/files/SD026W1208_SCLGRY_1_550x.jpg?v=1769723332",
+      "https://sdouble-au.com/cdn/shop/files/SD026W1208_SCLGRY_2_1680x.jpg?v=1769723332",
+      "https://sdouble-au.com/cdn/shop/files/SD026W1208_SCLGRY_3_lhskmm_1445x.jpg?v=1769723332"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Relaxed, boxy fit\nDropped shoulders\nHeavyweight 430gsm brushed fleece\nDouble-lined hood\nKanga pocket\nRound cotton drawcord",
+    "isNew": true
+  },
+  {
+    "id": 148,
+    "name": "Blue Pullover Hoodie",
+    "price": 119.95,
+    "category": "Hoodies",
+    "brand": "SDouble",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://sdouble-au.com/cdn/shop/files/SD026W1208_NVY_1_1445x.jpg?v=1765839087",
+      "https://sdouble-au.com/cdn/shop/files/SD026W1208_NVY_2_1445x.jpg?v=1765839087"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Relaxed, boxy fit\nDropped shoulders\nHeavyweight 430gsm brushed fleece\nDouble-lined hood\nKanga pocket\nRound cotton drawcord",
+    "isNew": true
+  },
+  {
+    "id": 149,
+    "name": "Black Pullover Hoodie",
+    "price": 119.95,
+    "category": "Hoodies",
+    "brand": "SDouble",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://sdouble-au.com/cdn/shop/files/SD026W1206_BLK_1_1445x.jpg?v=1769721751",
+      "https://sdouble-au.com/cdn/shop/files/SD026W1206_BLK_2_1100x.jpg?v=1769721751",
+      "https://sdouble-au.com/cdn/shop/files/SD026W1206_BLK_12_ebfjib_1100x.jpg?v=1769721751",
+      "https://sdouble-au.com/cdn/shop/files/SD026W1206_BLK_3_nsqdip_1445x.jpg?v=1769721751"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Relaxed, boxy fit\nDropped shoulders\nHeavyweight 430gsm brushed fleece\nDouble-lined hood\nKanga pocket\nRound cotton drawcord",
+    "isNew": true
+  },
+  {
+    "id": 150,
+    "name": "Steel Grery Shawn Script Pullover Hoodie",
+    "price": 111,
+    "category": "Hoodies",
+    "brand": "SDouble",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://sdouble-au.com/cdn/shop/files/SD025W2208_STLG_3_550x.jpg?v=1759960113",
+      "https://sdouble-au.com/cdn/shop/files/SD025W2208_STLG_1_1680x.jpg?v=1759960113",
+      "https://www.citybeach.com/on/demandware.static/-/Sites-fewstoneMaster/default/dwee5a4458/images/20393302/20393302-02-TP-XL.jpg",
+      "https://www.citybeach.com/on/demandware.static/-/Sites-fewstoneMaster/default/dwe0794624/images/20393302/20393302-02-LT-XL.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Relaxed fit\nHeavyweight 430gsm brushed fleece\nKanga pocket\nRound cotton drawcord",
+    "isNew": true
+  },
+  {
+    "id": 151,
+    "name": "Washed Forest Shawn Script Pullover Hoodie",
+    "price": 111,
+    "category": "Hoodies",
+    "brand": "SDouble",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://sdouble-au.com/cdn/shop/files/SD025W1200_WSHFOREST_1_944abe3f-b147-415b-88f1-82c16046ed62_1680x.jpg?v=1759960149",
+      "https://sdouble-au.com/cdn/shop/files/SD025W1200_WSHFOREST_3_a654c4e0-7f81-4688-9b30-b8db12757f23.jpg?v=1759960149",
+      "https://www.jeanjail.com.au/cdn/shop/files/Shawn-Script-Hood-Washed-Forest-fjpeg.jpg?v=1739762003&width=1300",
+      "https://www.citybeach.com/on/demandware.static/-/Sites-fewstoneMaster/default/dw20260107/images/20390796/20390796-01-FT-XL.jpg"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Relaxed fit\nHeavyweight 430gsm brushed fleece\nKanga pocket\nRound cotton drawcord",
+    "isNew": true
+  },
+  {
+    "id": 152,
+    "name": "White Shawn Dot Pullover Hoodie",
+    "price": 111,
+    "category": "Hoodies",
+    "brand": "SDouble",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://sdouble-au.com/cdn/shop/files/SD025W1201_WSHDGRY_1_1680x.jpg?v=1759960062",
+      "https://sdouble-au.com/cdn/shop/files/SD025W1201_WSHDGRY_1_1680x.jpg?v=1759960062",
+      "https://thesurestore.com/cdn/shop/files/unnamed_157_2400x.jpg?v=1743792312",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkNCgXw3Iy4ETxPYcb7O5D19QEr3jtr5IbHg&s"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Relaxed fit\nHeavyweight 430gsm brushed fleece\nKanga pocket\nRound cotton drawcord",
+    "isNew": true
+  },
+  {
+    "id": 153,
+    "name": "Black Shawn This Thing Dot Pullover Hoodie",
+    "price": 111,
+    "category": "Hoodies",
+    "brand": "SDouble",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "images": [
+      "https://sdouble-au.com/cdn/shop/files/SD025W1202_WBLK_1_1680x.jpg?v=1759960139",
+      "https://sdouble-au.com/cdn/shop/files/SD025W1202_WBLK_3.jpg?v=1759960139",
+      "https://www.generalpants.com/cdn/shop/files/5-118904_b3d7287a-d824-4b01-b554-4315d9ed54da.jpg?v=1748243181&width=1445",
+      "https://www.nor฿each.co.nz/content/products/shawn-dot-hood-washed-black-2-sdousd025w1201.jpg?optimize=high&auto=webp&width=360"
+    ],
+    "department": [
+      "men",
+      "women"
+    ],
+    "description": "Relaxed fit\nHeavyweight 430gsm brushed fleece\nKanga pocket\nRound cotton drawcord",
+    "isNew": true
+  }
+]

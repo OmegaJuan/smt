@@ -1,0 +1,153 @@
+<%- include("partials/header") %>
+
+  <!-- LOGIN MODAL -->
+  <%- include("partials/loginModal") %>
+
+    <!-- HERO SLIDER -->
+<link rel="stylesheet" href="/css/home.css">
+
+    <section class="hero">
+      <div class="slides">
+
+        <div class="slide active">
+          <img src="https://images.unsplash.com/photo-1520975916090-3105956dac38" />
+          <div class="hero-content hero-text">
+            <h1>New Season</h1>
+            <p>Discover the latest arrivals</p>
+            <a href="/products" class="hero-cta">Shop Now</a>
+          </div>
+        </div>
+
+        <div class="slide">
+          <img src="https://images.unsplash.com/photo-1516826957135-700dedea698c" />
+          <div class="hero-content hero-text">
+            <h1>Street Essentials</h1>
+            <p>Built for everyday wear</p>
+            <a href="/products" class="hero-cta">Explore</a>
+          </div>
+        </div>
+
+        <div class="slide">
+          <img src="https://images.unsplash.com/photo-1490481651871-ab68de25d43d" />
+          <div class="hero-content hero-text">
+            <h1>Summer Collection</h1>
+            <p>Light. Clean. Minimal.</p>
+            <a href="/products" class="hero-cta">View Collection</a>
+          </div>
+        </div>
+
+      </div>
+
+      <button class="slider-arrow prev">&#10094;</button>
+      <button class="slider-arrow next">&#10095;</button>
+      <div class="dots"></div>
+    </section>
+
+
+    <!-- NEW ARRIVALS SECTION -->
+    <section class="product-section">
+      <h2>New Arrivals</h2>
+
+      <div class="product-slider">
+        <button class="product-arrow prev">&#10094;</button>
+
+        <div class="product-track">
+
+          <% if (products && products.length> 0) { %>
+
+            <% products.forEach(product=> { %>
+
+              <div class="product-card">
+
+                <a href="/products/<%= product.id %>" class="product-link">
+
+                  <div class="product-image">
+                    <img src="<%= product.images[0] %>" alt="<%= product.name %>">
+                  </div>
+
+                  <h3>
+                    <%= product.name %>
+                  </h3>
+                  <p>$<%= product.price %>
+                  </p>
+
+                </a>
+
+              </div>
+
+              <% }) %>
+
+                <% } else { %>
+
+                  <p class="no-products">No new products available.</p>
+
+                  <% } %>
+
+        </div>
+
+        <button class="product-arrow next">&#10095;</button>
+      </div>
+    </section>
+
+    <!-- CATEGORY PROMO SECTION -->
+    <section class="promo-section">
+
+      <div class="promo-grid">
+
+        <!-- JACKET -->
+        <div class="promo-card">
+          <a href="/products/shop?category=Jacket">
+            <img src="https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf" alt="Jacket">
+            <div class="promo-content">
+              <h3>FIND THE PERFECT JACKET</h3>
+              <span>Shop Now</span>
+            </div>
+          </a>
+        </div>
+
+        <!-- KNITWEAR -->
+        <div class="promo-card">
+          <a href="/products/shop?category=Knitwear">
+            <img src="https://images.unsplash.com/photo-1544441893-675973e31985" alt="Knitwear">
+            <div class="promo-content">
+              <h3>FOCUS ON: KNITWEAR</h3>
+              <span>Shop Now</span>
+            </div>
+          </a>
+        </div>
+
+        <!-- ACCESSORIES -->
+        <div class="promo-card">
+          <a href="/products/shop?category=Accessories">
+            <img src="https://images.unsplash.com/photo-1520975916090-3105956dac38" alt="Accessories">
+            <div class="promo-content">
+              <h3>WINTER ACCESSORIES TO OWN</h3>
+              <span>Shop Now</span>
+            </div>
+          </a>
+        </div>
+
+        <!-- FOOTWEAR -->
+        <div class="promo-card">
+          <a href="/products/shop?category=Footwear">
+            <img
+              src="https://plus.unsplash.com/premium_photo-1698339571239-8c65d17adab7?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2FyZ28lMjBwYW50fGVufDB8fDB8fHww"
+              alt="Footwear">
+            <div class="promo-content">
+              <h3>FOOTWEAR</h3>
+              <span>Shop Now</span>
+            </div>
+          </a>
+        </div>
+
+      </div>
+
+    </section>
+
+    
+    <%- include("partials/footer") %>
+
+      <!-- SCRIPTS -->
+      <script src="/js/slider.js"></script>
+      <script src="/js/productSlider.js"></script>
+      

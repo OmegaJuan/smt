@@ -1,0 +1,57 @@
+<%- include("partials/header") %>
+
+<div class="my-orders">
+
+<h1>My Orders</h1>
+
+<% if(orders.length === 0){ %>
+
+<p>No orders yet.</p>
+
+<% } %>
+
+<% orders.forEach(order => { %>
+
+<div class="order-card">
+
+<h3>Order ID: <%= order.id %></h3>
+
+<p>Status: <span class="order-status <%= order.status.toLowerCase() %>">
+<%= order.status %>
+</span></p>
+
+<p>Date: <%= new Date(order.date).toLocaleString() %></p>
+
+<p>Total: $<%= order.total %></p>
+
+<table>
+
+<tr>
+<th>Product</th>
+<th>Size</th>
+<th>Qty</th>
+<th>Price</th>
+</tr>
+
+<% order.items.forEach(item => { %>
+
+<tr>
+
+<td><%= item.name %></td>
+<td><%= item.size || "-" %></td>
+<td><%= item.quantity %></td>
+<td>$<%= item.price %></td>
+
+</tr>
+
+<% }) %>
+
+</table>
+
+</div>
+
+<% }) %>
+
+</div>
+
+<%- include("partials/footer") %>

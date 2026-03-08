@@ -1,0 +1,194 @@
+<%- include("partials/header") %>
+
+    <section class="cart-wrapper">
+
+        <% if(cart.length===0){ %>
+
+            <div class="cart-empty">
+
+                <div class="cart-empty-icon">
+                    🛒
+                </div>
+
+                <h2>Your cart is empty</h2>
+
+                <p>Looks like you haven't added anything yet.</p>
+
+                <div class="cart-empty-buttons">
+
+                    <a href="/products/shop" class="cart-primary-btn">
+                        Browse Products
+                    </a>
+
+                    <a href="/my-orders" class="cart-secondary-btn">
+                        View My Orders
+                    </a>
+
+                </div>
+
+            </div>
+
+            <% } else { %>
+
+                <div class="continue-shopping">
+                    <a href="/products/shop">← Continue Shopping</a>
+                </div>
+                <div class="cart-layout">
+
+                    <!-- LEFT -->
+                    <div class="cart-items">
+
+                        <% cart.forEach(item=> { %>
+
+                            <div class="cart-item">
+
+                                <a href="/products/<%= item.product.id %>">
+                                    <img src="<%= item.product.images[0] %>" class="cart-img"
+                                        alt="<%= item.product.name %>">
+                                </a>
+
+                                <div class="cart-details">
+
+                                    <a href="/products/<%= item.product.id %>" class="cart-product-link">
+                                        <h3>
+                                            <%= item.product.name %>
+                                        </h3>
+                                    </a>
+
+                                    <% if (item.size) { %>
+                                        <p class="cart-size">Size: <%= item.size %>
+                                        </p>
+                                        <% } %>
+
+                                            <p>$<%= item.product.price %>
+                                            </p>
+
+                                            <!-- QUANTITY CONTROL -->
+                                            <div class="quantity-control">
+
+                                                <button class="qty-btn" data-id="<%= item.product.id %>"
+                                                    data-size="<%= item.size %>" data-action="decrease">-</button>
+
+                                                <span class="qty-number">
+                                                    <%= item.quantity %>
+                                                </span>
+
+                                                <button class="qty-btn" data-id="<%= item.product.id %>"
+                                                    data-size="<%= item.size %>" data-action="increase">+</button>
+
+                                            </div>
+
+                                            <p class="item-total">
+                                                $<%= item.product.price * item.quantity %>
+                                            </p>
+
+                                            <button class="remove-btn" data-id="<%= item.product.id %>"
+                                                data-size="<%= item.size %>">
+                                                Remove
+                                            </button>
+
+                                </div>
+                            </div>
+
+                            <% }) %>
+
+                    </div>
+
+                    <!-- RIGHT -->
+                    <div class="cart-summary">
+
+                        <h3>Order Summary</h3>
+
+                        <div class="summary-row">
+                            <span>Subtotal</span>
+                            <span>$<%= grandTotal %></span>
+                        </div>
+
+                        <div class="summary-row">
+                            <span>Shipping</span>
+                            <span class="free">Free</span>
+                        </div>
+
+                        <div class="summary-row">
+                            <span>Tax</span>
+                            <span>$0</span>
+                        </div>
+
+                        <hr>
+
+                        <div class="summary-total">
+                            <span>Total</span>
+                            <strong>$<%= grandTotal %></strong>
+                        </div>
+
+                        <div class="cart-actions">
+
+                            <a href="/my-orders" class="orders-btn">
+                                📦 My Orders
+                            </a>
+
+                            <a href="/orders/checkout" class="checkout-btn">
+                                Checkout
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <% } %>
+
+    </section>
+
+    <% if(cart.length>0){ %>
+        <script>
+
+            console.log("CART SCRIPT LOADED");
+
+            document.addEventListener("click", function (e) {
+
+                const btn = e.target.closest(".qty-btn, .remove-btn");
+                if (!btn) return;
+
+                e.preventDefault();
+
+                let url = "";
+                const id = btn.dataset.id;
+                const size = btn.dataset.size;
+
+                if (btn.classList.contains("qty-btn")) {
+                    const action = btn.dataset.action;
+                    url = "/cart/" + action + "/" + id;
+                }
+
+                if (btn.classList.contains("remove-btn")) {
+                    url = "/cart/remove/" + id;
+                }
+
+                console.log("Sending request to:", url);
+
+                fetch(url, {
+                    method: "POST",
+                    credentials: "include",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({ size: size })
+                })
+                    .then(res => res.json())
+                    .then(data => {
+                        console.log("Response:", data);
+                        if (data.success) {
+                            window.location.reload();
+                        }
+                    })
+                    .catch(err => {
+                        console.error("Fetch error:", err);
+                    });
+
+            });
+        </script>
+        <% } %>
+
+            <%- include("partials/footer") %>

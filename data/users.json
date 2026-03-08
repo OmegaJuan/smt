@@ -1,0 +1,24 @@
+{
+  "admin": {
+    "username": "Admin",
+    "role": "admin",
+    "id": 1
+  },
+  "users": [
+    {
+      "username": "Rain",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "First",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "Aiw",
+      "role": "user",
+      "id": 4
+    }
+  ]
+}

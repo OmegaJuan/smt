@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>MahPenMed</title>
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+
+<body>
+
+  <header>
+
+    <!-- TOP HEADER -->
+    <div class="header-top">
+
+      <div></div>
+
+      <a href="/" class="logo">
+        Mah Pen Med ©
+      </a>
+
+      
+
+      <div class="header-icons">
+
+        <!-- SEARCH -->
+        <form action="/products/shop" method="GET">
+          <input class="search" name="search" placeholder="Search products or brands"
+            value="<%= typeof query !== 'undefined' ? query?.search || '' : '' %>">
+        </form>
+
+        <!-- LOGIN / LOGOUT -->
+        <% if (!user) { %>
+          <button type="button" class="user-icon login-button">Login</button>
+          <% } else { %>
+            <form action="/logout" method="POST" style="display:inline;">
+              <button type="submit" class="user-icon username-button">
+                <!-- username --> <span class="user-text">
+                  <%= user.username %>
+                </span> <!-- logout text (ซ่อนก่อน) --> <span class="logout-text"> Logout </span>
+              </button>
+            </form>
+            <% } %>
+
+              <!-- Wishlist -->
+              <% if (!user) { %>
+                <a href="#" class="wishlist-icon">♡</a>
+                <% } else { %>
+                  <a href="/wishlist" class="wishlist-icon">♡</a>
+                  <% } %>
+
+                    <!-- Cart -->
+                    <% if (!user) { %>
+
+                      <a href="#" class="cart-icon" id="cart-icon">🛒</a>
+
+                      <% } else if (user.role==="admin" ) { %>
+
+                        <a href="/admin/orders" class="cart-icon" id="cart-icon">🛒</a>
+
+                        <% } else { %>
+
+                          <a href="/cart" class="cart-icon cart-link" id="cart-icon">
+                            🛒
+                            <span id="cart-count"><%= cartCount %></span>
+                          </a>
+
+                          <% } %>
+      </div>
+    </div>
+
+
+    <!-- ANNOUNCEMENT BAR -->
+    <div class="announcement-bar">
+      <div class="announcement-track">
+        <span>- Free shipping over $100 -</span>
+        <span>- New Arrivals Just Dropped -</span>
+        <span>- Summer Sale Up To 40% Off -</span>
+
+        <span>- Free shipping over $100 -</span>
+        <span>- New Arrivals Just Dropped -</span>
+        <span>- Summer Sale Up To 40% Off -</span>
+      </div>
+    </div>
+
+
+    <!-- NAV BAR -->
+    <nav class="nav-bar">
+
+      <!-- NEW IN -->
+      <div class="nav-item red">
+        New In
+        <div class="dropdown">
+          <div class="drop-links">
+            <h4>ALL NEW</h4>
+            <a href="/products/shop?sort=newest">Latest Products</a>
+          </div>
+
+          <div class="drop-links">
+            <h4>CATEGORIES</h4>
+            <a href="/products/shop?category=Shirts">Shirts</a>
+            <a href="/products/shop?category=Pants">Pants</a>
+          </div>
+
+          <div class="drop-images">
+            <div>
+              <img src="/images/drop1.jpg">
+              <p>Latest Collection</p>
+            </div>
+            <div>
+              <img src="/images/drop2.jpg">
+              <p>Trending Now</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- CLOTHING -->
+      <div class="nav-item">
+        Clothing
+        <div class="dropdown">
+          <div class="drop-links">
+            <h4>Men</h4>
+            <a href="/products/shop?department=men&category=Shirts">Shirts</a>
+            <a href="/products/shop?department=men&category=Pants">Pants</a>
+            <a href="/products/shop?department=men&brand=Adidas">Adidas</a>
+          </div>
+
+          <div class="drop-links">
+            <h4>Women</h4>
+            <a href="/products/shop?department=women&category=Dresses">Dresses</a>
+            <a href="/products/shop?department=women&brand=Nike">Nike</a>
+          </div>
+
+          <div class="drop-images">
+            <div>
+              <img src="/images/drop1.jpg">
+              <p>Men Collection</p>
+            </div>
+            <div>
+              <img src="/images/drop2.jpg">
+              <p>Women Collection</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- FOOTWEAR -->
+      <div class="nav-item">
+        Footwear
+        <div class="dropdown">
+          <div class="drop-links">
+            <h4>Sneakers</h4>
+            <a href="/products/shop?category=Sneakers">All Sneakers</a>
+            <a href="/products/shop?brand=Adidas&category=Sneakers">Adidas Sneakers</a>
+          </div>
+
+          <div class="drop-links">
+            <h4>Boots</h4>
+            <a href="/products/shop?category=Boots">All Boots</a>
+          </div>
+
+          <div class="drop-images">
+            <div>
+              <img src="/images/drop1.jpg">
+              <p>Sneaker Drop</p>
+            </div>
+            <div>
+              <img src="/images/drop2.jpg">
+              <p>Boot Collection</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- ACCESSORIES -->
+      <div class="nav-item">
+        Accessories
+        <div class="dropdown">
+          <div class="drop-links">
+            <h4>Men</h4>
+            <a href="/products/shop?department=men&category=Accessories">Accessories</a>
+          </div>
+
+          <div class="drop-links">
+            <h4>Women</h4>
+            <a href="/products/shop?department=women&category=Accessories">Accessories</a>
+          </div>
+
+          <div class="drop-images">
+            <div>
+              <img src="/images/drop1.jpg">
+              <p>Trending Items</p>
+            </div>
+            <div>
+              <img src="/images/drop2.jpg">
+              <p>Limited Stock</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </nav>
+
+    <%- include("loginModal") %>
+
+  </header>
+
+  <script src="/js/login.js"></script>
+  <script>
+    const USER_ROLE = "<%= user ? user.role : '' %>";
+  </script>
+  <script>
+    const cartBtn = document.querySelector(".cart-icon");
+
+    if (cartBtn && !USER_ROLE) {
+      cartBtn.addEventListener("click", function (e) {
+        e.preventDefault();
+        openLoginModal();
+      });
+    }
+  </script>
+  <script>
+    const wishBtn = document.querySelector(".wishlist-icon");
+
+    if (wishBtn) {
+      wishBtn.addEventListener("click", function (e) {
+
+        // ถ้าไม่ login หรือเป็น admin → เปิด modal
+        if (!USER_ROLE || USER_ROLE === "admin") {
+          e.preventDefault();
+          openLoginModal();
+        }
+
+      });
+    }
+  </script>
+  <script src="/js/main.js"></script>
