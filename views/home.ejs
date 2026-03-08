@@ -1,0 +1,159 @@
+<%- include("partials/header") %>
+
+  <!-- LOGIN MODAL -->
+  <%- include("partials/loginModal") %>
+
+  <link rel="stylesheet" href="/css/home.css">
+<link rel="stylesheet" href="/css/styles.css">
+  
+
+    <!-- HERO SLIDER -->
+    <section class="hero">
+      <div class="slides">
+
+        <div class="slide active">
+          <img src="https://cdn.shopify.com/s/files/1/0408/9909/files/stussy_cut_and_sew_sweater.png?v=1752600387" />
+          <div class="hero-content hero-text">
+            <h1>Stussy Releases</h1>
+            <p>Discover the latest arrivals</p>
+            <a href="/products/shop?brand=Stussy" class="hero-cta">
+  Shop Now
+</a>
+          </div>
+        </div>
+
+        <div class="slide">
+          <img src="https://www.fabmood.com/wp-content/uploads/2023/07/summer-9.jpg" />
+          <div class="hero-content hero-text">
+            <h1>Essential Accesory</h1>
+            <p>Explore Dior's craft</p>
+            <a href="/products/shop?category=Accessories" class="hero-cta">
+  Explore
+</a>
+          </div>
+        </div>
+
+        <div class="slide">
+          <img src="https://i.insider.com/5d44a51eb44ce70e90503d12?width=700" />
+          <div class="hero-content hero-text">
+            <h1>Luxorious Package</h1>
+            <p>Represent your state</p>
+            <a href="/products/shop?brand=Gucci" class="hero-cta">
+  View Collection
+</a>
+          </div>
+        </div>
+
+      </div>
+
+      <button class="slider-arrow prev">&#10094;</button>
+      <button class="slider-arrow next">&#10095;</button>
+      <div class="dots"></div>
+    </section>
+
+
+    <!-- NEW ARRIVALS SECTION -->
+    <section class="product-section">
+      <h2>New Arrivals</h2>
+
+      <div class="product-slider">
+        <button class="product-arrow prev">&#10094;</button>
+
+        <div class="product-track">
+
+          <% if (products && products.length> 0) { %>
+
+            <% products.forEach(product=> { %>
+
+              <div class="product-card">
+
+                <a href="/products/<%= product.id %>" class="product-link">
+
+                  <div class="product-image">
+                    <img src="<%= product.images[0] %>" alt="<%= product.name %>">
+                  </div>
+
+                  <h3>
+                    <%= product.name %>
+                  </h3>
+                  <p>$<%= product.price %>
+                  </p>
+
+                </a>
+
+              </div>
+
+              <% }) %>
+
+                <% } else { %>
+
+                  <p class="no-products">No new products available.</p>
+
+                  <% } %>
+
+        </div>
+
+        <button class="product-arrow next">&#10095;</button>
+      </div>
+    </section>
+
+    <!-- CATEGORY PROMO SECTION -->
+    <section class="promo-section">
+
+      <div class="promo-grid">
+
+        <!-- HOODIES -->
+        <div class="promo-card">
+          <a href="/products/shop?category=Hoodies">
+            <img src="https://d1flfk77wl2xk4.cloudfront.net/Assets/18/705/XXL_p0215170518.jpg" alt="Jacket">
+            <div class="promo-content">
+              <h3>FIND THE PERFECT HOODIES</h3>
+              <span>Shop Now</span>
+            </div>
+          </a>
+        </div>
+
+        <!-- SWEATERS -->
+        <div class="promo-card">
+          <a href="/products/shop?category=Sweaters+%26+Sweatshirts&search=3">
+            <img src="https://cached.bensilver.com/RS/SR/product/61/Cashmere-Cable-Knit-Half-Zip-Sweaters_hw142_T_30685ada.jpg" alt="Knitwear">
+            <div class="promo-content">
+              <h3>FOCUS ON: SWEATERS</h3>
+              <span>Shop Now</span>
+            </div>
+          </a>
+        </div>
+
+        <!-- ACCESSORIES -->
+        <div class="promo-card">
+          <a href="/products/shop?category=Accessories">
+            <img src="https://i0.wp.com/theharpergirls.com/wp-content/uploads/2021/03/signature-accessory.png?fit=675%2C500&ssl=1" alt="Accessories">
+            <div class="promo-content">
+              <h3>LUXURY ACCESSORIES</h3>
+              <span>Shop Now</span>
+            </div>
+          </a>
+        </div>
+
+        <!-- FOOTWEAR -->
+        <div class="promo-card">
+          <a href="/products/shop?category=Shoes">
+            <img
+              src="https://blog.nuorder.com/hubfs/Blog_5FootwearTrends_hero.jpg"
+              alt="Footwear">
+            <div class="promo-content">
+              <h3>FOOTWEAR</h3>
+              <span>Shop Now</span>
+            </div>
+          </a>
+        </div>
+
+      </div>
+
+    </section>
+
+    <%- include("partials/footer") %>
+
+      <!-- SCRIPTS -->
+      <script src="/js/slider.js"></script>
+      <script src="/js/productSlider.js"></script>

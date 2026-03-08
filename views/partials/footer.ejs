@@ -1,0 +1,116 @@
+<footer class="footer">
+  <div class="footer-container">
+
+    <div class="footer-section">
+      <h3>My Store</h3>
+      <p>Your favorite place to shop quality products.</p>
+    </div>
+
+    <div class="footer-section">
+      <h3>Contact</h3>
+      <p>012-345-6789</p>
+      <p>store@email.com</p>
+      <p>Bangkok, Thailand</p>
+    </div>
+
+    <div class="footer-section">
+      <h3>Follow Us</h3>
+      <a href="#">Facebook</a>
+      <a href="#">Instagram</a>
+      <a href="#">Line</a>
+    </div>
+
+  </div>
+
+  <div class="footer-bottom">
+    <p>© 2026 My Store | All Rights Reserved</p>
+  </div>
+</footer>
+</section>
+
+<script>
+  function changeImage(newSrc, element) {
+
+    const mainImage = document.getElementById("mainImage")
+
+    // change only main image
+    mainImage.src = newSrc
+
+    // remove active class from all thumbnails
+    document.querySelectorAll(".thumbnail").forEach(img => {
+      img.classList.remove("active")
+    })
+
+    // add active class to clicked thumbnail
+    element.classList.add("active")
+  }
+</script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+
+    const forms = document.querySelectorAll(".cart-form");
+
+    forms.forEach(form => {
+
+      form.addEventListener("submit", function (e) {
+
+        if (USER_ROLE !== "user") {
+          e.preventDefault();
+          showLoginPopup();
+        }
+
+      });
+
+    });
+
+  });
+
+  function showLoginPopup() {
+
+    if (document.querySelector(".login-overlay")) return;
+
+    const overlay = document.createElement("div");
+    overlay.className = "login-overlay";
+
+    overlay.innerHTML = `
+    <div class="login-popup">
+      <h3>Please Login</h3>
+      <p>You must login as user to add items to cart.</p>
+      <div class="popup-buttons">
+        <button onclick="handleLoginClick(this)">Login</button>
+        <button onclick="this.closest('.login-overlay').remove()">Cancel</button>
+      </div>
+    </div>
+  `;
+
+    document.body.appendChild(overlay);
+  }
+</script>
+<script>
+  function handleLoginClick(btn) {
+
+    // ลบ popup overlay ก่อน
+    const overlay = btn.closest(".login-overlay");
+    if (overlay) {
+      overlay.remove();
+    }
+
+    // ถ้ามี logout ให้ logout ก่อน
+    const logoutBtn = document.querySelector(".logout-button");
+    if (logoutBtn) {
+      logoutBtn.click();
+      return;
+    }
+
+    // เปิด login modal โดยตรง
+    const loginModal = document.querySelector(".login-modal");
+    if (loginModal) {
+      loginModal.style.display = "flex";
+    }
+  }
+</script>
+
+
+</body>
+
+</html>

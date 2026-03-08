@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>MahPenMed - Store</title>
+  <link rel="stylesheet" href="/css/header.css">
+  
+  
+  <link rel="icon" type="image/png" href="https://i0.wp.com/swingindhorserescue.com/wp-content/uploads/2019/05/Winston.jpg?fit=1458%2C1944&ssl=1">
+
+</head>
+
+<body>
+
+  <header>
+
+    <!-- TOP HEADER -->
+    <div class="header-top">
+
+      <div></div>
+
+      <a href="/" class="logo">
+        Mah Pen Med ©
+      </a>
+
+      <div class="header-icons">
+
+        <!-- SEARCH -->
+        <form action="/products/shop" method="GET">
+          <input class="search" name="search" placeholder="Search products or brands"
+            value="<%= typeof query !== 'undefined' ? query?.search || '' : '' %>">
+        </form>
+
+        <!-- LOGIN / LOGOUT -->
+        <% if (!user) { %>
+          <button type="button" class="user-icon login-button">Login</button>
+          <% } else { %>
+            <form action="/logout" method="POST" style="display:inline;">
+              <button type="submit" class="user-icon username-button">
+                <!-- username --> <span class="user-text">
+                  <%= user.username %>
+                </span> <!-- logout text (ซ่อนก่อน) --> <span class="logout-text"> Logout </span>
+              </button>
+            </form>
+            <% } %>
+
+              <!-- Wishlist -->
+              <% if (!user) { %>
+                <a href="#" class="wishlist-icon">♡</a>
+                <% } else { %>
+                  <a href="/wishlist" class="wishlist-icon">♡</a>
+                  <% } %>
+
+                    <!-- Cart -->
+                    <% if (!user) { %>
+
+                      <a href="#" class="cart-icon" id="cart-icon">🛒</a>
+
+                      <% } else if (user.role==="admin" ) { %>
+
+                        <a href="/admin/orders" class="cart-icon" id="cart-icon">🛒</a>
+
+                        <% } else { %>
+
+                          <a href="/cart" class="cart-icon cart-link" id="cart-icon">
+                            🛒
+                            <span id="cart-count">
+                              <%= cartCount %>
+                            </span>
+                          </a>
+
+                          <% } %>
+      </div>
+    </div>
+
+
+    <!-- ANNOUNCEMENT BAR -->
+    <div class="announcement-bar">
+      <div class="announcement-track">
+        <span>- Free shipping over $100 -</span>
+        <span>- New Arrivals Just Dropped -</span>
+        <span>- Summer Sale Up To 40% Off -</span>
+
+        <span>- Free shipping over $100 -</span>
+        <span>- New Arrivals Just Dropped -</span>
+        <span>- Summer Sale Up To 40% Off -</span>
+
+        <span>- Free shipping over $100 -</span>
+        <span>- New Arrivals Just Dropped -</span>
+        <span>- Summer Sale Up To 40% Off -</span>
+
+        <span>- Free shipping over $100 -</span>
+        <span>- New Arrivals Just Dropped -</span>
+        <span>- Summer Sale Up To 40% Off -</span>
+      </div>
+    </div>
+
+
+    <!-- NAV BAR -->
+    <nav class="nav-bar">
+
+      <!-- NEW IN -->
+      <div class="nav-item red">
+        New In
+        <div class="dropdown">
+          <div class="drop-links">
+            <h4>ALL NEW</h4>
+            <a href="/products/shop?sort=newest">Latest Products</a>
+          </div>
+
+          <div class="drop-links">
+            <h4>CATEGORIES</h4>
+            <a href="/products/shop?category=Shirts">Shirts</a>
+            <a href="/products/shop?category=Shoes">Shoes</a>
+            <a href="/products/shop?category=Accessories">Accessories</a>
+            <a href="/products/shop?category=Sweaters+%26+Sweatshirts">Sweaters</a>
+            <a href="/products/shop?category=Hoodies">Hoodies</a>
+
+          </div>
+
+          <div class="drop-images">
+            <div>
+              <img src="https://glance-web.glance-cdn.com/Core_Capsule_Wardrobe_Ideas_Every_Aesthetic_Fashion_Wardrobe_Needs_473ae91869.png">
+            </div>
+            <div>
+              <img src="https://luxiders.com/content/uploads/hannah-morgan-ycVFts5Ma4s-unsplash.jpeg">
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- CLOTHING -->
+      <div class="nav-item">
+        Clothing
+        <div class="dropdown">
+          <div class="drop-links">
+            <h4>Men</h4>
+            <a href="/products/shop?brand=Nike&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=men">Nike</a>
+            <a href="/products/shop?brand=A+Bathing+Ape&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=men">A Bathing Ape</a>
+            <a href="/products/shop?brand=Stussy&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=men">Stussy</a>
+            <a href="/products/shop?brand=VLONE&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=men">Vlone</a>
+            <a href="/products/shop?brand=Essentials&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=men">Essential</a>
+            <a href="/products/shop?brand=Ralph+Lauren&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=men">Ralph Lauren</a>
+            <a href="/products/shop?brand=Chrome+Hearts&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=men">Chrome Hearts</a>
+            <a href="/products/shop?brand=ADIDAS&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=men">Adidas</a>
+            <a href="/products/shop?brand=SDouble&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=men">SDouble</a>
+
+          </div>
+
+          <div class="drop-links">
+            <h4>Women</h4>
+            <a href="/products/shop?brand=Nike&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=women">Nike</a>
+            <a href="/products/shop?brand=A+Bathing+Ape&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=women">A Bathing Ape</a>
+            <a href="/products/shop?brand=Stussy&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=women">Stussy</a>
+            <a href="/products/shop?brand=VLONE&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=women">Vlone</a>
+            <a href="/products/shop?brand=Essentials&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=women">Essential</a>
+            <a href="/products/shop?brand=Chrome+Hearts&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=women">Chrome Hearts</a>
+            <a href="/products/shop?brand=ADIDAS&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=women">Adidas</a>
+            <a href="/products/shop?brand=SDouble&category=Shirts&category=Sweaters+%26+Sweatshirts&category=Hoodies&department=women">SDouble</a>
+
+          </div>
+
+          <div class="drop-images">
+            <div>
+              <img src="https://i.redd.it/what-do-you-call-this-kind-of-outfit-aesthetic-v0-9rw005zf76yc1.jpg?width=736&format=pjpg&auto=webp&s=82b04faee4a34e34ac956be61e373463f1be0aac">
+            </div>
+            <div>
+              <img src="https://cdn11.bigcommerce.com/s-c7qlm8a06j/images/stencil/532x532/products/3074/31152/casual-zip-up-men-hoodie_1__77338.1671539124.jpg?c=1">
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- FOOTWEAR -->
+      <div class="nav-item">
+        Footwear
+        <div class="dropdown">
+          <div class="drop-links">
+            <h4>Footwear</h4>
+            <a href="/products/shop?category=Shoes">All Sneaker & Shoes</a>
+          </div>
+
+          <div class="drop-links">
+            <h4>Brands</h4>
+            <a href="/products/shop?brand=Adidas&category=Shoes">Adidas</a>
+            <a href="/products/shop?brand=Nike&category=Shoes">Nike</a>
+            <a href="/products/shop?brand=Balenciaga&category=Shoes">Balenciaga</a>
+            <a href="/products/shop?brand=A+Bathing+Ape&category=Shoes">A Bathing Ape</a>
+            <a href="/products/shop?brand=Crocs&category=Shoes">Crocs</a>
+            <a href="/products/shop?brand=Gucci&category=Shoes">Gucci</a>
+          </div>
+
+          <div class="drop-images">
+            <div>
+              <img src="https://assets.myntassets.com/w_360,q_50,,dpr_2,fl_progressive,f_webp/assets/images/2024/JULY/29/6xDjrKNT_1c000df180b841b690cd7ac98984e554.jpg">
+            </div>
+            <div>
+              <img src="https://www.campusshoes.com/cdn/shop/files/LEVEL_LEVEL_WHT-L.GRY_07_831c7a2c-ff1b-4011-9268-b11f984219c6_1024x.webp?v=1757580207">
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- ACCESSORIES -->
+      <div class="nav-item">
+        Accessories
+        <div class="dropdown">
+          <div class="drop-links">
+            <h4>Men</h4>
+            <a href="/products/shop?brand=Gucci&category=Accessories&department=men">Gucci</a>
+            <a href="/products/shop?brand=Dior&category=Accessories&department=men">Dior</a>
+            <a href="/products/shop?brand=Seiko&category=Accessories&department=men">Seiko</a>
+            <a href="/products/shop?brand=Louis+Vuitton&category=Accessories&department=men">Louis Vuitton</a>
+            <a href="/products/shop?brand=Hermès&category=Accessories&department=men">Hermès</a>
+          </div>
+
+          <div class="drop-links">
+            <h4>Women</h4>
+            <a href="/products/shop?brand=Gucci&category=Accessories&department=women">Gucci</a>
+            <a href="/products/shop?brand=Dior&category=Accessories&department=women">Dior</a>
+            <a href="/products/shop?brand=Seiko&category=Accessories&department=women">Seiko</a>
+            <a href="/products/shop?brand=Louis+Vuitton&category=Accessories&department=women">Louis Vuitton</a>
+            <a href="/products/shop?brand=Hermès&category=Accessories&department=women">Hermès</a>
+            <a href="/products/shop?brand=Chanel&category=Accessories&department=women">Chanel</a>
+          </div>
+
+          <div class="drop-images">
+            <div>
+              <img src="https://m.media-amazon.com/images/I/71F96Kn8k9L._AC_UY1000_.jpg">
+            </div>
+            <div>
+              <img src="https://www.pickett.co.uk/cdn/shop/files/short-wallet-wallets-928172_1000x.jpg?v=1757701061">
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </nav>
+
+    <%- include("loginModal") %>
+
+  </header>
+
+  <script src="/js/login.js"></script>
+  <script>
+    const USER_ROLE = "<%= user ? user.role : '' %>";
+  </script>
+  <script>
+    const cartBtn = document.querySelector(".cart-icon");
+
+    if (cartBtn && !USER_ROLE) {
+      cartBtn.addEventListener("click", function (e) {
+        e.preventDefault();
+        openLoginModal();
+      });
+    }
+  </script>
+  <script>
+    const wishBtn = document.querySelector(".wishlist-icon");
+
+    if (wishBtn) {
+      wishBtn.addEventListener("click", function (e) {
+
+        // ถ้าไม่ login หรือเป็น admin → เปิด modal
+        if (!USER_ROLE || USER_ROLE === "admin") {
+          e.preventDefault();
+          openLoginModal();
+        }
+
+      });
+    }
+  </script>
+  <script src="/js/main.js"></script>
