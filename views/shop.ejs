@@ -1,5 +1,8 @@
 <%- include("partials/header") %>
 
+<link rel="stylesheet" href="/css/shop.css">
+
+
     <% const safeQuery=query || {}; const normalize=(val)=>
         val ? (Array.isArray(val) ? val : [val]) : [];
 
@@ -151,10 +154,10 @@
 
                                     <a href="/products/<%= product.id %>">
                                         <img src="<%= product.images[0] %>" class="product-image" alt="">
-                                        <h3>
+                                        <h3 >
                                             <%= product.name %>
                                         </h3>
-                                        <p>$<%= product.price %>
+                                        <p >$<%= product.price %>
                                         </p>
                                     </a>
 
