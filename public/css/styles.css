@@ -58,17 +58,264 @@ body {
   color: #aaa;
 }
 
+/* HEADER TOP */
+
+.header-top {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  padding: 20px 40px;
+}
+
+/* logo */
+
+.logo {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #111
+}
+
+/* right side icons */
+
+.header-icons {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 6px;
+}
+
+/* search */
+
+.search {
+  height: 30px;
+  padding: 0 24px;
+  border: 1px solid #000;
+  font-size: 14px;
+  margin-right: 12px;
+}
+
+/* username */
+
+
+.username-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  font-size: 14px;
+}
+
+/* ซ่อน logout ก่อน */
+.logout-text {
+  display: none;
+}
+
+/* ตอน hover */
+.username-button:hover .user-text {
+  display: none;
+}
+
+.username-button:hover .logout-text {
+  display: inline;
+}
+
+/* logout form */
+
+.header-icons form {
+  display: flex;
+  align-items: center;
+}
+
+/* wishlist icon */
+
+.wishlist-icon {
+  font-size: 24px;
+  text-decoration: none;
+  color: #000;
+  display: flex;
+  align-items: center;
+  transition: 0.2s ease;
+  margin-right: 1%;
+}
+
+.wishlist-icon:hover {
+  color: #e63946;
+  transform: scale(1.2);
+}
+
+/* cart icon */
+
+.cart-icon {
+  font-size: 22px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  margin-left: 6px;
+}
+
+/* wishlist icon */
+.wishlist-icon {
+  font-size: 26px;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #000000;
+  margin-left: 15px;
+  transition: all 0.2s ease;
+}
+
+
+/* hover */
+.wishlist-icon:hover {
+  color: #e63946;
+  transform: scale(1.2);
+}
+
+/* LOGIN BUTTON */
+
+.user-icon {
+  background: white;
+  color: black;
+  border: 1px solid black;
+  padding: 6px 14px;
+  cursor: pointer;
+  text-decoration: none;
+  /* removes underline */
+  display: inline-block;
+  /* makes link behave like button */
+
+  font-size: 14px;
+  font-family: Arial;
+}
+
+/* NAVBAR */
+
+.nav-bar {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 15px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  position: relative;
+  z-index: 10;
+}
+
+.nav-item {
+
+  cursor: pointer;
+
+}
+
+.red {
+  color: rgb(178, 0, 0);
+}
+
+/* DROPDOWN */
+
+
+.dropdown {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translateX(-50%) translateY(10px);
+
+  width: 900px;
+  background: white;
+
+  padding: 30px;
+  gap: 40px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  border: 1px solid black;
+  /* Appearing anim */
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.5s ease;
+
+  /* Layer */
+  z-index: 50;
+}
 
 
 
+.dropdown.sale {
 
+  width: 450px;
 
+}
 
+.dropdown.launches {
 
+  width: 600px;
 
+}
 
+.nav-item:hover .dropdown {
+  display: flex;
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(0);
+  transition: all 0.5s ease;
+}
 
+.drop-links {
+  width: 200px;
+}
 
+.drop-images {
+  display: flex;
+  gap: 20px;
+}
+
+.drop-images img {
+  width: 180px;
+  height: 120px;
+  object-fit: cover;
+}
+
+/* LOGIN MODAL */
+
+.login-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.login-box {
+  position: relative;
+  background: white;
+  padding: 40px;
+  width: 420px;
+}
+
+.close-btn {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.login-row {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 0;
+}
+
+button {
+  background: rgb(255, 255, 255);
+  color: black;
+  border: 1px solid black;
+  padding: 6px 14px;
+  cursor: pointer;
+}
 
 /*PRODUCT GRID*/
 
@@ -216,17 +463,110 @@ body {
   transform: translateY(0);
 }
 
+/* Black annoucement bar  */
+
+.announcement-bar {
+  background: #111;
+  color: white;
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 14px;
+  padding: 12px 0;
+  letter-spacing: 1px;
+  font-weight: 500;
+}
+
+.announcement-track {
+  display: inline-block;
+
+  animation: scrollText 60s linear infinite;
+}
+
+.announcement-track span {
+  margin: 0 15px;
+}
+
+@keyframes scrollText {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-50%);
+  }
+}
 
 /* HERO SECTION */
 
+.hero {
+  position: relative;
+  width: 100%;
+  height: 80vh;
+  overflow: hidden;
+}
 
+.hero-cta {
+  background: rgb(0, 0, 0);
+  opacity: 0.8;
+  color: white;
+  padding: 7px 15px;
+  font-size: 14px;
+  cursor: pointer;
+  margin-top: 20px;
+  text-decoration: none;
 
+}
 
+.hero-cta:hover {
+  background: rgb(25, 25, 25);
+  opacity: 0.5;
+}
 
+/* SLIDES */
 
+.slides {
+  position: relative;
+  height: 100%;
+  z-index: 1;
+}
 
+.slide {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  transition: opacity .6s ease;
+}
 
+.slide.active {
+  opacity: 1;
+}
 
+/* HERO TEXT */
+.hero-content {
+  position: absolute;
+  bottom: 15%;
+  left: 8%;
+  color: white;
+  z-index: 3;
+}
+
+/* ARROWS */
+
+.slider-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.4);
+  color: white;
+  border: none;
+  font-size: 28px;
+  padding: 8px 14px;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 1s ease;
+  z-index: 3;
+  /* important */
+}
 
 .hero:hover .slider-arrow {
   opacity: 1;
@@ -1427,8 +1767,43 @@ body {
   transition: all 0.8s cubic-bezier(.2, .8, .2, 1);
 }
 
+.cart-link {
+  position: relative;
+  display: inline-block;
+}
 
+#cart-count {
+  position: absolute;
+  top: -6px;
+  right: -10px;
 
+  background: rgb(86, 86, 86);
+  color: white;
+
+  font-size: 12px;
+  font-weight: bold;
+
+  padding: 2px 6px;
+  border-radius: 50%;
+}
+
+#cart-count.bump {
+  animation: bump 0.3s ease;
+}
+
+@keyframes bump {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.3);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
 
 /* EMPTY CART */
 
