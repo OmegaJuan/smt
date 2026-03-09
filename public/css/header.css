@@ -256,7 +256,7 @@ body {
 /* LOGIN BUTTON */
 
 .user-icon {
-  background: rgb(206, 4, 4);
+  background: rgb(255, 255, 255);
   color: black;
   border: 1px solid black;
   padding: 6px 14px;
@@ -416,5 +416,6 @@ button {
     transform: scale(1);
   }
 }
+
 
 
